@@ -1,0 +1,16 @@
+{
+  "$schema": "https://skills.sh/schema/v1.json",
+  "name": "privacy-skills",
+  "description": "257 professional privacy engineering & compliance procedures for AI coding agents across GDPR, CCPA, EU AI Act, HIPAA, LGPD, and global standards",
+  "version": "1.0.0",
+  "author": "imMamdouhaboammar",
+  "repository": "https://github.com/imMamdouhaboammar/privacy-skills",
+  "license": "Apache-2.0",
+  "categories": [
+    "privacy",
+    "compliance",
+    "security",
+    "ai-governance"
+  ],
+  "entry": "SKILL.md"
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://anthropic.com/schemas/claude-marketplace.json",
+  "name": "privacy-skills",
+  "version": "1.0.0",
+  "displayName": "Privacy & Data Protection Skills",
+  "description": "257 structured, machine-readable privacy engineering and compliance procedures for AI agents covering GDPR, CCPA, EU AI Act, HIPAA, LGPD, and global standards.",
+  "publisher": "imMamdouhaboammar",
+  "repository": "https://github.com/imMamdouhaboammar/privacy-skills",
+  "license": "Apache-2.0",
+  "icon": "assets/icon.png",
+  "tags": [
+    "privacy",
+    "gdpr",
+    "ccpa",
+    "hipaa",
+    "eu-ai-act",
+    "compliance",
+    "security"
+  ],
+  "skills": [
+    {
+      "name": "privacy-skills",
+      "path": "SKILL.md",
+      "description": "Universal privacy & data protection orchestrator routing across 257 specialized procedures"
+    }
+  ]
+}

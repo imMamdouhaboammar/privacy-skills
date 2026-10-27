@@ -1,0 +1,39 @@
+{
+  "name": "privacy-skills",
+  "version": "1.0.0",
+  "description": "257 professional privacy engineering & data protection skills for AI coding agents across GDPR, CCPA, EU AI Act, HIPAA, LGPD, and global standards",
+  "keywords": [
+    "privacy",
+    "gdpr",
+    "ccpa",
+    "hipaa",
+    "eu-ai-act",
+    "dpia",
+    "owasp",
+    "nist",
+    "ai-agents",
+    "claude-code",
+    "gemini-cli",
+    "antigravity",
+    "cursor"
+  ],
+  "author": "Mamdouh Aboammar <https://github.com/imMamdouhaboammar>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/imMamdouhaboammar/privacy-skills#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imMamdouhaboammar/privacy-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imMamdouhaboammar/privacy-skills/issues"
+  },
+  "type": "module",
+  "bin": {
+    "privacy-skills": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "python3 scripts/verify-all.py",
+    "route": "python3 scripts/router.py",
+    "stats": "python3 scripts/router.py --stats"
+  }
+}
