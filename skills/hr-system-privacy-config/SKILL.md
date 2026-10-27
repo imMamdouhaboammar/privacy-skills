@@ -1,19 +1,20 @@
 ---
 name: hr-system-privacy-config
-description: >-
-  Configures privacy settings for enterprise HR systems including SAP
-  SuccessFactors, Workday, and BambooHR. Covers role-based access controls,
-  automated data retention enforcement, cross-border transfer configurations,
-  audit logging, data subject rights facilitation, and field-level security.
-  Keywords: HR system, SAP SuccessFactors, Workday, BambooHR, RBAC,
-  retention automation, cross-border transfer, privacy configuration.
+description: 'Use when configuring privacy settings for enterprise HR systems including
+  SAP SuccessFactors, Workday, and BambooHR. Covers role-based access controls, automated
+  data retention enforcement, cross-border transfer configurations, audit logging,
+  data subject rights facilitation, and field-level security. Keywords: HR system,
+  SAP SuccessFactors, Workday, BambooHR, RBAC, retention automation, cross-border
+  transfer, privacy configuration. Do NOT use for public customer CRM lead tracking
+  or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "hr-system, sap-successfactors, workday, bamboohr, rbac, retention-automation, privacy-config"
+  tags: hr-system, sap-successfactors, workday, bamboohr, rbac, retention-automation,
+    privacy-config
 ---
 
 # HR System Privacy Configuration

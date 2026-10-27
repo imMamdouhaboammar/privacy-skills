@@ -188,10 +188,10 @@ class DataMaskingEngine:
 
     @classmethod
     def mask(cls, value: str, field_type: str) -> str:
-        rule = cls.MASKING_RULES.get(field_type)
-        if rule is None:
+        mask_fn = cls.MASKING_RULES.get(field_type)
+        if mask_fn is None:
             return "***"
-        return rule(value)
+        return mask_fn(value)
 
     @classmethod
     def mask_record(cls, record: dict, field_types: dict, role: str, role_permissions: dict) -> dict:

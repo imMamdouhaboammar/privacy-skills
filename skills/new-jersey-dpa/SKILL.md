@@ -1,19 +1,19 @@
 ---
 name: new-jersey-dpa
-description: >-
-  New Jersey Data Privacy Act (NJDPA) compliance, effective January 15, 2025.
-  Covers consumer rights (access, correction, deletion, portability, opt-out),
-  controller obligations, sensitive data requirements, universal opt-out
-  mechanism recognition, 30-day cure period (sunsets after 18 months),
-  and AG enforcement. Keywords: NJDPA, New Jersey, data privacy, consumer
-  rights, sensitive data, universal opt-out, AG enforcement.
+description: 'Use when new Jersey Data Privacy Act (NJDPA) compliance, effective January
+  15, 2025. Covers consumer rights (access, correction, deletion, portability, opt-out),
+  controller obligations, sensitive data requirements, universal opt-out mechanism
+  recognition, 30-day cure period (sunsets after 18 months), and AG enforcement. Keywords:
+  NJDPA, New Jersey, data privacy, consumer rights, sensitive data, universal opt-out,
+  AG enforcement. Do NOT use for pure EU GDPR cross-border matters or non-US regional
+  frameworks.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "njdpa, new-jersey, consumer-rights, sensitive-data, universal-opt-out"
+  tags: njdpa, new-jersey, consumer-rights, sensitive-data, universal-opt-out
 ---
 
 # New Jersey Data Privacy Act (NJDPA)

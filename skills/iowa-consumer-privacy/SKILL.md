@@ -1,17 +1,17 @@
 ---
 name: iowa-consumer-privacy
-description: >-
-  Iowa Consumer Data Protection Act (ICDPA) compliance. Effective January 1,
-  2025. Covers consumer rights (access, delete, opt-out), controller thresholds
-  at 100,000 consumers, sensitive data opt-in consent, 90-day cure period,
-  and AG-only enforcement. Iowa Code Chapter 715D.
+description: Use when iowa Consumer Data Protection Act (ICDPA) compliance. Effective
+  January 1, 2025. Covers consumer rights (access, delete, opt-out), controller thresholds
+  at 100,000 consumers, sensitive data opt-in consent, 90-day cure period, and AG-only
+  enforcement. Iowa Code Chapter 715D. Do NOT use for pure EU GDPR cross-border matters
+  or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "iowa-icdpa, consumer-rights, sensitive-data, 90-day-cure, ag-enforcement"
+  tags: iowa-icdpa, consumer-rights, sensitive-data, 90-day-cure, ag-enforcement
 ---
 
 # Iowa Consumer Data Protection Act (ICDPA)

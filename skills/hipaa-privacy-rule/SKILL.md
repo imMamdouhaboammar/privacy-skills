@@ -1,18 +1,19 @@
 ---
 name: hipaa-privacy-rule
-description: >-
-  Implements HIPAA Privacy Rule requirements under 45 CFR §164.500-534 for
-  covered entities and business associates. Covers minimum necessary standard,
-  treatment-payment-operations exceptions, directory opt-out, personal
-  representative rules, and authorization requirements. Keywords: HIPAA Privacy
-  Rule, PHI, minimum necessary, TPO, authorization, covered entity.
+description: "Use when implementing HIPAA Privacy Rule requirements under 45 CFR \xA7\
+  164.500-534 for covered entities and business associates. Covers minimum necessary\
+  \ standard, treatment-payment-operations exceptions, directory opt-out, personal\
+  \ representative rules, and authorization requirements. Keywords: HIPAA Privacy\
+  \ Rule, PHI, minimum necessary, TPO, authorization, covered entity. Do NOT use for\
+  \ non-medical commercial retail apps or general e-commerce analytics."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, privacy-rule, phi, minimum-necessary, tpo, authorization, covered-entity, healthcare"
+  tags: hipaa, privacy-rule, phi, minimum-necessary, tpo, authorization, covered-entity,
+    healthcare
 ---
 
 # HIPAA Privacy Rule — 45 CFR §164.500-534

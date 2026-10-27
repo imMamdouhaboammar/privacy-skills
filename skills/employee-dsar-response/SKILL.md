@@ -1,20 +1,19 @@
 ---
 name: employee-dsar-response
-description: >-
-  Manages Data Subject Access Request procedures for employee requests under
-  Art. 15 GDPR. Covers scope of disclosable HR records, emails, CCTV footage,
-  performance reviews, monitoring data, and training records. Implements
-  third-party data redaction, legal professional privilege, exemptions for
-  ongoing proceedings, and the one-month response timeline. Keywords: DSAR,
-  subject access request, Art. 15, employee records, redaction, privilege,
-  HR data, SAR.
+description: 'Use when managing Data Subject Access Request procedures for employee
+  requests under Art. 15 GDPR. Covers scope of disclosable HR records, emails, CCTV
+  footage, performance reviews, monitoring data, and training records. Implements
+  third-party data redaction, legal professional privilege, exemptions for ongoing
+  proceedings, and the one-month response timeline. Keywords: DSAR, subject access
+  request, Art. 15, employee records, redaction, privilege, HR data, SAR. Do NOT use
+  for public customer CRM lead tracking or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "dsar, subject-access-request, article-15, employee-records, redaction, privilege"
+  tags: dsar, subject-access-request, article-15, employee-records, redaction, privilege
 ---
 
 # Employee DSAR Response

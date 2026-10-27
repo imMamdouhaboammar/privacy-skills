@@ -1,20 +1,20 @@
 ---
 name: audit-risk-assessment
-description: >-
-  Guides privacy audit risk assessment including risk universe development,
-  inherent and residual risk scoring, control effectiveness evaluation,
-  risk-based audit planning, heat map generation, risk appetite alignment,
-  and audit prioritization by risk exposure. Covers the full audit risk
-  assessment cycle from scoping through ongoing monitoring. Keywords: audit
-  risk assessment, risk universe, inherent risk, residual risk, control
-  effectiveness, risk-based audit planning.
+description: 'Use when guiding or evaluating privacy audit risk assessment including
+  risk universe development, inherent and residual risk scoring, control effectiveness
+  evaluation, risk-based audit planning, heat map generation, risk appetite alignment,
+  and audit prioritization by risk exposure. Covers the full audit risk assessment
+  cycle from scoping through ongoing monitoring. Keywords: audit risk assessment,
+  risk universe, inherent risk, residual risk, control effectiveness, risk-based audit
+  planning. Do NOT use for routine code unit test suites or continuous integration
+  pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "audit-risk-assessment, risk-universe, inherent-risk, residual-risk, control-effectiveness"
+  tags: audit-risk-assessment, risk-universe, inherent-risk, residual-risk, control-effectiveness
 ---
 
 # Privacy Audit Risk Assessment

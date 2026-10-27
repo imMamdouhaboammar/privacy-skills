@@ -1,18 +1,19 @@
 ---
 name: classification-policy
-description: >-
-  Develops data classification policies with tiered handling (public, internal,
-  confidential, restricted), labeling requirements, enforcement mechanisms, and
-  procedures per tier. Covers policy governance, exception handling, and
-  compliance monitoring. Keywords: classification policy, data tiers, handling
-  procedures, labeling, enforcement, data governance, information security.
+description: 'Use when develops data classification policies with tiered handling
+  (public, internal, confidential, restricted), labeling requirements, enforcement
+  mechanisms, and procedures per tier. Covers policy governance, exception handling,
+  and compliance monitoring. Keywords: classification policy, data tiers, handling
+  procedures, labeling, enforcement, data governance, information security. Do NOT
+  use for database index optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "classification-policy, data-tiers, handling-procedures, labeling, enforcement, governance"
+  tags: classification-policy, data-tiers, handling-procedures, labeling, enforcement,
+    governance
 ---
 
 # Data Classification Policy Development

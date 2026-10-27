@@ -1,19 +1,19 @@
 ---
 name: comparing-pia-methodologies
-description: >-
-  Compares PIA/DPIA methodologies: CNIL PIA tool, ICO DPIA template, NIST
-  Privacy Framework, and ISO 29134. Provides methodology selection criteria
-  based on regulatory jurisdiction, organisation maturity, processing
-  complexity, and resource availability. Covers regulatory acceptance,
-  tool features, and cross-methodology mapping. Keywords: PIA methodology,
-  CNIL, ICO, NIST Privacy Framework, ISO 29134, DPIA comparison, assessment.
+description: 'Use when compares PIA/DPIA methodologies: CNIL PIA tool, ICO DPIA template,
+  NIST Privacy Framework, and ISO 29134. Provides methodology selection criteria based
+  on regulatory jurisdiction, organisation maturity, processing complexity, and resource
+  availability. Covers regulatory acceptance, tool features, and cross-methodology
+  mapping. Keywords: PIA methodology, CNIL, ICO, NIST Privacy Framework, ISO 29134,
+  DPIA comparison, assessment. Do NOT use for routine software feature roadmap planning
+  or general QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "pia-methodology, cnil, ico, nist-privacy-framework, iso-29134, dpia-comparison"
+  tags: pia-methodology, cnil, ico, nist-privacy-framework, iso-29134, dpia-comparison
 ---
 
 # Comparing PIA Methodologies

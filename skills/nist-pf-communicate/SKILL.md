@@ -1,17 +1,18 @@
 ---
 name: nist-pf-communicate
-description: >-
-  Implement the NIST Privacy Framework COMMUNICATE function covering CM.AW
-  awareness raising and CM.PO communication policies. Provides transparency
-  mechanisms, stakeholder engagement frameworks, privacy notice templates,
-  and communication workflow guidance.
+description: Use when implement the NIST Privacy Framework COMMUNICATE function covering
+  CM.AW awareness raising and CM.PO communication policies. Provides transparency
+  mechanisms, stakeholder engagement frameworks, privacy notice templates, and communication
+  workflow guidance. Do NOT use for generic mathematical computing or non-privacy
+  algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "nist-privacy-framework, communicate-function, privacy-transparency, stakeholder-engagement, privacy-notices"
+  tags: nist-privacy-framework, communicate-function, privacy-transparency, stakeholder-engagement,
+    privacy-notices
 ---
 
 # NIST Privacy Framework — COMMUNICATE Function

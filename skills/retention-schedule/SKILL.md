@@ -1,17 +1,18 @@
 ---
 name: retention-schedule
-description: >-
-  Designs and implements data retention schedules compliant with GDPR Article 5(1)(e) storage
-  limitation principle. Maps data categories to retention periods with legal basis justification,
-  regulatory minimum holding periods, and automated review triggers for schedule maintenance.
-  Activate for retention policy, storage limitation, data lifecycle, retention period queries.
+description: Use when designing and implements data retention schedules compliant
+  with GDPR Article 5(1)(e) storage limitation principle. Maps data categories to
+  retention periods with legal basis justification, regulatory minimum holding periods,
+  and automated review triggers for schedule maintenance. Activate for retention policy,
+  storage limitation, data lifecycle, retention period queries. Do NOT use for active
+  database performance tuning or temporary in-memory session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "retention-schedule, storage-limitation, gdpr-article-5, data-lifecycle, retention-period"
+  tags: retention-schedule, storage-limitation, gdpr-article-5, data-lifecycle, retention-period
 ---
 
 # Data Retention Schedule Design and Implementation

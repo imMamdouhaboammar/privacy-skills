@@ -1,17 +1,17 @@
 ---
 name: vendor-breach-cascade
-description: >-
-  Vendor breach notification cascade management per GDPR Article 33(2). Covers
-  processor-to-controller notification without undue delay, escalation paths,
-  coordinated multi-party breach response, liability allocation, and regulatory
-  notification coordination.
+description: Use when vendor breach notification cascade management per GDPR Article
+  33(2). Covers processor-to-controller notification without undue delay, escalation
+  paths, coordinated multi-party breach response, liability allocation, and regulatory
+  notification coordination. Do NOT use for internal employee performance evaluations
+  or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "vendor-breach, art-33, breach-cascade, notification-chain, incident-response"
+  tags: vendor-breach, art-33, breach-cascade, notification-chain, incident-response
 ---
 
 # Vendor Breach Notification Cascade

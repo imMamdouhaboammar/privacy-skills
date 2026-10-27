@@ -1,19 +1,18 @@
 ---
 name: coppa-compliance
-description: >-
-  Implements Children's Online Privacy Protection Act (COPPA) compliance
-  under 16 CFR Part 312. Covers verifiable parental consent methods
-  including signed forms, credit card verification, government ID,
-  knowledge-based authentication, and video call. Includes FTC safe
-  harbor programs and enforcement actions. Keywords: COPPA, FTC,
-  children, parental consent, safe harbor, verifiable consent.
+description: 'Use when implementing Children''s Online Privacy Protection Act (COPPA)
+  compliance under 16 CFR Part 312. Covers verifiable parental consent methods including
+  signed forms, credit card verification, government ID, knowledge-based authentication,
+  and video call. Includes FTC safe harbor programs and enforcement actions. Keywords:
+  COPPA, FTC, children, parental consent, safe harbor, verifiable consent. Do NOT
+  use for standard adult-only user onboarding or general non-age-restricted services.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: children-data-protection
-  tags: "coppa, ftc, children-privacy, parental-consent, safe-harbor, verifiable-consent"
+  tags: coppa, ftc, children-privacy, parental-consent, safe-harbor, verifiable-consent
 ---
 
 # COPPA Compliance — Children's Online Privacy Protection Act

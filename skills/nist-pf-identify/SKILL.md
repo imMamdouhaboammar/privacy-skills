@@ -1,17 +1,18 @@
 ---
 name: nist-pf-identify
-description: >-
-  Implement the NIST Privacy Framework IDENTIFY function including ID.BE business
-  environment, ID.DA data actions, ID.IM improvement, and ID.RA risk assessment
-  subcategories. Provides control mapping, gap analysis templates, and
-  implementation workflows for privacy risk identification.
+description: Use when implement the NIST Privacy Framework IDENTIFY function including
+  ID.BE business environment, ID.DA data actions, ID.IM improvement, and ID.RA risk
+  assessment subcategories. Provides control mapping, gap analysis templates, and
+  implementation workflows for privacy risk identification. Do NOT use for generic
+  mathematical computing or non-privacy algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "nist-privacy-framework, identify-function, privacy-risk-assessment, data-actions, business-environment"
+  tags: nist-privacy-framework, identify-function, privacy-risk-assessment, data-actions,
+    business-environment
 ---
 
 # NIST Privacy Framework — IDENTIFY Function

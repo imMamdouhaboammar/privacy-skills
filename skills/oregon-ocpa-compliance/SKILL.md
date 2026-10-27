@@ -1,17 +1,17 @@
 ---
 name: oregon-ocpa-compliance
-description: >-
-  Oregon Consumer Privacy Act (OCPA) compliance. Unique provisions for
-  de-identified data requirements, employee data partial exemption,
-  nonprofit applicability, 14-day cure period, and consumer rights.
-  Effective July 1, 2024. AG enforcement only.
+description: Use when oregon Consumer Privacy Act (OCPA) compliance. Unique provisions
+  for de-identified data requirements, employee data partial exemption, nonprofit
+  applicability, 14-day cure period, and consumer rights. Effective July 1, 2024.
+  AG enforcement only. Do NOT use for pure EU GDPR cross-border matters or non-US
+  regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "oregon-ocpa, deidentified-data, employee-exemption, nonprofit, cure-period"
+  tags: oregon-ocpa, deidentified-data, employee-exemption, nonprofit, cure-period
 ---
 
 # Oregon Consumer Privacy Act (OCPA)

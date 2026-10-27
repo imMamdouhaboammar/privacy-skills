@@ -1,19 +1,19 @@
 ---
 name: hipaa-security-rule
-description: >-
-  Implements HIPAA Security Rule technical safeguards under 45 CFR §164.312
-  for electronic protected health information. Covers access controls with
-  unique user identification, emergency access procedures, automatic logoff,
-  encryption, audit controls, integrity controls, and transmission security.
-  Keywords: HIPAA Security Rule, ePHI, access controls, encryption, audit
-  controls, technical safeguards.
+description: "Use when implementing HIPAA Security Rule technical safeguards under\
+  \ 45 CFR \xA7164.312 for electronic protected health information. Covers access\
+  \ controls with unique user identification, emergency access procedures, automatic\
+  \ logoff, encryption, audit controls, integrity controls, and transmission security.\
+  \ Keywords: HIPAA Security Rule, ePHI, access controls, encryption, audit controls,\
+  \ technical safeguards. Do NOT use for non-medical commercial retail apps or general\
+  \ e-commerce analytics."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, security-rule, ephi, access-controls, encryption, audit-controls, technical-safeguards"
+  tags: hipaa, security-rule, ephi, access-controls, encryption, audit-controls, technical-safeguards
 ---
 
 # HIPAA Security Rule — Technical Safeguards 45 CFR §164.312

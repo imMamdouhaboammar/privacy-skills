@@ -1,18 +1,19 @@
 ---
 name: indirect-collection-notice
-description: >-
-  Provides GDPR Article 14 information for personal data obtained from sources
-  other than the data subject, covering timing requirements (within reasonable
-  period, max one month), source disclosure, all required elements, and
-  exemptions under Art. 14(5). Activate for Art. 14, indirect collection,
-  third-party data source, indirect data notice queries.
+description: Use when configuring or providing GDPR Article 14 information for personal
+  data obtained from sources other than the data subject, covering timing requirements
+  (within reasonable period, max one month), source disclosure, all required elements,
+  and exemptions under Art. 14(5). Activate for Art. 14, indirect collection, third-party
+  data source, indirect data notice queries. Do NOT use for general administrative
+  user profile CRUD updates or routine password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "indirect-collection, gdpr-article-14, third-party-data, source-disclosure, privacy-notice"
+  tags: indirect-collection, gdpr-article-14, third-party-data, source-disclosure,
+    privacy-notice
 ---
 
 # Providing Indirect Collection Information

@@ -1,19 +1,19 @@
 ---
 name: 42-cfr-part-2
-description: >-
-  Implements 42 CFR Part 2 protections for substance use disorder patient
-  records. Covers written consent requirements stricter than HIPAA,
-  re-disclosure prohibition, court order procedures, qualified service
-  organization agreements, and 2024 amendments aligning Part 2 with HIPAA.
-  Keywords: 42 CFR Part 2, substance use disorder, SUD records,
-  re-disclosure, consent, Part 2 amendments.
+description: 'Use when implementing 42 CFR Part 2 protections for substance use disorder
+  patient records. Covers written consent requirements stricter than HIPAA, re-disclosure
+  prohibition, court order procedures, qualified service organization agreements,
+  and 2024 amendments aligning Part 2 with HIPAA. Keywords: 42 CFR Part 2, substance
+  use disorder, SUD records, re-disclosure, consent, Part 2 amendments. Do NOT use
+  for non-medical commercial retail apps or general e-commerce analytics.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "42-cfr-part-2, substance-use-disorder, sud-records, re-disclosure, consent, court-order"
+  tags: 42-cfr-part-2, substance-use-disorder, sud-records, re-disclosure, consent,
+    court-order
 ---
 
 # 42 CFR Part 2 — Substance Use Disorder Records

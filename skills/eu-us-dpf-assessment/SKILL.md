@@ -1,17 +1,19 @@
 ---
 name: eu-us-dpf-assessment
-description: >-
-  Guides assessment and use of the EU-US Data Privacy Framework adequacy decision
-  for transatlantic data transfers. Covers DPF self-certification with the Department
-  of Commerce, DPF principles compliance, Data Protection Review Court, and annual
-  EC review. Keywords: DPF, EU-US, adequacy, Privacy Shield, transatlantic transfers.
+description: 'Use when guiding or evaluating assessment and use of the EU-US Data
+  Privacy Framework adequacy decision for transatlantic data transfers. Covers DPF
+  self-certification with the Department of Commerce, DPF principles compliance, Data
+  Protection Review Court, and annual EC review. Keywords: DPF, EU-US, adequacy, Privacy
+  Shield, transatlantic transfers. Do NOT use for intra-datacenter local networking
+  or single-jurisdiction domestic operations.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cross-border-transfers
-  tags: "dpf, eu-us-data-privacy-framework, adequacy-decision, transatlantic-transfers, self-certification"
+  tags: dpf, eu-us-data-privacy-framework, adequacy-decision, transatlantic-transfers,
+    self-certification
 ---
 
 # Assessing the EU-US Data Privacy Framework

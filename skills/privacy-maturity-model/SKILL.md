@@ -1,18 +1,19 @@
 ---
 name: privacy-maturity-model
-description: >-
-  Guides privacy program maturity assessment using the AICPA/CIPT Privacy Maturity
-  Model with five levels: Ad Hoc, Repeating, Defined, Managed, and Optimized.
-  Covers assessment methodology across ten privacy domains, scoring criteria,
-  gap analysis, maturity roadmap generation, and benchmarking against industry peers.
-  Keywords: privacy maturity, AICPA, maturity model, assessment, roadmap, benchmarking.
+description: 'Use when guiding or evaluating privacy program maturity assessment using
+  the AICPA/CIPT Privacy Maturity Model with five levels: Ad Hoc, Repeating, Defined,
+  Managed, and Optimized. Covers assessment methodology across ten privacy domains,
+  scoring criteria, gap analysis, maturity roadmap generation, and benchmarking against
+  industry peers. Keywords: privacy maturity, AICPA, maturity model, assessment, roadmap,
+  benchmarking. Do NOT use for routine code unit test suites or continuous integration
+  pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "privacy-maturity, aicpa, maturity-model, assessment, roadmap, benchmarking"
+  tags: privacy-maturity, aicpa, maturity-model, assessment, roadmap, benchmarking
 ---
 
 # Privacy Maturity Model Assessment

@@ -1,17 +1,17 @@
 ---
 name: consent-record-keeping
-description: >-
-  Guide for building a consent record-keeping system to demonstrate valid consent
-  per GDPR Article 7(1). Covers required fields including timestamp, version, purpose,
-  mechanism, and identity. Implements audit-ready consent receipts per the Kantara
-  Initiative Consent Receipt Specification and supervisory authority expectations.
+description: Use when guide for building a consent record-keeping system to demonstrate
+  valid consent per GDPR Article 7(1). Covers required fields including timestamp,
+  version, purpose, mechanism, and identity. Implements audit-ready consent receipts
+  per the Kantara Initiative Consent Receipt Specification and supervisory authority
+  expectations. Do NOT use for server-side cache headers or non-browser API rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "consent-records, article-7-1, kantara-consent-receipt, audit-trail, consent-proof"
+  tags: consent-records, article-7-1, kantara-consent-receipt, audit-trail, consent-proof
 ---
 
 # Building Consent Record-Keeping

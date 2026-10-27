@@ -1,18 +1,18 @@
 ---
 name: korea-pipa
-description: >-
-  Guides compliance with South Korea's Personal Information Protection Act (PIPA,
-  개인정보 보호법). Covers pseudonymisation framework, notification requirements,
-  PIPC enforcement, consent standards, and cross-border transfer rules under the
-  2023 amendments. Keywords: PIPA, Korea data protection, PIPC, pseudonymisation,
-  consent, cross-border transfers.
+description: "Use when guiding or evaluating compliance with South Korea's Personal\
+  \ Information Protection Act (PIPA, \uAC1C\uC778\uC815\uBCF4 \uBCF4\uD638\uBC95\
+  ). Covers pseudonymisation framework, notification requirements, PIPC enforcement,\
+  \ consent standards, and cross-border transfer rules under the 2023 amendments.\
+  \ Keywords: PIPA, Korea data protection, PIPC, pseudonymisation, consent, cross-border\
+  \ transfers. Do NOT use for generic software engineering or non-privacy legal documentation."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "pipa, korea-data-protection, pipc, pseudonymisation, cross-border-transfers"
+  tags: pipa, korea-data-protection, pipc, pseudonymisation, cross-border-transfers
 ---
 
 # South Korea PIPA Compliance

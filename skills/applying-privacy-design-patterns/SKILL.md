@@ -1,17 +1,18 @@
 ---
 name: applying-privacy-design-patterns
-description: >-
-  Systematic application of the eight privacy design patterns per Hoepman: minimize,
-  hide, separate, abstract, inform, control, enforce, and demonstrate. Covers pattern
-  selection methodology per processing activity, mapping to GDPR principles, and
-  practical implementation guidance for privacy-by-design system architecture.
+description: 'Use when systematic application of the eight privacy design patterns
+  per Hoepman: minimize, hide, separate, abstract, inform, control, enforce, and demonstrate.
+  Covers pattern selection methodology per processing activity, mapping to GDPR principles,
+  and practical implementation guidance for privacy-by-design system architecture.
+  Do NOT use for aesthetic UI themes or superficial CSS component styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "privacy-design-patterns, hoepman, minimize-hide-separate, privacy-architecture, by-design"
+  tags: privacy-design-patterns, hoepman, minimize-hide-separate, privacy-architecture,
+    by-design
 ---
 
 # Applying Privacy Design Patterns

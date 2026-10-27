@@ -1,17 +1,17 @@
 ---
 name: nist-pf-protect
-description: >-
-  Implement the NIST Privacy Framework PROTECT function covering PR.AC access
-  control, PR.DS data security, and PR.PO protective policies. Provides
-  technical control implementation guidance, encryption standards, access
-  management architectures, and security-privacy integration patterns.
+description: Use when implement the NIST Privacy Framework PROTECT function covering
+  PR.AC access control, PR.DS data security, and PR.PO protective policies. Provides
+  technical control implementation guidance, encryption standards, access management
+  architectures, and security-privacy integration patterns. Do NOT use for generic
+  mathematical computing or non-privacy algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "nist-privacy-framework, protect-function, access-control, data-security, protective-policies"
+  tags: nist-privacy-framework, protect-function, access-control, data-security, protective-policies
 ---
 
 # NIST Privacy Framework — PROTECT Function

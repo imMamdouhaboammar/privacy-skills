@@ -1,18 +1,18 @@
 ---
 name: ccpa-consumer-requests
-description: >-
-  Manages California Consumer Privacy Act (CCPA) consumer rights requests under
-  Civil Code sections 1798.100-125, covering the right to know, right to delete,
-  right to opt-out of sale, and non-discrimination. Includes 45-day response
-  window and identity verification requirements. Activate for CCPA, California
-  privacy, right to know, right to delete, opt-out of sale queries.
+description: Use when managing California Consumer Privacy Act (CCPA) consumer rights
+  requests under Civil Code sections 1798.100-125, covering the right to know, right
+  to delete, right to opt-out of sale, and non-discrimination. Includes 45-day response
+  window and identity verification requirements. Activate for CCPA, California privacy,
+  right to know, right to delete, opt-out of sale queries. Do NOT use for general
+  administrative user profile CRUD updates or routine password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "ccpa, california-privacy, right-to-know, right-to-delete, opt-out-sale"
+  tags: ccpa, california-privacy, right-to-know, right-to-delete, opt-out-sale
 ---
 
 # Managing CCPA Consumer Requests

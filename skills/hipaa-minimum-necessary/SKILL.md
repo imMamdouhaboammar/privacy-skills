@@ -1,18 +1,19 @@
 ---
 name: hipaa-minimum-necessary
-description: >-
-  Implements HIPAA minimum necessary standard under 45 CFR §164.502(b).
-  Covers role-based access policies per workforce member category, routine
-  vs non-routine disclosure protocols, reasonable reliance doctrine,
-  documentation requirements, and HITECH amendments. Keywords: minimum
-  necessary, role-based access, workforce, routine disclosure, HIPAA.
+description: "Use when implementing HIPAA minimum necessary standard under 45 CFR\
+  \ \xA7164.502(b). Covers role-based access policies per workforce member category,\
+  \ routine vs non-routine disclosure protocols, reasonable reliance doctrine, documentation\
+  \ requirements, and HITECH amendments. Keywords: minimum necessary, role-based access,\
+  \ workforce, routine disclosure, HIPAA. Do NOT use for non-medical commercial retail\
+  \ apps or general e-commerce analytics."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, minimum-necessary, role-based-access, workforce, routine-disclosure, phi-limitation"
+  tags: hipaa, minimum-necessary, role-based-access, workforce, routine-disclosure,
+    phi-limitation
 ---
 
 # HIPAA Minimum Necessary Standard — 45 CFR §164.502(b)

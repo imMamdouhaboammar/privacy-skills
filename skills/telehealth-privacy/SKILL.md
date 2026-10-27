@@ -1,19 +1,20 @@
 ---
 name: telehealth-privacy
-description: >-
-  Implements telehealth privacy compliance covering HIPAA requirements for
-  virtual care, state licensing and recording consent laws, platform security
-  with BAA requirements for telehealth vendors, cross-state prescribing
-  rules, and OCR enforcement discretion during public health emergencies.
-  Keywords: telehealth privacy, virtual care, HIPAA, recording consent,
-  platform BAA, cross-state licensing, OCR enforcement.
+description: 'Use when implementing telehealth privacy compliance covering HIPAA requirements
+  for virtual care, state licensing and recording consent laws, platform security
+  with BAA requirements for telehealth vendors, cross-state prescribing rules, and
+  OCR enforcement discretion during public health emergencies. Keywords: telehealth
+  privacy, virtual care, HIPAA, recording consent, platform BAA, cross-state licensing,
+  OCR enforcement. Do NOT use for non-medical commercial retail apps or general e-commerce
+  analytics.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "telehealth, virtual-care, hipaa, recording-consent, platform-baa, cross-state-licensing, ocr-enforcement"
+  tags: telehealth, virtual-care, hipaa, recording-consent, platform-baa, cross-state-licensing,
+    ocr-enforcement
 ---
 
 # Telehealth Privacy Compliance

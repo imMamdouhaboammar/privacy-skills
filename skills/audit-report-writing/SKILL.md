@@ -1,20 +1,21 @@
 ---
 name: audit-report-writing
-description: >-
-  Guides privacy audit report writing including executive summary drafting,
-  findings classification (critical, high, medium, low), evidence referencing,
-  root cause analysis documentation, recommendation formulation, management
-  response tracking, and report distribution protocols. Covers report structure
-  from scope definition through appendices and sign-off. Keywords: audit report,
-  findings documentation, executive summary, recommendations, report structure,
-  privacy audit deliverables.
+description: 'Use when guiding or evaluating privacy audit report writing including
+  executive summary drafting, findings classification (critical, high, medium, low),
+  evidence referencing, root cause analysis documentation, recommendation formulation,
+  management response tracking, and report distribution protocols. Covers report structure
+  from scope definition through appendices and sign-off. Keywords: audit report, findings
+  documentation, executive summary, recommendations, report structure, privacy audit
+  deliverables. Do NOT use for routine code unit test suites or continuous integration
+  pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "audit-report, findings-documentation, executive-summary, recommendations, report-structure"
+  tags: audit-report, findings-documentation, executive-summary, recommendations,
+    report-structure
 ---
 
 # Privacy Audit Report Writing

@@ -1,17 +1,19 @@
 ---
 name: secure-data-destruction
-description: >-
-  Implements NIST SP 800-88 Rev. 1 media sanitization procedures including Clear, Purge, and
-  Destroy methods for all media types. Covers certificate of destruction generation, verification
-  procedures, vendor management for third-party destruction, and chain of custody documentation.
-  Activate for data destruction, media sanitization, secure erasure, certificate of destruction queries.
+description: Use when implementing NIST SP 800-88 Rev. 1 media sanitization procedures
+  including Clear, Purge, and Destroy methods for all media types. Covers certificate
+  of destruction generation, verification procedures, vendor management for third-party
+  destruction, and chain of custody documentation. Activate for data destruction,
+  media sanitization, secure erasure, certificate of destruction queries. Do NOT use
+  for active database performance tuning or temporary in-memory session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "secure-destruction, nist-800-88, media-sanitization, certificate-of-destruction, data-wiping"
+  tags: secure-destruction, nist-800-88, media-sanitization, certificate-of-destruction,
+    data-wiping
 ---
 
 # Secure Data Destruction

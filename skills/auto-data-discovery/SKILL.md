@@ -1,18 +1,18 @@
 ---
 name: auto-data-discovery
-description: >-
-  Implements automated PII discovery and classification using tools like
-  Microsoft Purview, BigID, OneTrust DataDiscovery, and AWS Macie. Covers
-  scanning schedules, accuracy tuning, false positive management, and
-  integration patterns. Keywords: data discovery, PII scanning, Purview,
-  BigID, Macie, OneTrust, automated classification, data cataloging.
+description: 'Use when implementing automated PII discovery and classification using
+  tools like Microsoft Purview, BigID, OneTrust DataDiscovery, and AWS Macie. Covers
+  scanning schedules, accuracy tuning, false positive management, and integration
+  patterns. Keywords: data discovery, PII scanning, Purview, BigID, Macie, OneTrust,
+  automated classification, data cataloging. Do NOT use for database index optimization
+  or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "data-discovery, pii-scanning, purview, bigid, macie, onetrust"
+  tags: data-discovery, pii-scanning, purview, bigid, macie, onetrust
 ---
 
 # Automated PII Discovery and Classification

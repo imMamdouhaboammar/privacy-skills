@@ -1,19 +1,19 @@
 ---
 name: audit-sampling-methods
-description: >-
-  Guides privacy audit sampling methodology including statistical and
-  non-statistical sampling, sample size determination, stratification
-  techniques, attribute sampling for compliance testing, confidence level
-  selection, tolerable deviation rates, and extrapolation of results to
-  the population. Keywords: audit sampling, statistical sampling, attribute
-  testing, sample size, confidence level, stratified sampling, privacy audit.
+description: 'Use when guiding or evaluating privacy audit sampling methodology including
+  statistical and non-statistical sampling, sample size determination, stratification
+  techniques, attribute sampling for compliance testing, confidence level selection,
+  tolerable deviation rates, and extrapolation of results to the population. Keywords:
+  audit sampling, statistical sampling, attribute testing, sample size, confidence
+  level, stratified sampling, privacy audit. Do NOT use for routine code unit test
+  suites or continuous integration pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "audit-sampling, statistical-sampling, attribute-testing, sample-size, stratified-sampling"
+  tags: audit-sampling, statistical-sampling, attribute-testing, sample-size, stratified-sampling
 ---
 
 # Privacy Audit Sampling Methods

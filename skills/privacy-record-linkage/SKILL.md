@@ -1,17 +1,17 @@
 ---
 name: privacy-record-linkage
-description: >-
-  Implement privacy-preserving record linkage across datasets using Bloom filter
-  encoding, secure hash matching, threshold tuning for precision and recall,
-  and false positive management. Enables entity resolution without exposing
-  raw personally identifiable information between parties.
+description: Use when implement privacy-preserving record linkage across datasets
+  using Bloom filter encoding, secure hash matching, threshold tuning for precision
+  and recall, and false positive management. Enables entity resolution without exposing
+  raw personally identifiable information between parties. Do NOT use for generic
+  mathematical computing or non-privacy algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "record-linkage, bloom-filters, entity-resolution, secure-matching, pprl"
+  tags: record-linkage, bloom-filters, entity-resolution, secure-matching, pprl
 ---
 
 # Privacy-Preserving Record Linkage

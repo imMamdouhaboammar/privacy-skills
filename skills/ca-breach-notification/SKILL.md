@@ -1,19 +1,19 @@
 ---
 name: ca-breach-notification
-description: >-
-  Executes breach notification under California Civil Code Section 1798.82
-  (California data breach notification law). Covers data elements triggering
-  notification, timing requirements (most expedient time possible), AG
-  notification for 500+ California residents, specific content and format
-  requirements, and substitute notice provisions. Keywords: California, breach
-  notification, Cal. Civ. Code 1798.82, attorney general, CCPA, data elements.
+description: 'Use when executes breach notification under California Civil Code Section
+  1798.82 (California data breach notification law). Covers data elements triggering
+  notification, timing requirements (most expedient time possible), AG notification
+  for 500+ California residents, specific content and format requirements, and substitute
+  notice provisions. Keywords: California, breach notification, Cal. Civ. Code 1798.82,
+  attorney general, CCPA, data elements. Do NOT use for routine non-security application
+  bug triage or scheduled system downtime notices.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-breach-response
-  tags: "california, breach-notification, civil-code-1798-82, attorney-general, ccpa"
+  tags: california, breach-notification, civil-code-1798-82, attorney-general, ccpa
 ---
 
 # Executing California Breach Notification

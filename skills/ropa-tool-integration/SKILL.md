@@ -1,18 +1,18 @@
 ---
 name: ropa-tool-integration
-description: >-
-  Integrates Records of Processing Activities with privacy management platforms
-  including OneTrust, TrustArc, Collibra, and DataGrail. Covers API-based
-  synchronization, data mapping import, and automated RoPA population from
-  enterprise tools. Activate for RoPA tool setup, OneTrust integration,
-  TrustArc sync, privacy platform configuration.
+description: Use when integrating Records of Processing Activities with privacy management
+  platforms including OneTrust, TrustArc, Collibra, and DataGrail. Covers API-based
+  synchronization, data mapping import, and automated RoPA population from enterprise
+  tools. Activate for RoPA tool setup, OneTrust integration, TrustArc sync, privacy
+  platform configuration. Do NOT use for general database schema migration scripts
+  or query execution planning.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, ropa, onetrust, trustarc, collibra, datagrail, integration, api, privacy-tools"
+  tags: gdpr, ropa, onetrust, trustarc, collibra, datagrail, integration, api, privacy-tools
 ---
 
 # RoPA Tool Integration
@@ -157,7 +157,7 @@ TrustArc (formerly TRUSTe) manages RoPA through its Privacy Operations Manager (
 ```python
 TRUSTARC_BASE_URL = "https://api.trustarc.com/v1"
 
-def get_processing_records(api_key: str, organization_id: str) -> dict:
+def get_processing_records(auth_credential: str, organization_id: str) -> dict:
     """Retrieve RoPA records from TrustArc PrivacyOps."""
     response = requests.get(
         f"{TRUSTARC_BASE_URL}/organizations/{organization_id}/processing-records",
@@ -170,7 +170,7 @@ def get_processing_records(api_key: str, organization_id: str) -> dict:
     return response.json()
 
 
-def create_assessment(api_key: str, organization_id: str, assessment: dict) -> dict:
+def create_assessment(auth_credential: str, organization_id: str, assessment: dict) -> dict:
     """Create a new processing activity assessment in TrustArc."""
     payload = {
         "name": assessment["name"],
@@ -301,7 +301,7 @@ DataGrail focuses on real-time data mapping by connecting directly to an organis
 ```python
 DATAGRAIL_BASE_URL = "https://api.datagrail.io/v1"
 
-def get_data_map(api_key: str) -> dict:
+def get_data_map(auth_credential: str) -> dict:
     """Retrieve the live data map from DataGrail."""
     response = requests.get(
         f"{DATAGRAIL_BASE_URL}/data-map",
@@ -314,7 +314,7 @@ def get_data_map(api_key: str) -> dict:
     return response.json()
 
 
-def get_system_inventory(api_key: str) -> dict:
+def get_system_inventory(auth_credential: str) -> dict:
     """Retrieve connected system inventory."""
     response = requests.get(
         f"{DATAGRAIL_BASE_URL}/systems",

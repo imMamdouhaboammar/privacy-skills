@@ -1,17 +1,18 @@
 ---
 name: restriction-of-processing
-description: >-
-  Handles GDPR Article 18 right to restriction of processing requests, covering
-  the four grounds for restriction (accuracy contest, unlawful processing,
-  erasure opposition, legitimate interest pending), technical flagging mechanisms,
-  and lifting procedures. Activate for restriction request, Art. 18, processing freeze queries.
+description: Use when handling GDPR Article 18 right to restriction of processing
+  requests, covering the four grounds for restriction (accuracy contest, unlawful
+  processing, erasure opposition, legitimate interest pending), technical flagging
+  mechanisms, and lifting procedures. Activate for restriction request, Art. 18, processing
+  freeze queries. Do NOT use for general administrative user profile CRUD updates
+  or routine password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "right-to-restriction, gdpr-article-18, processing-freeze, data-flagging, restriction-of-processing"
+  tags: right-to-restriction, gdpr-article-18, processing-freeze, data-flagging, restriction-of-processing
 ---
 
 # Handling Right to Restriction Requests

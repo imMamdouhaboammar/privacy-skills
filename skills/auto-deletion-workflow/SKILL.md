@@ -1,17 +1,18 @@
 ---
 name: auto-deletion-workflow
-description: >-
-  Implements automated data deletion workflows for GDPR Article 17 right to erasure and
-  retention period expiry. Covers cascading deletion across dependent systems, dependency
-  handling for referential integrity, confirmation logging, and audit trail generation.
-  Activate for automated deletion, erasure automation, data purge, retention expiry queries.
+description: Use when implementing automated data deletion workflows for GDPR Article
+  17 right to erasure and retention period expiry. Covers cascading deletion across
+  dependent systems, dependency handling for referential integrity, confirmation logging,
+  and audit trail generation. Activate for automated deletion, erasure automation,
+  data purge, retention expiry queries. Do NOT use for active database performance
+  tuning or temporary in-memory session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "automated-deletion, right-to-erasure, gdpr-article-17, data-purge, retention-expiry"
+  tags: automated-deletion, right-to-erasure, gdpr-article-17, data-purge, retention-expiry
 ---
 
 # Automated Data Deletion Workflow

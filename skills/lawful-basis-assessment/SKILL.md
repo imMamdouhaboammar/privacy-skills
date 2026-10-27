@@ -1,18 +1,18 @@
 ---
 name: lawful-basis-assessment
-description: >-
-  Guides determination of the correct lawful basis under GDPR Article 6(1)(a)-(f)
-  for each processing activity. Includes decision tree logic for consent vs
-  legitimate interest vs contract necessity. Activate when evaluating legal grounds
-  for processing or reviewing lawful basis selections. Keywords: lawful basis,
-  Article 6, consent, legitimate interest, legal obligation, contract.
+description: 'Use when guiding or evaluating determination of the correct lawful basis
+  under GDPR Article 6(1)(a)-(f) for each processing activity. Includes decision tree
+  logic for consent vs legitimate interest vs contract necessity. Activate when evaluating
+  legal grounds for processing or reviewing lawful basis selections. Keywords: lawful
+  basis, Article 6, consent, legitimate interest, legal obligation, contract. Do NOT
+  use for non-GDPR US-only local state compliance or general software testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: gdpr-compliance
-  tags: "gdpr, lawful-basis, article-6, consent, legitimate-interest, processing-grounds"
+  tags: gdpr, lawful-basis, article-6, consent, legitimate-interest, processing-grounds
 ---
 
 # Implementing Lawful Basis Assessment

@@ -1,19 +1,19 @@
 ---
 name: breach-risk-assessment
-description: >-
-  Determines whether a personal data breach triggers notification obligations
-  under GDPR Articles 33 and 34 using structured risk assessment methodology.
-  Covers breach type classification (CIA triad), data sensitivity scoring,
-  volume assessment, identifiability analysis, and consequence severity evaluation.
-  References EDPB Guidelines 01/2021 with 18 breach scenarios. Keywords: breach
-  risk assessment, GDPR, Article 33, Article 34, EDPB, notification threshold.
+description: 'Use when determines whether a personal data breach triggers notification
+  obligations under GDPR Articles 33 and 34 using structured risk assessment methodology.
+  Covers breach type classification (CIA triad), data sensitivity scoring, volume
+  assessment, identifiability analysis, and consequence severity evaluation. References
+  EDPB Guidelines 01/2021 with 18 breach scenarios. Keywords: breach risk assessment,
+  GDPR, Article 33, Article 34, EDPB, notification threshold. Do NOT use for routine
+  non-security application bug triage or scheduled system downtime notices.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-breach-response
-  tags: "breach-risk-assessment, gdpr, article-33, article-34, edpb, cia-triad"
+  tags: breach-risk-assessment, gdpr, article-33, article-34, edpb, cia-triad
 ---
 
 # Conducting Breach Risk Assessment
@@ -53,7 +53,7 @@ Accidental or unauthorized loss of access to, or destruction of, personal data.
 |----------|-------------------|
 | Ransomware encrypts the HR system for 48 hours; clean backup restored | Medium — temporary unavailability, data recovered |
 | Fire destroys the only copy of archived patient records | Severe — permanent loss, healthcare impact |
-| DDoS attack renders the customer portal unavailable for 6 hours | Low — temporary, no data loss or compromise |
+| Distributed denial-of-service traffic surge renders the customer portal unavailable for 6 hours | Low — temporary, no data loss or compromise |
 | Cryptographic key destruction makes encrypted dataset permanently unreadable | Severe — irreversible data loss |
 
 ## Risk Assessment Methodology

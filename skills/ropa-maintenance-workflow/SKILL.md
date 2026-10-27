@@ -1,17 +1,18 @@
 ---
 name: ropa-maintenance-workflow
-description: >-
-  Establishes ongoing RoPA maintenance processes including update triggers,
-  change management integration, version control, stakeholder review cycles,
-  and completeness verification procedures. Activate for RoPA updates, record
-  maintenance, change management, version history, review scheduling.
+description: Use when establishing ongoing RoPA maintenance processes including update
+  triggers, change management integration, version control, stakeholder review cycles,
+  and completeness verification procedures. Activate for RoPA updates, record maintenance,
+  change management, version history, review scheduling. Do NOT use for general database
+  schema migration scripts or query execution planning.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, ropa, maintenance, change-management, version-control, review-cycle, governance"
+  tags: gdpr, ropa, maintenance, change-management, version-control, review-cycle,
+    governance
 ---
 
 # RoPA Maintenance Workflow

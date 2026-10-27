@@ -1,18 +1,20 @@
 ---
 name: retention-exception-mgmt
-description: >-
-  Manages retention exception workflows including request-approval processes, duration limits,
-  periodic review cycles, documentation requirements, and audit trail maintenance. Covers
-  legitimate grounds for extending retention beyond scheduled periods and governance controls
-  to prevent indefinite data hoarding. Activate for retention exception, retention extension,
-  data hoarding prevention, retention override queries.
+description: Use when managing retention exception workflows including request-approval
+  processes, duration limits, periodic review cycles, documentation requirements,
+  and audit trail maintenance. Covers legitimate grounds for extending retention beyond
+  scheduled periods and governance controls to prevent indefinite data hoarding. Activate
+  for retention exception, retention extension, data hoarding prevention, retention
+  override queries. Do NOT use for active database performance tuning or temporary
+  in-memory session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "retention-exception, retention-extension, data-governance, retention-override, exception-management"
+  tags: retention-exception, retention-extension, data-governance, retention-override,
+    exception-management
 ---
 
 # Retention Exception Management

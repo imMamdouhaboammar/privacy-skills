@@ -1,20 +1,19 @@
 ---
 name: hipaa-phi-inventory
-description: >-
-  Conducts comprehensive inventory of protected health information across
-  the enterprise per HIPAA Security Rule requirements at 45 CFR
-  §164.308(a)(1)(ii)(A) and §164.310(d). Covers identification of all
-  ePHI repositories, data flow mapping, classification of PHI by
-  sensitivity, and integration with risk analysis. Keywords: PHI
-  inventory, ePHI, data mapping, information asset, data flow, HIPAA
-  risk analysis, designated record set.
+description: "Use when conducting comprehensive inventory of protected health information\
+  \ across the enterprise per HIPAA Security Rule requirements at 45 CFR \xA7164.308(a)(1)(ii)(A)\
+  \ and \xA7164.310(d). Covers identification of all ePHI repositories, data flow\
+  \ mapping, classification of PHI by sensitivity, and integration with risk analysis.\
+  \ Keywords: PHI inventory, ePHI, data mapping, information asset, data flow, HIPAA\
+  \ risk analysis, designated record set. Do NOT use for non-medical commercial retail\
+  \ apps or general e-commerce analytics."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, phi-inventory, ephi, data-mapping, information-assets, data-flow, risk-analysis"
+  tags: hipaa, phi-inventory, ephi, data-mapping, information-assets, data-flow, risk-analysis
 ---
 
 # HIPAA PHI Inventory — ePHI Asset Identification and Data Flow Mapping

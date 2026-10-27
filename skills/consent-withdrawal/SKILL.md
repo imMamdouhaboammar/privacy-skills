@@ -1,17 +1,18 @@
 ---
 name: consent-withdrawal
-description: >-
-  Implementation guide for GDPR Article 7(3) consent withdrawal mechanisms. Covers the
-  equal ease requirement ensuring withdrawal is as easy as giving consent, one-click
-  withdrawal implementation, cascading effects on downstream processing, third-party
-  notification workflows, and technical architecture for real-time consent revocation.
+description: Use when implementation guide for GDPR Article 7(3) consent withdrawal
+  mechanisms. Covers the equal ease requirement ensuring withdrawal is as easy as
+  giving consent, one-click withdrawal implementation, cascading effects on downstream
+  processing, third-party notification workflows, and technical architecture for real-time
+  consent revocation. Do NOT use for server-side cache headers or non-browser API
+  rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "consent-withdrawal, article-7-3, right-to-withdraw, cascading-effects, consent-revocation"
+  tags: consent-withdrawal, article-7-3, right-to-withdraw, cascading-effects, consent-revocation
 ---
 
 # Implementing Consent Withdrawal

@@ -1,17 +1,17 @@
 ---
 name: implementing-homomorphic-encryption
-description: >-
-  Guide to implementing homomorphic encryption for privacy-preserving computation
-  under GDPR. Covers scheme selection (BFV, BGV, CKKS, TFHE), Microsoft SEAL,
-  IBM HELib, and Google FHE transpiler. Includes performance benchmarks, parameter
-  tuning, and basic HE example code for encrypted arithmetic operations.
+description: Use when guide to implementing homomorphic encryption for privacy-preserving
+  computation under GDPR. Covers scheme selection (BFV, BGV, CKKS, TFHE), Microsoft
+  SEAL, IBM HELib, and Google FHE transpiler. Includes performance benchmarks, parameter
+  tuning, and basic HE example code for encrypted arithmetic operations. Do NOT use
+  for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "homomorphic-encryption, microsoft-seal, ckks, bfv, privacy-preserving-computation"
+  tags: homomorphic-encryption, microsoft-seal, ckks, bfv, privacy-preserving-computation
 ---
 
 # Implementing Homomorphic Encryption

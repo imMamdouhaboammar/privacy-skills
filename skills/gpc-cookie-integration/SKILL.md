@@ -1,16 +1,17 @@
 ---
 name: gpc-cookie-integration
-description: >-
-  Integrating Global Privacy Control (GPC) signals with cookie consent platforms.
-  Covers GPC signal detection in browsers, automatic opt-out triggering, mapping
-  GPC to US state privacy laws, and CMP integration for CCPA, CPA, and CTDPA compliance.
+description: Use when integrating Global Privacy Control (GPC) signals with cookie
+  consent platforms. Covers GPC signal detection in browsers, automatic opt-out triggering,
+  mapping GPC to US state privacy laws, and CMP integration for CCPA, CPA, and CTDPA
+  compliance. Do NOT use for backend database connection pooling or server-side cache
+  control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "gpc, global-privacy-control, opt-out, ccpa-opt-out, universal-opt-out"
+  tags: gpc, global-privacy-control, opt-out, ccpa-opt-out, universal-opt-out
 ---
 
 # Global Privacy Control Integration with Cookie Consent

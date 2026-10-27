@@ -1,17 +1,17 @@
 ---
 name: california-consumer-rights
-description: >-
-  California consumer privacy rights workflow implementation under CCPA/CPRA.
-  Covers right to know, delete, opt-out of sale/sharing, correct, and limit
-  sensitive PI processing. Includes 45-day response timelines, identity
-  verification procedures, and authorized agent handling.
+description: Use when california consumer privacy rights workflow implementation under
+  CCPA/CPRA. Covers right to know, delete, opt-out of sale/sharing, correct, and limit
+  sensitive PI processing. Includes 45-day response timelines, identity verification
+  procedures, and authorized agent handling. Do NOT use for pure EU GDPR cross-border
+  matters or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "california-rights, ccpa-rights, consumer-requests, dsr-workflow, opt-out"
+  tags: california-rights, ccpa-rights, consumer-requests, dsr-workflow, opt-out
 ---
 
 # California Consumer Rights Workflow

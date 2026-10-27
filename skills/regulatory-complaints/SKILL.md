@@ -1,18 +1,19 @@
 ---
 name: regulatory-complaints
-description: >-
-  Manages responses to regulatory complaints lodged with supervisory authorities
-  under GDPR Article 77, covering internal escalation procedures, DPA response
-  coordination, remediation tracking, and compliance documentation. Activate for
-  regulatory complaint, supervisory authority complaint, Art. 77, DPA response,
-  ICO complaint queries.
+description: Use when managing responses to regulatory complaints lodged with supervisory
+  authorities under GDPR Article 77, covering internal escalation procedures, DPA
+  response coordination, remediation tracking, and compliance documentation. Activate
+  for regulatory complaint, supervisory authority complaint, Art. 77, DPA response,
+  ICO complaint queries. Do NOT use for general administrative user profile CRUD updates
+  or routine password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "regulatory-complaint, gdpr-article-77, supervisory-authority, dpa-response, ico-complaint"
+  tags: regulatory-complaint, gdpr-article-77, supervisory-authority, dpa-response,
+    ico-complaint
 ---
 
 # Responding to Regulatory Complaints

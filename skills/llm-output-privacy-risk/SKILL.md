@@ -1,25 +1,25 @@
 ---
 name: llm-output-privacy-risk
-description: >-
-  Assessing privacy risks in large language model outputs including training
-  data memorisation, PII leakage in generated text, prompt injection leading
-  to data extraction, and hallucinated personal data. Covers output filtering,
-  guardrails, and monitoring. Keywords: LLM privacy, output risk, memorisation,
-  PII leakage, prompt injection, hallucinated PII.
+description: 'Use when assessing privacy risks in large language model outputs including
+  training data memorisation, PII leakage in generated text, prompt injection leading
+  to data extraction, and hallucinated personal data. Covers output filtering, guardrails,
+  and monitoring. Keywords: LLM privacy, output risk, memorisation, PII leakage, prompt
+  injection, hallucinated PII. Do NOT use for general non-AI database migrations or
+  basic web styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: ai-privacy-governance
-  tags: "llm-privacy, output-risk, pii-leakage, memorisation, prompt-injection, hallucinated-pii"
+  tags: llm-privacy, output-risk, pii-leakage, memorisation, prompt-injection, hallucinated-pii
 ---
 
 # LLM Output Privacy Risk Assessment
 
 ## Overview
 
-Large language models (LLMs) present unique privacy risks that go beyond traditional ML systems. Because LLMs are trained on massive corpora that may contain personal data, they can memorise and reproduce verbatim training data — including names, email addresses, phone numbers, and other PII. Additionally, LLMs can hallucinate plausible but false personal data, creating defamation and accuracy risks. Prompt injection attacks can bypass safety guardrails to extract training data or system prompts containing confidential information. This skill provides a structured framework for assessing, mitigating, and monitoring privacy risks in LLM-generated outputs at Cerebrum AI Labs.
+Large language models (LLMs) present unique privacy risks that go beyond traditional ML systems. Because LLMs are trained on massive corpora that may contain personal data, they can memorise and reproduce verbatim training data — including names, email addresses, phone numbers, and other PII. Additionally, LLMs can hallucinate plausible but false personal data, creating defamation and accuracy risks. Prompt injection attacks can circumvent safety boundaries to extract training records or system directives containing confidential information. This skill provides a structured framework for assessing, mitigating, and monitoring privacy risks in LLM-generated outputs at Cerebrum AI Labs.
 
 ## LLM Output Privacy Risk Categories
 
@@ -50,7 +50,7 @@ Even without verbatim memorisation, models can combine partial information to pr
 
 ### Risk 3: Prompt Injection and Data Extraction
 
-Adversarial prompts can cause models to bypass safety instructions and output training data, system prompts, or information about other users' conversations.
+Adversarial prompts can induce models to exceed behavioral guardrails and disclose training records or system directives, or information about other users' conversations.
 
 | Attack Vector | Description | Mitigation |
 |--------------|-------------|------------|

@@ -1,16 +1,17 @@
 ---
 name: cross-jurisdiction-cookies
-description: >-
-  Implementing cookie compliance across multiple jurisdictions including EU ePrivacy
-  Directive, UK PECR, US California CCPA/CPRA opt-out model, and Brazil LGPD.
-  Provides a requirements matrix and geolocation-based implementation approach.
+description: Use when implementing cookie compliance across multiple jurisdictions
+  including EU ePrivacy Directive, UK PECR, US California CCPA/CPRA opt-out model,
+  and Brazil LGPD. Provides a requirements matrix and geolocation-based implementation
+  approach. Do NOT use for backend database connection pooling or server-side cache
+  control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "cross-jurisdiction, pecr, ccpa, lgpd, cookie-compliance-matrix"
+  tags: cross-jurisdiction, pecr, ccpa, lgpd, cookie-compliance-matrix
 ---
 
 # Cross-Jurisdiction Cookie Compliance

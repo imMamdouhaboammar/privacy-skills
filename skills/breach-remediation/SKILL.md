@@ -1,19 +1,19 @@
 ---
 name: breach-remediation
-description: >-
-  Conducts structured post-breach remediation using a lessons learned framework
-  covering root cause remediation, control gap closure, policy updates, training
-  modifications, monitoring enhancements, and regulatory follow-up. Provides
-  a systematic approach to preventing breach recurrence and demonstrating
-  accountability to supervisory authorities. Keywords: post-breach, remediation,
-  lessons learned, root cause, control gap, policy update, training.
+description: 'Use when conducting structured post-breach remediation using a lessons
+  learned framework covering root cause remediation, control gap closure, policy updates,
+  training modifications, monitoring enhancements, and regulatory follow-up. Provides
+  a systematic approach to preventing breach recurrence and demonstrating accountability
+  to supervisory authorities. Keywords: post-breach, remediation, lessons learned,
+  root cause, control gap, policy update, training. Do NOT use for routine non-security
+  application bug triage or scheduled system downtime notices.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-breach-response
-  tags: "post-breach-remediation, lessons-learned, root-cause, control-gap, accountability"
+  tags: post-breach-remediation, lessons-learned, root-cause, control-gap, accountability
 ---
 
 # Conducting Post-Breach Remediation

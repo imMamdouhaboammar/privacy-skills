@@ -1,18 +1,19 @@
 ---
 name: litigation-hold-mgmt
-description: >-
-  Manages legal hold and data preservation processes including triggering events, custodian
-  notification, hold-in-place technical implementation, release procedures, and interaction
-  with retention schedules. Covers litigation hold registers, compliance monitoring, and
-  Art. 17(3)(e) exception documentation. Activate for legal hold, litigation preservation,
-  data freeze, e-discovery hold queries.
+description: Use when managing legal hold and data preservation processes including
+  triggering events, custodian notification, hold-in-place technical implementation,
+  release procedures, and interaction with retention schedules. Covers litigation
+  hold registers, compliance monitoring, and Art. 17(3)(e) exception documentation.
+  Activate for legal hold, litigation preservation, data freeze, e-discovery hold
+  queries. Do NOT use for active database performance tuning or temporary in-memory
+  session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "litigation-hold, legal-preservation, e-discovery, data-freeze, legal-hold-management"
+  tags: litigation-hold, legal-preservation, e-discovery, data-freeze, legal-hold-management
 ---
 
 # Litigation Hold Management

@@ -1,18 +1,18 @@
 ---
 name: us-privacy-federal
-description: >-
-  Maps the US federal privacy landscape including sectoral laws (HIPAA, GLBA,
-  FERPA, COPPA, FCRA, ECPA, VPPA), FTC Section 5 enforcement, proposed
-  federal comprehensive legislation, and the interaction between federal and
-  state privacy regimes. Keywords: federal privacy, HIPAA, GLBA, FERPA,
-  COPPA, FCRA, FTC, sectoral, preemption.
+description: 'Use when mapping the US federal privacy landscape including sectoral
+  laws (HIPAA, GLBA, FERPA, COPPA, FCRA, ECPA, VPPA), FTC Section 5 enforcement, proposed
+  federal comprehensive legislation, and the interaction between federal and state
+  privacy regimes. Keywords: federal privacy, HIPAA, GLBA, FERPA, COPPA, FCRA, FTC,
+  sectoral, preemption. Do NOT use for pure EU GDPR cross-border matters or non-US
+  regional frameworks.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "federal-privacy, hipaa, glba, ferpa, coppa, fcra, ftc, sectoral-privacy"
+  tags: federal-privacy, hipaa, glba, ferpa, coppa, fcra, ftc, sectoral-privacy
 ---
 
 # US Federal Privacy Landscape

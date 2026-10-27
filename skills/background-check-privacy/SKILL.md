@@ -1,20 +1,20 @@
 ---
 name: background-check-privacy
-description: >-
-  Manages privacy compliance for employee background checks including criminal
-  record processing under Art. 10 GDPR, DBS checks (UK), national law
-  variations, and reference verification. Applies proportionality and data
-  minimisation to pre-employment screening, defines retention limits, and
-  addresses role-based necessity assessments. Keywords: background check,
-  criminal record, Art. 10, DBS, pre-employment screening, vetting,
-  data minimisation, proportionality.
+description: 'Use when managing privacy compliance for employee background checks
+  including criminal record processing under Art. 10 GDPR, DBS checks (UK), national
+  law variations, and reference verification. Applies proportionality and data minimisation
+  to pre-employment screening, defines retention limits, and addresses role-based
+  necessity assessments. Keywords: background check, criminal record, Art. 10, DBS,
+  pre-employment screening, vetting, data minimisation, proportionality. Do NOT use
+  for public customer CRM lead tracking or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "background-check, criminal-record, article-10, dbs, pre-employment-screening, data-minimisation"
+  tags: background-check, criminal-record, article-10, dbs, pre-employment-screening,
+    data-minimisation
 ---
 
 # Background Check Privacy

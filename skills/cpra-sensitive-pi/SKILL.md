@@ -1,17 +1,17 @@
 ---
 name: cpra-sensitive-pi
-description: >-
-  CPRA §1798.121 sensitive personal information restrictions and compliance.
-  Covers all 9 sensitive PI categories including SSN, precise geolocation,
-  racial/ethnic origin, biometric, genetic, health, and sex life data.
-  Right to limit use/disclosure, permitted purposes, and implementation.
+description: "Use when cPRA \xA71798.121 sensitive personal information restrictions\
+  \ and compliance. Covers all 9 sensitive PI categories including SSN, precise geolocation,\
+  \ racial/ethnic origin, biometric, genetic, health, and sex life data. Right to\
+  \ limit use/disclosure, permitted purposes, and implementation. Do NOT use for pure\
+  \ EU GDPR cross-border matters or non-US regional frameworks."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "cpra-sensitive-pi, sensitive-data, limit-use, geolocation, biometric"
+  tags: cpra-sensitive-pi, sensitive-data, limit-use, geolocation, biometric
 ---
 
 # CPRA Sensitive Personal Information

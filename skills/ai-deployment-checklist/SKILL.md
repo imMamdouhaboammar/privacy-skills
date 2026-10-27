@@ -1,17 +1,17 @@
 ---
 name: ai-deployment-checklist
-description: >-
-  Pre-deployment privacy compliance checklist for AI/ML systems covering DPIA
-  completion, lawful basis verification, transparency notices, human oversight
-  mechanisms, bias testing, and post-deployment monitoring setup. Keywords:
-  AI deployment, privacy checklist, go-live, model deployment, compliance gate.
+description: 'Use when pre-deployment privacy compliance checklist for AI/ML systems
+  covering DPIA completion, lawful basis verification, transparency notices, human
+  oversight mechanisms, bias testing, and post-deployment monitoring setup. Keywords:
+  AI deployment, privacy checklist, go-live, model deployment, compliance gate. Do
+  NOT use for general non-AI database migrations or basic web styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: ai-privacy-governance
-  tags: "ai-deployment, privacy-checklist, compliance-gate, model-release, pre-deployment"
+  tags: ai-deployment, privacy-checklist, compliance-gate, model-release, pre-deployment
 ---
 
 # AI System Pre-Deployment Privacy Checklist

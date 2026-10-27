@@ -1,18 +1,17 @@
 ---
 name: multi-state-compliance
-description: >-
-  Multi-state harmonized privacy compliance program. Common requirements
-  matrix across all US state privacy laws, state-specific deltas, unified
-  privacy program architecture, and implementation strategy for operating
-  across California, Virginia, Colorado, Connecticut, Texas, Oregon,
-  Montana, and Kentucky.
+description: Use when multi-state harmonized privacy compliance program. Common requirements
+  matrix across all US state privacy laws, state-specific deltas, unified privacy
+  program architecture, and implementation strategy for operating across California,
+  Virginia, Colorado, Connecticut, Texas, Oregon, Montana, and Kentucky. Do NOT use
+  for pure EU GDPR cross-border matters or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "multi-state, harmonized-compliance, common-requirements, state-deltas, unified-program"
+  tags: multi-state, harmonized-compliance, common-requirements, state-deltas, unified-program
 ---
 
 # Multi-State Harmonized Compliance Program

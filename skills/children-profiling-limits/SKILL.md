@@ -1,19 +1,19 @@
 ---
 name: children-profiling-limits
-description: >-
-  Implements profiling restrictions for children under GDPR Recital 71,
-  Article 22, UK AADC Standard 12, and COPPA. Covers prohibition of
-  behavioural advertising to children, recommendation algorithm
-  limitations, nudge technique prohibition, and automated decision-making
-  safeguards. Keywords: profiling, children, behavioural advertising,
-  recommendation algorithm, AADC, automated decision.
+description: 'Use when implementing profiling restrictions for children under GDPR
+  Recital 71, Article 22, UK AADC Standard 12, and COPPA. Covers prohibition of behavioural
+  advertising to children, recommendation algorithm limitations, nudge technique prohibition,
+  and automated decision-making safeguards. Keywords: profiling, children, behavioural
+  advertising, recommendation algorithm, AADC, automated decision. Do NOT use for
+  standard adult-only user onboarding or general non-age-restricted services.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: children-data-protection
-  tags: "profiling, children, behavioural-advertising, recommendation-algorithm, aadc, automated-decision"
+  tags: profiling, children, behavioural-advertising, recommendation-algorithm, aadc,
+    automated-decision
 ---
 
 # Children's Profiling Restrictions

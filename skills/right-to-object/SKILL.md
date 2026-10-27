@@ -1,17 +1,19 @@
 ---
 name: right-to-object
-description: >-
-  Handles GDPR Article 21 right to object to processing, including compelling
-  legitimate grounds assessment, ceasing processing obligations, documentation
-  requirements, and the relationship with erasure under Article 17(1)(c).
-  Activate for right to object, Art. 21, objection to processing, legitimate interest queries.
+description: Use when handling GDPR Article 21 right to object to processing, including
+  compelling legitimate grounds assessment, ceasing processing obligations, documentation
+  requirements, and the relationship with erasure under Article 17(1)(c). Activate
+  for right to object, Art. 21, objection to processing, legitimate interest queries.
+  Do NOT use for general administrative user profile CRUD updates or routine password
+  resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "right-to-object, gdpr-article-21, legitimate-interest, objection-processing, cease-processing"
+  tags: right-to-object, gdpr-article-21, legitimate-interest, objection-processing,
+    cease-processing
 ---
 
 # Handling Right to Object to Processing

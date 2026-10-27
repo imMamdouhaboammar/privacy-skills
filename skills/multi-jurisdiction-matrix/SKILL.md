@@ -1,18 +1,19 @@
 ---
 name: multi-jurisdiction-matrix
-description: >-
-  Guides building a multi-jurisdiction privacy compliance matrix for organisations
-  operating across multiple countries. Covers common requirements identification,
-  jurisdiction-specific deltas, gap analysis, and harmonised control frameworks.
-  Keywords: multi-jurisdiction, compliance matrix, harmonised controls, gap analysis,
-  jurisdiction mapping.
+description: 'Use when guiding or evaluating building a multi-jurisdiction privacy
+  compliance matrix for organisations operating across multiple countries. Covers
+  common requirements identification, jurisdiction-specific deltas, gap analysis,
+  and harmonised control frameworks. Keywords: multi-jurisdiction, compliance matrix,
+  harmonised controls, gap analysis, jurisdiction mapping. Do NOT use for generic
+  software engineering or non-privacy legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "multi-jurisdiction, compliance-matrix, harmonised-controls, gap-analysis, jurisdiction-mapping"
+  tags: multi-jurisdiction, compliance-matrix, harmonised-controls, gap-analysis,
+    jurisdiction-mapping
 ---
 
 # Multi-Jurisdiction Privacy Compliance Matrix

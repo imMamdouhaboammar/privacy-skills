@@ -1,17 +1,17 @@
 ---
 name: managing-consent-for-research
-description: >-
-  Guide for managing consent for scientific research under GDPR Article 89 and
-  Recital 33 broad consent provisions. Covers ethical review board coordination,
-  purpose evolution management, appropriate safeguards including pseudonymization,
+description: Use when guide for managing consent for scientific research under GDPR
+  Article 89 and Recital 33 broad consent provisions. Covers ethical review board
+  coordination, purpose evolution management, appropriate safeguards including pseudonymization,
   and the interplay between consent and other lawful bases for research processing.
+  Do NOT use for server-side cache headers or non-browser API rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "research-consent, article-89, broad-consent, recital-33, scientific-research"
+  tags: research-consent, article-89, broad-consent, recital-33, scientific-research
 ---
 
 # Managing Consent for Research

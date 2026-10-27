@@ -1,18 +1,19 @@
 ---
 name: automated-ropa-generation
-description: >-
-  Generates Records of Processing Activities automatically from IT system
-  inventories including Active Directory, cloud service catalogs, API gateway
-  logs, and database schemas. Covers automated field population, data flow
-  discovery, and system-to-RoPA mapping. Activate for automated RoPA, system
-  inventory, data discovery, auto-population, IT-driven records.
+description: Use when generates Records of Processing Activities automatically from
+  IT system inventories including Active Directory, cloud service catalogs, API gateway
+  logs, and database schemas. Covers automated field population, data flow discovery,
+  and system-to-RoPA mapping. Activate for automated RoPA, system inventory, data
+  discovery, auto-population, IT-driven records. Do NOT use for general database schema
+  migration scripts or query execution planning.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, ropa, automation, data-discovery, active-directory, cloud-catalog, api-gateway, schema"
+  tags: gdpr, ropa, automation, data-discovery, active-directory, cloud-catalog, api-gateway,
+    schema
 ---
 
 # Automated RoPA Generation

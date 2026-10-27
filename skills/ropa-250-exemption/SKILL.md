@@ -1,18 +1,18 @@
 ---
 name: ropa-250-exemption
-description: >-
-  Assesses the GDPR Article 30(5) exemption for organisations under 250
-  employees. Covers the three exception conditions that negate the exemption:
-  non-occasional processing, risk to data subject rights, and special category
-  data processing. Activate for Art. 30(5), 250 employee exemption, small
-  business RoPA, SME exemption, occasional processing.
+description: 'Use when assessing the GDPR Article 30(5) exemption for organisations
+  under 250 employees. Covers the three exception conditions that negate the exemption:
+  non-occasional processing, risk to data subject rights, and special category data
+  processing. Activate for Art. 30(5), 250 employee exemption, small business RoPA,
+  SME exemption, occasional processing. Do NOT use for general database schema migration
+  scripts or query execution planning.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, ropa, article-30-5, exemption, sme, small-business, 250-employees, occasional"
+  tags: gdpr, ropa, article-30-5, exemption, sme, small-business, 250-employees, occasional
 ---
 
 # Art. 30(5) Exemption Assessment

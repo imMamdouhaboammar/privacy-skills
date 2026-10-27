@@ -1,18 +1,19 @@
 ---
 name: ai-data-subject-rights
-description: >-
-  Implements data subject rights mechanisms for AI systems including right to
-  explanation of AI decisions, contestation procedures, human review, model
-  output correction, and training data access. Covers GDPR Arts. 15-22 and
-  AI Act Art. 86. Keywords: data subject rights, AI explanation, contestation,
-  human review, training data access, model correction.
+description: 'Use when implementing data subject rights mechanisms for AI systems
+  including right to explanation of AI decisions, contestation procedures, human review,
+  model output correction, and training data access. Covers GDPR Arts. 15-22 and AI
+  Act Art. 86. Keywords: data subject rights, AI explanation, contestation, human
+  review, training data access, model correction. Do NOT use for general non-AI database
+  migrations or basic web styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: ai-privacy-governance
-  tags: "data-subject-rights, ai-explanation, contestation, human-review, training-data-access, model-correction"
+  tags: data-subject-rights, ai-explanation, contestation, human-review, training-data-access,
+    model-correction
 ---
 
 # Data Subject Rights for AI Systems

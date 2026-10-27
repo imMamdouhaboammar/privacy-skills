@@ -1,20 +1,20 @@
 ---
 name: remote-work-monitoring
-description: >-
-  Establishes boundaries for monitoring remote and hybrid workers including
-  screen capture, productivity tracking, camera and microphone activation,
-  attendance verification, and activity logging. Applies proportionality
-  principles, transparency requirements, and evaluates less intrusive
-  alternatives per EDPB and national DPA guidance. Keywords: remote work,
-  monitoring, screen capture, productivity tracking, webcam, home office,
-  hybrid work, proportionality, surveillance.
+description: 'Use when establishing boundaries for monitoring remote and hybrid workers
+  including screen capture, productivity tracking, camera and microphone activation,
+  attendance verification, and activity logging. Applies proportionality principles,
+  transparency requirements, and evaluates less intrusive alternatives per EDPB and
+  national DPA guidance. Keywords: remote work, monitoring, screen capture, productivity
+  tracking, webcam, home office, hybrid work, proportionality, surveillance. Do NOT
+  use for public customer CRM lead tracking or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "remote-work, monitoring, screen-capture, productivity-tracking, webcam, home-office, proportionality"
+  tags: remote-work, monitoring, screen-capture, productivity-tracking, webcam, home-office,
+    proportionality
 ---
 
 # Remote Work Monitoring

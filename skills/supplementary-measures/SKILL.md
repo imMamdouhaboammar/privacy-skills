@@ -1,18 +1,20 @@
 ---
 name: supplementary-measures
-description: >-
-  Guides implementation of technical, contractual, and organisational supplementary
-  measures for international data transfers per EDPB Recommendations 01/2020. Covers
-  encryption, pseudonymisation, split processing, audit rights, transparency obligations,
-  and internal policies. Keywords: supplementary measures, encryption, pseudonymisation,
-  EDPB recommendations, transfer safeguards.
+description: 'Use when guiding or evaluating implementation of technical, contractual,
+  and organisational supplementary measures for international data transfers per EDPB
+  Recommendations 01/2020. Covers encryption, pseudonymisation, split processing,
+  audit rights, transparency obligations, and internal policies. Keywords: supplementary
+  measures, encryption, pseudonymisation, EDPB recommendations, transfer safeguards.
+  Do NOT use for intra-datacenter local networking or single-jurisdiction domestic
+  operations.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cross-border-transfers
-  tags: "supplementary-measures, encryption, pseudonymisation, edpb-recommendations, transfer-safeguards"
+  tags: supplementary-measures, encryption, pseudonymisation, edpb-recommendations,
+    transfer-safeguards
 ---
 
 # Implementing Supplementary Measures

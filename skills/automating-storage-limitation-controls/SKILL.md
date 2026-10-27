@@ -1,17 +1,17 @@
 ---
 name: automating-storage-limitation-controls
-description: >-
-  Automated enforcement of GDPR Article 5(1)(e) storage limitation principle.
-  Covers TTL-based deletion, retention policy engines, archival workflows, legal
-  hold exemptions, and lifecycle automation. Includes technical implementation
+description: Use when automated enforcement of GDPR Article 5(1)(e) storage limitation
+  principle. Covers TTL-based deletion, retention policy engines, archival workflows,
+  legal hold exemptions, and lifecycle automation. Includes technical implementation
   patterns for automated data expiry and defensible deletion across distributed systems.
+  Do NOT use for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "storage-limitation, data-retention, ttl-deletion, legal-hold, automated-deletion"
+  tags: storage-limitation, data-retention, ttl-deletion, legal-hold, automated-deletion
 ---
 
 # Automating Storage Limitation Controls

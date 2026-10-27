@@ -1,17 +1,18 @@
 ---
 name: transfer-records
-description: >-
-  Guides maintenance of cross-border transfer registers, audit trails, and
-  compliance documentation under GDPR Art. 30 and Art. 46, EDPB record-keeping
-  guidance, and supervisory authority expectations. Keywords: transfer register,
-  audit trail, Art. 30, Art. 46, documentation, compliance records.
+description: 'Use when guiding or evaluating maintenance of cross-border transfer
+  registers, audit trails, and compliance documentation under GDPR Art. 30 and Art.
+  46, EDPB record-keeping guidance, and supervisory authority expectations. Keywords:
+  transfer register, audit trail, Art. 30, Art. 46, documentation, compliance records.
+  Do NOT use for intra-datacenter local networking or single-jurisdiction domestic
+  operations.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cross-border-transfers
-  tags: "transfer-register, audit-trail, art-30, art-46, documentation, compliance-records"
+  tags: transfer-register, audit-trail, art-30, art-46, documentation, compliance-records
 ---
 
 # Managing Transfer Records and Documentation

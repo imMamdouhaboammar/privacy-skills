@@ -1,17 +1,17 @@
 ---
 name: designing-privacy-preserving-analytics
-description: >-
-  Design privacy-preserving analytics systems using differential privacy, k-anonymity,
-  l-diversity, and t-closeness. Covers privacy budget allocation with epsilon tracking,
-  references Google DP library, OpenDP, and Apple PPML. Includes Python differential
-  privacy implementation for GDPR-compliant statistical analysis.
+description: Use when design privacy-preserving analytics systems using differential
+  privacy, k-anonymity, l-diversity, and t-closeness. Covers privacy budget allocation
+  with epsilon tracking, references Google DP library, OpenDP, and Apple PPML. Includes
+  Python differential privacy implementation for GDPR-compliant statistical analysis.
+  Do NOT use for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "differential-privacy, k-anonymity, privacy-budget, opendp, privacy-preserving-analytics"
+  tags: differential-privacy, k-anonymity, privacy-budget, opendp, privacy-preserving-analytics
 ---
 
 # Designing Privacy-Preserving Analytics

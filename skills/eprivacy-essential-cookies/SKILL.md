@@ -1,17 +1,17 @@
 ---
 name: eprivacy-essential-cookies
-description: >-
-  Applying the ePrivacy Directive Article 5(3) strictly necessary exemption to
-  classify cookies that do not require consent. Covers exemption criteria,
+description: Use when applying the ePrivacy Directive Article 5(3) strictly necessary
+  exemption to classify cookies that do not require consent. Covers exemption criteria,
   functionality cookies, load balancing, session state, and non-exempt categories
-  with regulatory guidance from EDPB and national DPAs.
+  with regulatory guidance from EDPB and national DPAs. Do NOT use for backend database
+  connection pooling or server-side cache control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "eprivacy, essential-cookies, strictly-necessary, article-5-3, cookie-exemption"
+  tags: eprivacy, essential-cookies, strictly-necessary, article-5-3, cookie-exemption
 ---
 
 # ePrivacy Directive Article 5(3) Essential Cookie Exemption

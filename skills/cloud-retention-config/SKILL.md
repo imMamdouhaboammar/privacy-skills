@@ -1,17 +1,18 @@
 ---
 name: cloud-retention-config
-description: >-
-  Configures cloud storage retention policies across AWS S3, Azure Blob Storage, and
-  Google Cloud Storage. Covers lifecycle rules, object lock, legal hold, immutability
-  policies, cross-region replication retention alignment, and compliance mode configuration.
-  Activate for cloud retention, S3 lifecycle, Azure retention, GCP retention policy queries.
+description: Use when configuring cloud storage retention policies across AWS S3,
+  Azure Blob Storage, and Google Cloud Storage. Covers lifecycle rules, object lock,
+  legal hold, immutability policies, cross-region replication retention alignment,
+  and compliance mode configuration. Activate for cloud retention, S3 lifecycle, Azure
+  retention, GCP retention policy queries. Do NOT use for active database performance
+  tuning or temporary in-memory session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "cloud-retention, s3-lifecycle, azure-blob-retention, gcp-retention, object-lock"
+  tags: cloud-retention, s3-lifecycle, azure-blob-retention, gcp-retention, object-lock
 ---
 
 # Cloud Storage Retention Configuration

@@ -1,19 +1,19 @@
 ---
 name: marketing-analytics-dpia
-description: >-
-  Guides DPIA for marketing profiling, behavioural targeting, cross-device
-  tracking, and advertising analytics. Covers ePrivacy Directive Art. 5(3)
-  cookie consent, PECR regulations, legitimate interest balancing for
-  direct marketing, and adtech processing chain assessment. Keywords:
-  marketing analytics, DPIA, profiling, behavioural targeting, cross-device
-  tracking, ePrivacy, PECR, adtech, legitimate interest.
+description: 'Use when guiding or evaluating DPIA for marketing profiling, behavioural
+  targeting, cross-device tracking, and advertising analytics. Covers ePrivacy Directive
+  Art. 5(3) cookie consent, PECR regulations, legitimate interest balancing for direct
+  marketing, and adtech processing chain assessment. Keywords: marketing analytics,
+  DPIA, profiling, behavioural targeting, cross-device tracking, ePrivacy, PECR, adtech,
+  legitimate interest. Do NOT use for routine software feature roadmap planning or
+  general QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "marketing-analytics, dpia, profiling, behavioural-targeting, eprivacy, adtech"
+  tags: marketing-analytics, dpia, profiling, behavioural-targeting, eprivacy, adtech
 ---
 
 # Assessing Marketing Analytics Privacy

@@ -1,17 +1,17 @@
 ---
 name: legit-interest-vs-consent
-description: >-
-  Decision framework for choosing between consent and legitimate interest as the
-  lawful basis for processing. Covers power imbalance indicators, conditionality
-  prohibition under Article 7(4), granularity requirements, the three-part LIA test
-  (purpose, necessity, balancing), and practical decision trees for common scenarios.
+description: Use when decision framework for choosing between consent and legitimate
+  interest as the lawful basis for processing. Covers power imbalance indicators,
+  conditionality prohibition under Article 7(4), granularity requirements, the three-part
+  LIA test (purpose, necessity, balancing), and practical decision trees for common
+  scenarios. Do NOT use for server-side cache headers or non-browser API rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "legitimate-interest, consent-vs-lia, lawful-basis, power-imbalance, article-6"
+  tags: legitimate-interest, consent-vs-lia, lawful-basis, power-imbalance, article-6
 ---
 
 # Assessing Legitimate Interest vs Consent

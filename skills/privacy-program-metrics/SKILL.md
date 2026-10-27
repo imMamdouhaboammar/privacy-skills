@@ -1,19 +1,19 @@
 ---
 name: privacy-program-metrics
-description: >-
-  Guides privacy program effectiveness measurement including leading and lagging
-  indicators, KPI definition, benchmarking methodology, executive reporting formats,
-  board-level privacy dashboards, and metric-driven program improvement. Covers
-  operational, compliance, risk, and strategic privacy metrics across the program
-  lifecycle. Keywords: privacy metrics, KPIs, benchmarking, executive reporting,
-  dashboard, program effectiveness.
+description: 'Use when guiding or evaluating privacy program effectiveness measurement
+  including leading and lagging indicators, KPI definition, benchmarking methodology,
+  executive reporting formats, board-level privacy dashboards, and metric-driven program
+  improvement. Covers operational, compliance, risk, and strategic privacy metrics
+  across the program lifecycle. Keywords: privacy metrics, KPIs, benchmarking, executive
+  reporting, dashboard, program effectiveness. Do NOT use for routine code unit test
+  suites or continuous integration pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "privacy-metrics, kpis, benchmarking, executive-reporting, dashboard, effectiveness"
+  tags: privacy-metrics, kpis, benchmarking, executive-reporting, dashboard, effectiveness
 ---
 
 # Privacy Program Effectiveness Metrics

@@ -1,20 +1,20 @@
 ---
 name: hipaa-mobile-health
-description: >-
-  Addresses HIPAA compliance for mobile health (mHealth) applications,
-  wearable devices, and remote patient monitoring. Covers OCR guidance on
-  mobile device PHI, FDA-regulated mobile medical applications, FTC Health
-  Breach Notification Rule for non-HIPAA apps, BYOD policies, and
-  encryption requirements for ePHI on mobile platforms. Keywords: mHealth,
-  mobile health, HIPAA mobile, wearable, remote monitoring, BYOD, mobile
-  device management, app privacy.
+description: 'Use when addresses HIPAA compliance for mobile health (mHealth) applications,
+  wearable devices, and remote patient monitoring. Covers OCR guidance on mobile device
+  PHI, FDA-regulated mobile medical applications, FTC Health Breach Notification Rule
+  for non-HIPAA apps, BYOD policies, and encryption requirements for ePHI on mobile
+  platforms. Keywords: mHealth, mobile health, HIPAA mobile, wearable, remote monitoring,
+  BYOD, mobile device management, app privacy. Do NOT use for non-medical commercial
+  retail apps or general e-commerce analytics.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, mobile-health, mhealth, wearable, remote-monitoring, byod, mobile-device, app-privacy"
+  tags: hipaa, mobile-health, mhealth, wearable, remote-monitoring, byod, mobile-device,
+    app-privacy
 ---
 
 # HIPAA Mobile Health — mHealth Privacy and Security

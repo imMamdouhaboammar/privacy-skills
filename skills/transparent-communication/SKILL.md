@@ -1,17 +1,19 @@
 ---
 name: transparent-communication
-description: >-
-  Implements GDPR Article 12 transparent information and communication requirements,
-  covering concise, intelligible, and plain language obligations, response timelines,
-  fee and refusal provisions, and layered notice design. Activate for transparent
+description: Use when implementing GDPR Article 12 transparent information and communication
+  requirements, covering concise, intelligible, and plain language obligations, response
+  timelines, fee and refusal provisions, and layered notice design. Activate for transparent
   communication, Art. 12, privacy notice, plain language, response timeline queries.
+  Do NOT use for general administrative user profile CRUD updates or routine password
+  resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "transparent-communication, gdpr-article-12, privacy-notice, plain-language, response-timelines"
+  tags: transparent-communication, gdpr-article-12, privacy-notice, plain-language,
+    response-timelines
 ---
 
 # Implementing Transparent Communication

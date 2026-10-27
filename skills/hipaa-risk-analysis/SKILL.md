@@ -1,19 +1,19 @@
 ---
 name: hipaa-risk-analysis
-description: >-
-  Conducts HIPAA risk analysis per 45 CFR §164.308(a)(1) following OCR
-  guidance methodology. Covers threat identification, vulnerability
-  assessment, likelihood and impact determination, risk scoring, and
-  mitigation planning for electronic protected health information.
-  Keywords: HIPAA risk analysis, OCR guidance, threat assessment,
-  vulnerability, risk management, ePHI.
+description: "Use when conducting HIPAA risk analysis per 45 CFR \xA7164.308(a)(1)\
+  \ following OCR guidance methodology. Covers threat identification, vulnerability\
+  \ assessment, likelihood and impact determination, risk scoring, and mitigation\
+  \ planning for electronic protected health information. Keywords: HIPAA risk analysis,\
+  \ OCR guidance, threat assessment, vulnerability, risk management, ePHI. Do NOT\
+  \ use for non-medical commercial retail apps or general e-commerce analytics."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, risk-analysis, ocr-guidance, threat-assessment, vulnerability, risk-management, ephi"
+  tags: hipaa, risk-analysis, ocr-guidance, threat-assessment, vulnerability, risk-management,
+    ephi
 ---
 
 # HIPAA Risk Analysis — 45 CFR §164.308(a)(1)

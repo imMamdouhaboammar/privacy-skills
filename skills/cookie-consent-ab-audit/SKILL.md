@@ -1,17 +1,18 @@
 ---
 name: cookie-consent-ab-audit
-description: >-
-  Methodology for auditing A/B testing of consent banners to ensure compliance with
-  equal ease of acceptance and rejection. Covers CNIL enforcement patterns including
-  the EUR 150M Google fine, dark pattern detection methodology, manipulative design
-  identification, and regulatory-compliant experimentation boundaries.
+description: Use when methodology for auditing A/B testing of consent banners to ensure
+  compliance with equal ease of acceptance and rejection. Covers CNIL enforcement
+  patterns including the EUR 150M Google fine, dark pattern detection methodology,
+  manipulative design identification, and regulatory-compliant experimentation boundaries.
+  Do NOT use for server-side cache headers or non-browser API rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "cookie-consent-ab-testing, dark-patterns, cnil-enforcement, consent-banner, deceptive-design"
+  tags: cookie-consent-ab-testing, dark-patterns, cnil-enforcement, consent-banner,
+    deceptive-design
 ---
 
 # Auditing Cookie Consent A/B Testing

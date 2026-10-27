@@ -1,18 +1,19 @@
 ---
 name: conflicting-laws-mgmt
-description: >-
-  Guides managing conflicting privacy requirements across jurisdictions. Covers data
-  localisation vs transfer freedom, consent standards variation, age thresholds,
-  breach timelines, and resolution frameworks for incompatible obligations. Keywords:
-  conflicting laws, data localisation, consent variation, age thresholds, resolution
-  framework.
+description: 'Use when guiding or evaluating managing conflicting privacy requirements
+  across jurisdictions. Covers data localisation vs transfer freedom, consent standards
+  variation, age thresholds, breach timelines, and resolution frameworks for incompatible
+  obligations. Keywords: conflicting laws, data localisation, consent variation, age
+  thresholds, resolution framework. Do NOT use for generic software engineering or
+  non-privacy legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "conflicting-laws, data-localisation, consent-variation, resolution-framework, cross-jurisdiction"
+  tags: conflicting-laws, data-localisation, consent-variation, resolution-framework,
+    cross-jurisdiction
 ---
 
 # Managing Conflicting Privacy Requirements

@@ -1,17 +1,18 @@
 ---
 name: nist-pf-govern
-description: >-
-  Implement the NIST Privacy Framework GOVERN function covering GV.AT
-  awareness and training, GV.MT monitoring and review, GV.PO policy development,
-  and GV.RR roles and responsibilities. Provides governance structure templates,
-  training programs, and accountability frameworks for privacy governance.
+description: Use when implement the NIST Privacy Framework GOVERN function covering
+  GV.AT awareness and training, GV.MT monitoring and review, GV.PO policy development,
+  and GV.RR roles and responsibilities. Provides governance structure templates, training
+  programs, and accountability frameworks for privacy governance. Do NOT use for generic
+  mathematical computing or non-privacy algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "nist-privacy-framework, govern-function, privacy-governance, privacy-policy, roles-responsibilities"
+  tags: nist-privacy-framework, govern-function, privacy-governance, privacy-policy,
+    roles-responsibilities
 ---
 
 # NIST Privacy Framework — GOVERN Function

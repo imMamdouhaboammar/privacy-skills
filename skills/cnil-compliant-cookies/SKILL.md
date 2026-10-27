@@ -1,17 +1,17 @@
 ---
 name: cnil-compliant-cookies
-description: >-
-  Implementation guide for CNIL cookie guidelines compliance. References the EUR 150M
-  Google fine and EUR 60M Meta fine. Covers equal prominence accept/reject buttons,
-  cookie wall prohibition, 6-month reconsent intervals, essential cookies exemption,
-  and detailed CNIL Deliberation No. 2020-091 requirements.
+description: Use when implementation guide for CNIL cookie guidelines compliance.
+  References the EUR 150M Google fine and EUR 60M Meta fine. Covers equal prominence
+  accept/reject buttons, cookie wall prohibition, 6-month reconsent intervals, essential
+  cookies exemption, and detailed CNIL Deliberation No. 2020-091 requirements. Do
+  NOT use for server-side cache headers or non-browser API rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "cnil-cookies, cookie-compliance, french-cookie-law, accept-reject-equal, cookie-wall"
+  tags: cnil-cookies, cookie-compliance, french-cookie-law, accept-reject-equal, cookie-wall
 ---
 
 # Implementing CNIL-Compliant Cookies

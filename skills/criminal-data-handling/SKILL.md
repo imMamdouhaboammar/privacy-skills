@@ -1,18 +1,19 @@
 ---
 name: criminal-data-handling
-description: >-
-  Handles GDPR Art. 10 criminal conviction and offence data classification
-  including official authority requirements, national law derogations, and
-  comprehensive register restrictions. Covers controller obligations for
-  criminal background checks and offence records. Keywords: criminal data,
-  Art 10, conviction data, offence records, criminal background, DBS check.
+description: 'Use when handling GDPR Art. 10 criminal conviction and offence data
+  classification including official authority requirements, national law derogations,
+  and comprehensive register restrictions. Covers controller obligations for criminal
+  background checks and offence records. Keywords: criminal data, Art 10, conviction
+  data, offence records, criminal background, DBS check. Do NOT use for database index
+  optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "criminal-data, art-10, conviction-data, offence-records, background-check, dbs"
+  tags: criminal-data, art-10, conviction-data, offence-records, background-check,
+    dbs
 ---
 
 # Criminal Conviction and Offence Data Handling — GDPR Art. 10

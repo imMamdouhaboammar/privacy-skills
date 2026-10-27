@@ -1,19 +1,19 @@
 ---
 name: biometric-dpia
-description: >-
-  Guides DPIA for biometric processing systems including facial recognition,
-  fingerprint, voice, iris, and gait analysis. Covers Art. 9 special category
-  requirements, Art. 35(3)(b) mandatory DPIA triggers for large-scale biometric
-  processing, and EDPB Guidelines 3/2019 on video surveillance. Keywords:
-  biometric, facial recognition, fingerprint, DPIA, Art. 9, special category,
-  EDPB Guidelines 3/2019.
+description: 'Use when guiding or evaluating DPIA for biometric processing systems
+  including facial recognition, fingerprint, voice, iris, and gait analysis. Covers
+  Art. 9 special category requirements, Art. 35(3)(b) mandatory DPIA triggers for
+  large-scale biometric processing, and EDPB Guidelines 3/2019 on video surveillance.
+  Keywords: biometric, facial recognition, fingerprint, DPIA, Art. 9, special category,
+  EDPB Guidelines 3/2019. Do NOT use for routine software feature roadmap planning
+  or general QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "biometric, facial-recognition, fingerprint, dpia, art-9, special-category"
+  tags: biometric, facial-recognition, fingerprint, dpia, art-9, special-category
 ---
 
 # Assessing Biometric Processing Privacy
@@ -142,7 +142,7 @@ The proportionality assessment for biometric systems must be rigorous because bi
 | BIO-R2 | Function creep — biometric data collected for access control repurposed for surveillance or attendance monitoring | Likely | Significant | High |
 | BIO-R3 | Discriminatory accuracy — facial recognition performs worse on certain demographic groups (skin colour, age, gender) | Likely | Significant | High |
 | BIO-R4 | False rejection denying legitimate access — disabled individuals, elderly, or those with skin conditions experience higher rejection rates | Possible | Significant | High |
-| BIO-R5 | Spoofing or presentation attacks — fraudulent biometric samples (photos, masks, artificial fingerprints) bypass security | Possible | Significant | High |
+| BIO-R5 | Spoofing or presentation attacks — fraudulent biometric samples (photos, masks, artificial fingerprints) evade verification controls | Possible | Significant | High |
 | BIO-R6 | Chilling effect — knowledge of biometric surveillance alters behaviour in public or workplace spaces | Likely | Limited | High |
 | BIO-R7 | Irreversibility — unlike passwords, compromised biometric data cannot be changed or reissued | Almost certain | Maximum | Very High |
 | BIO-R8 | Third-party capture — biometric data of non-enrolled individuals incidentally captured by the system | Likely | Limited | High |

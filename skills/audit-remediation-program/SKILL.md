@@ -1,19 +1,20 @@
 ---
 name: audit-remediation-program
-description: >-
-  Guides audit findings remediation program management including finding prioritization
-  by severity (critical, high, medium, low), owner assignment, remediation planning,
-  deadline tracking, verification testing, closure criteria, escalation protocols,
-  and management reporting. Covers remediation lifecycle from finding issuance to
-  verified closure. Keywords: audit remediation, finding management, prioritization,
-  verification testing, closure criteria, remediation tracking.
+description: 'Use when guiding or evaluating audit findings remediation program management
+  including finding prioritization by severity (critical, high, medium, low), owner
+  assignment, remediation planning, deadline tracking, verification testing, closure
+  criteria, escalation protocols, and management reporting. Covers remediation lifecycle
+  from finding issuance to verified closure. Keywords: audit remediation, finding
+  management, prioritization, verification testing, closure criteria, remediation
+  tracking. Do NOT use for routine code unit test suites or continuous integration
+  pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "audit-remediation, finding-management, prioritization, verification, closure-criteria"
+  tags: audit-remediation, finding-management, prioritization, verification, closure-criteria
 ---
 
 # Audit Findings Remediation Program

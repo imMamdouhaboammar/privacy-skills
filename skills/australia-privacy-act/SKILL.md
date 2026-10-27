@@ -1,18 +1,18 @@
 ---
 name: australia-privacy-act
-description: >-
-  Guides compliance with Australia's Privacy Act 1988 including the 2024 reform
-  amendments. Covers automated decision-making transparency, children's privacy code,
-  individual rights expansion, enforcement strengthening, and the Australian Privacy
-  Principles (APPs). Keywords: Australia Privacy Act, APPs, OAIC, automated decisions,
-  children privacy code, privacy reform.
+description: 'Use when guiding or evaluating compliance with Australia''s Privacy
+  Act 1988 including the 2024 reform amendments. Covers automated decision-making
+  transparency, children''s privacy code, individual rights expansion, enforcement
+  strengthening, and the Australian Privacy Principles (APPs). Keywords: Australia
+  Privacy Act, APPs, OAIC, automated decisions, children privacy code, privacy reform.
+  Do NOT use for generic software engineering or non-privacy legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "australia-privacy-act, oaic, automated-decisions, children-privacy, apps"
+  tags: australia-privacy-act, oaic, automated-decisions, children-privacy, apps
 ---
 
 # Australia Privacy Act Compliance (2024 Amendments)

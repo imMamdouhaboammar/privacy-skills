@@ -1,17 +1,18 @@
 ---
 name: group-structure-ropa
-description: >-
-  Manages RoPA for complex multi-entity corporate groups including entity-level
-  versus group-level records, intra-group transfer documentation, and shared
-  processing coordination. Activate for group RoPA, multi-entity, corporate
-  group, intra-group transfers, subsidiary records, holding company.
+description: Use when managing RoPA for complex multi-entity corporate groups including
+  entity-level versus group-level records, intra-group transfer documentation, and
+  shared processing coordination. Activate for group RoPA, multi-entity, corporate
+  group, intra-group transfers, subsidiary records, holding company. Do NOT use for
+  general database schema migration scripts or query execution planning.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, ropa, corporate-group, multi-entity, intra-group-transfers, subsidiary, holding"
+  tags: gdpr, ropa, corporate-group, multi-entity, intra-group-transfers, subsidiary,
+    holding
 ---
 
 # Group Structure RoPA

@@ -1,17 +1,18 @@
 ---
 name: ccpa-right-to-delete
-description: >-
-  Implements CCPA Section 1798.105 right to delete and CPRA amendments including service
-  provider obligations, statutory exceptions for legal, security, and internal uses,
-  consumer identity verification procedures, and 45-day response timeline management.
-  Activate for CCPA deletion, CPRA right to delete, California privacy, consumer deletion queries.
+description: Use when implementing CCPA Section 1798.105 right to delete and CPRA
+  amendments including service provider obligations, statutory exceptions for legal,
+  security, and internal uses, consumer identity verification procedures, and 45-day
+  response timeline management. Activate for CCPA deletion, CPRA right to delete,
+  California privacy, consumer deletion queries. Do NOT use for active database performance
+  tuning or temporary in-memory session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "ccpa-right-to-delete, cpra, california-privacy, consumer-deletion, service-provider-obligations"
+  tags: ccpa-right-to-delete, cpra, california-privacy, consumer-deletion, service-provider-obligations
 ---
 
 # CCPA/CPRA Right to Delete

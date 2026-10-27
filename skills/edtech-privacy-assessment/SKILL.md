@@ -1,18 +1,18 @@
 ---
 name: edtech-privacy-assessment
-description: >-
-  Assesses children's data protection in educational technology. Covers
-  COPPA school exception under Section 312.5(c)(4), FERPA intersection,
-  parental rights, teacher consent authority, data deletion at year-end,
-  and Student Privacy Pledge compliance. Keywords: edtech, COPPA school
-  exception, FERPA, student privacy, teacher consent, educational data.
+description: 'Use when assessing children''s data protection in educational technology.
+  Covers COPPA school exception under Section 312.5(c)(4), FERPA intersection, parental
+  rights, teacher consent authority, data deletion at year-end, and Student Privacy
+  Pledge compliance. Keywords: edtech, COPPA school exception, FERPA, student privacy,
+  teacher consent, educational data. Do NOT use for standard adult-only user onboarding
+  or general non-age-restricted services.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: children-data-protection
-  tags: "edtech, coppa-school-exception, ferpa, student-privacy, teacher-consent, educational-data"
+  tags: edtech, coppa-school-exception, ferpa, student-privacy, teacher-consent, educational-data
 ---
 
 # EdTech Privacy Assessment — Children's Data in Educational Technology

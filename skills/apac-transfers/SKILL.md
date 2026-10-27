@@ -1,17 +1,18 @@
 ---
 name: apac-transfers
-description: >-
-  Guides management of cross-border data transfers under Asia-Pacific regulatory
-  frameworks including APEC CBPR, ASEAN Model Contractual Clauses, Japan APPI
-  supplementary rules, South Korea PIPA provisions, and Thailand/Singapore PDPA
-  mechanisms. Keywords: APEC CBPR, ASEAN MCCs, APPI, PIPA, PDPA, APAC transfers.
+description: 'Use when guiding or evaluating management of cross-border data transfers
+  under Asia-Pacific regulatory frameworks including APEC CBPR, ASEAN Model Contractual
+  Clauses, Japan APPI supplementary rules, South Korea PIPA provisions, and Thailand/Singapore
+  PDPA mechanisms. Keywords: APEC CBPR, ASEAN MCCs, APPI, PIPA, PDPA, APAC transfers.
+  Do NOT use for intra-datacenter local networking or single-jurisdiction domestic
+  operations.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cross-border-transfers
-  tags: "apec-cbpr, asean-mcc, appi, pipa, pdpa, apac-cross-border"
+  tags: apec-cbpr, asean-mcc, appi, pipa, pdpa, apac-cross-border
 ---
 
 # Managing APAC Cross-Border Transfers

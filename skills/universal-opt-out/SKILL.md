@@ -1,17 +1,17 @@
 ---
 name: universal-opt-out
-description: >-
-  Universal opt-out mechanism implementation across US state privacy laws.
-  Covers Global Privacy Control (GPC) signal technical implementation,
-  state-by-state recognition requirements, browser detection methods,
-  authenticated vs unauthenticated handling, and compliance testing.
+description: Use when universal opt-out mechanism implementation across US state privacy
+  laws. Covers Global Privacy Control (GPC) signal technical implementation, state-by-state
+  recognition requirements, browser detection methods, authenticated vs unauthenticated
+  handling, and compliance testing. Do NOT use for pure EU GDPR cross-border matters
+  or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "universal-opt-out, gpc, global-privacy-control, opt-out-signal, browser-signal"
+  tags: universal-opt-out, gpc, global-privacy-control, opt-out-signal, browser-signal
 ---
 
 # Universal Opt-Out Mechanism Implementation

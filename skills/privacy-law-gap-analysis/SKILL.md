@@ -1,17 +1,19 @@
 ---
 name: privacy-law-gap-analysis
-description: >-
-  Guides conducting privacy law gap analysis for market entry into new jurisdictions.
-  Covers target jurisdiction assessment, existing compliance mapping, remediation
-  effort estimation, and implementation timeline planning. Keywords: gap analysis,
-  market entry, jurisdiction assessment, remediation planning, compliance mapping.
+description: 'Use when guiding or evaluating conducting privacy law gap analysis for
+  market entry into new jurisdictions. Covers target jurisdiction assessment, existing
+  compliance mapping, remediation effort estimation, and implementation timeline planning.
+  Keywords: gap analysis, market entry, jurisdiction assessment, remediation planning,
+  compliance mapping. Do NOT use for generic software engineering or non-privacy legal
+  documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "gap-analysis, market-entry, jurisdiction-assessment, remediation-planning, compliance-mapping"
+  tags: gap-analysis, market-entry, jurisdiction-assessment, remediation-planning,
+    compliance-mapping
 ---
 
 # Privacy Law Gap Analysis for Market Entry

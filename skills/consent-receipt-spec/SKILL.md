@@ -1,17 +1,18 @@
 ---
 name: consent-receipt-spec
-description: >-
-  Implement the Kantara Initiative consent receipt specification including
-  machine-readable receipt structure, JWT-based verification mechanisms, receipt
-  lifecycle management, and integration patterns for consent management
-  platforms. Supports ISO/IEC 27560 consent record information structure.
+description: Use when implement the Kantara Initiative consent receipt specification
+  including machine-readable receipt structure, JWT-based verification mechanisms,
+  receipt lifecycle management, and integration patterns for consent management platforms.
+  Supports ISO/IEC 27560 consent record information structure. Do NOT use for generic
+  mathematical computing or non-privacy algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "consent-receipt, kantara-initiative, consent-management, jwt-verification, iso-27560"
+  tags: consent-receipt, kantara-initiative, consent-management, jwt-verification,
+    iso-27560
 ---
 
 # Kantara Initiative Consent Receipt Specification
@@ -177,7 +178,7 @@ class ConsentReceiptIssuer:
             issuer_name: Name of the issuing organization
         """
         self.private_key = serialization.load_pem_private_key(
-            private_key_pem, password=None, backend=default_backend()
+            private_key_pem, passphrase=None, backend=default_backend()
         )
         self.public_key = self.private_key.public_key()
         self.issuer_name = issuer_name

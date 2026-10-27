@@ -1,17 +1,17 @@
 ---
 name: differential-privacy-prod
-description: >-
-  Deploy differential privacy in production systems including epsilon selection
-  strategies, noise calibration with Laplace and Gaussian mechanisms, privacy
-  budget tracking, composition theorems, and Python implementation patterns.
-  Covers both central and local differential privacy models.
+description: Use when deploy differential privacy in production systems including
+  epsilon selection strategies, noise calibration with Laplace and Gaussian mechanisms,
+  privacy budget tracking, composition theorems, and Python implementation patterns.
+  Covers both central and local differential privacy models. Do NOT use for generic
+  mathematical computing or non-privacy algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "differential-privacy, epsilon-delta, noise-calibration, privacy-budget, composition-theorems"
+  tags: differential-privacy, epsilon-delta, noise-calibration, privacy-budget, composition-theorems
 ---
 
 # Differential Privacy in Production

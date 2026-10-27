@@ -1,18 +1,18 @@
 ---
 name: state-law-tracker
-description: >-
-  Tracks and monitors US state privacy legislation across all 50 states, DC,
-  and territories. Covers enacted comprehensive privacy laws (California CCPA/CPRA,
-  Virginia VCDPA, Colorado CPA, Connecticut CTDPA, Utah UCPA, and subsequent
-  enactments), pending bills, effective dates, and key requirement differences.
-  Keywords: state privacy law, CCPA, CPRA, VCDPA, CPA, CTDPA, UCPA, multi-state.
+description: 'Use when tracks and monitors US state privacy legislation across all
+  50 states, DC, and territories. Covers enacted comprehensive privacy laws (California
+  CCPA/CPRA, Virginia VCDPA, Colorado CPA, Connecticut CTDPA, Utah UCPA, and subsequent
+  enactments), pending bills, effective dates, and key requirement differences. Keywords:
+  state privacy law, CCPA, CPRA, VCDPA, CPA, CTDPA, UCPA, multi-state. Do NOT use
+  for pure EU GDPR cross-border matters or non-US regional frameworks.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "state-privacy, multi-state, ccpa, cpra, vcdpa, cpa, comprehensive-privacy"
+  tags: state-privacy, multi-state, ccpa, cpra, vcdpa, cpa, comprehensive-privacy
 ---
 
 # US State Privacy Law Tracker

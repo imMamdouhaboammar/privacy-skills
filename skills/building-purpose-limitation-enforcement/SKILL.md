@@ -1,17 +1,17 @@
 ---
 name: building-purpose-limitation-enforcement
-description: >-
-  Technical enforcement of GDPR Article 5(1)(b) purpose limitation principle.
-  Covers purpose-tagged data stores, access control per purpose, Article 6(4)
-  compatibility assessment factors, and system design for preventing purpose creep.
-  Includes purpose binding architecture and compatibility test implementation.
+description: Use when technical enforcement of GDPR Article 5(1)(b) purpose limitation
+  principle. Covers purpose-tagged data stores, access control per purpose, Article
+  6(4) compatibility assessment factors, and system design for preventing purpose
+  creep. Includes purpose binding architecture and compatibility test implementation.
+  Do NOT use for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "purpose-limitation, article-5, compatibility-test, purpose-binding, access-control"
+  tags: purpose-limitation, article-5, compatibility-test, purpose-binding, access-control
 ---
 
 # Building Purpose Limitation Enforcement

@@ -1,19 +1,19 @@
 ---
 name: pia-review-cadence
-description: >-
-  Guides the periodic DPIA review lifecycle including trigger identification
-  for regulatory changes, new data categories, technology changes, and breach
-  incidents. Covers version control, stakeholder sign-off procedures, and
-  DPIA register management per Art. 35(11). Keywords: DPIA review, PIA
-  update, review cadence, version control, Art. 35(11), periodic review,
-  trigger events, stakeholder sign-off.
+description: 'Use when guiding or evaluating the periodic DPIA review lifecycle including
+  trigger identification for regulatory changes, new data categories, technology changes,
+  and breach incidents. Covers version control, stakeholder sign-off procedures, and
+  DPIA register management per Art. 35(11). Keywords: DPIA review, PIA update, review
+  cadence, version control, Art. 35(11), periodic review, trigger events, stakeholder
+  sign-off. Do NOT use for routine software feature roadmap planning or general QA
+  testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "dpia-review, pia-update, review-cadence, version-control, art-35-11"
+  tags: dpia-review, pia-update, review-cadence, version-control, art-35-11
 ---
 
 # Managing PIA Review and Update Cadence

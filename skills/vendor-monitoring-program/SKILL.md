@@ -1,17 +1,17 @@
 ---
 name: vendor-monitoring-program
-description: >-
-  Ongoing vendor privacy compliance monitoring program. Covers annual
-  reassessment procedures, continuous monitoring signals, contract renewal
-  privacy triggers, performance metrics, KPIs, and vendor governance
-  reporting dashboards.
+description: Use when ongoing vendor privacy compliance monitoring program. Covers
+  annual reassessment procedures, continuous monitoring signals, contract renewal
+  privacy triggers, performance metrics, KPIs, and vendor governance reporting dashboards.
+  Do NOT use for internal employee performance evaluations or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "vendor-monitoring, ongoing-compliance, reassessment, performance-metrics, continuous-monitoring"
+  tags: vendor-monitoring, ongoing-compliance, reassessment, performance-metrics,
+    continuous-monitoring
 ---
 
 # Vendor Privacy Monitoring Program

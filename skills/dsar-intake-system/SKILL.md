@@ -1,17 +1,18 @@
 ---
 name: dsar-intake-system
-description: >-
-  Builds a multi-channel DSAR intake system supporting web form, email, phone,
-  and in-person requests with identity verification tiers, automated routing
-  logic, SLA tracking, and response generation. Activate for DSAR intake,
+description: Use when building a multi-channel DSAR intake system supporting web form,
+  email, phone, and in-person requests with identity verification tiers, automated
+  routing logic, SLA tracking, and response generation. Activate for DSAR intake,
   rights request portal, multi-channel intake, SLA tracking, request management queries.
+  Do NOT use for general administrative user profile CRUD updates or routine password
+  resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "dsar-intake, multi-channel, identity-verification, sla-tracking, request-management"
+  tags: dsar-intake, multi-channel, identity-verification, sla-tracking, request-management
 ---
 
 # Building a Universal DSAR Intake System

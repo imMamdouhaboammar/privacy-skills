@@ -1,11 +1,11 @@
 ---
 name: dpia-automated-decisions
-description: >-
-  Conducts a Data Protection Impact Assessment for automated decision-making
-  and profiling systems under GDPR Article 35(3)(a), covering algorithmic
-  transparency, meaningful human oversight, contestation mechanisms, and
-  Art. 22 safeguards. Activate for DPIA automated decision, profiling DPIA,
-  algorithmic impact assessment, Art. 35(3)(a), ADM risk assessment queries.
+description: Use when conducting a Data Protection Impact Assessment for automated
+  decision-making and profiling systems under GDPR Article 35(3)(a), covering algorithmic
+  transparency, meaningful human oversight, contestation mechanisms, and Art. 22 safeguards.
+  Activate for DPIA automated decision, profiling DPIA, algorithmic impact assessment,
+  Art. 35(3)(a), ADM risk assessment queries. Do NOT use for routine software feature
+  roadmap planning or general QA testing.
 license: Apache-2.0
 metadata:
   author: mukul975
@@ -13,14 +13,14 @@ metadata:
   domain: privacy
   subdomain: privacy-impact-assessment
   tags:
-    - dpia
-    - automated-decisions
-    - profiling
-    - gdpr-article-35
-    - algorithmic-transparency
+  - dpia
+  - automated-decisions
+  - profiling
+  - gdpr-article-35
+  - algorithmic-transparency
   regulatory_frameworks:
-    - GDPR
-    - EU-AI-Act
+  - GDPR
+  - EU-AI-Act
 ---
 
 # DPIA for Automated Decision-Making Systems

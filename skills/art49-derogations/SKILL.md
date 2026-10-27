@@ -1,19 +1,19 @@
 ---
 name: art49-derogations
-description: >-
-  Guides assessment and application of GDPR Article 49 derogation conditions for
-  international data transfers in the absence of adequacy decisions or appropriate
-  safeguards. Covers explicit consent, contract necessity, public interest, vital
-  interests, public register, and compelling legitimate interests with restrictive
-  interpretation per EDPB Guidelines 2/2018. Keywords: Art. 49, derogations,
-  transfer exceptions, explicit consent, compelling legitimate interests.
+description: 'Use when guiding or evaluating assessment and application of GDPR Article
+  49 derogation conditions for international data transfers in the absence of adequacy
+  decisions or appropriate safeguards. Covers explicit consent, contract necessity,
+  public interest, vital interests, public register, and compelling legitimate interests
+  with restrictive interpretation per EDPB Guidelines 2/2018. Keywords: Art. 49, derogations,
+  transfer exceptions, explicit consent, compelling legitimate interests. Do NOT use
+  for intra-datacenter local networking or single-jurisdiction domestic operations.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cross-border-transfers
-  tags: "article-49, derogations, transfer-exceptions, explicit-consent, legitimate-interests"
+  tags: article-49, derogations, transfer-exceptions, explicit-consent, legitimate-interests
 ---
 
 # Assessing Article 49 Derogations

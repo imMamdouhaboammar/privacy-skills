@@ -1,16 +1,16 @@
 ---
 name: vendor-privacy-due-diligence
-description: >-
-  Pre-contract vendor privacy due diligence per GDPR Article 28(1). Covers risk
-  questionnaires, technical controls assessment, certification review, data flow
-  analysis, and documented sufficiency decisions for processor engagement.
+description: Use when pre-contract vendor privacy due diligence per GDPR Article 28(1).
+  Covers risk questionnaires, technical controls assessment, certification review,
+  data flow analysis, and documented sufficiency decisions for processor engagement.
+  Do NOT use for internal employee performance evaluations or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "vendor-due-diligence, art-28, processor-assessment, privacy-risk, vendor-onboarding"
+  tags: vendor-due-diligence, art-28, processor-assessment, privacy-risk, vendor-onboarding
 ---
 
 # Vendor Privacy Due Diligence

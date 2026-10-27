@@ -1,17 +1,17 @@
 ---
 name: google-consent-mode-v2
-description: >-
-  Configuring Google Consent Mode v2 for privacy-compliant measurement and
-  advertising. Covers default and update commands, consent state mapping to GA4
+description: Use when configuring Google Consent Mode v2 for privacy-compliant measurement
+  and advertising. Covers default and update commands, consent state mapping to GA4
   and Google Ads, conversion modeling with cookieless pings, and EEA requirements
-  effective March 2024.
+  effective March 2024. Do NOT use for backend database connection pooling or server-side
+  cache control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "google-consent-mode, ga4, google-ads, conversion-modeling, eea-compliance"
+  tags: google-consent-mode, ga4, google-ads, conversion-modeling, eea-compliance
 ---
 
 # Configuring Google Consent Mode v2

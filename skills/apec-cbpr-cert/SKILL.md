@@ -1,18 +1,18 @@
 ---
 name: apec-cbpr-cert
-description: >-
-  Guides APEC Cross-Border Privacy Rules system certification process including
-  self-assessment against the APEC Privacy Framework principles, accountability
-  agent selection, intake questionnaire completion, certification decision, annual
-  recertification, and Global CBPR Forum transition. Keywords: APEC, CBPR, cross-border
-  privacy, accountability agent, certification, Global CBPR.
+description: 'Use when guiding or evaluating APEC Cross-Border Privacy Rules system
+  certification process including self-assessment against the APEC Privacy Framework
+  principles, accountability agent selection, intake questionnaire completion, certification
+  decision, annual recertification, and Global CBPR Forum transition. Keywords: APEC,
+  CBPR, cross-border privacy, accountability agent, certification, Global CBPR. Do
+  NOT use for routine code unit test suites or continuous integration pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "apec-cbpr, cross-border-privacy, accountability-agent, certification, global-cbpr"
+  tags: apec-cbpr, cross-border-privacy, accountability-agent, certification, global-cbpr
 ---
 
 # APEC Cross-Border Privacy Rules Certification

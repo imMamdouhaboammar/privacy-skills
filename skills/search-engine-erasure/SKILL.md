@@ -1,17 +1,19 @@
 ---
 name: search-engine-erasure
-description: >-
-  Implements the right to be forgotten in search engines under GDPR Article 17 and the
-  CJEU Google Spain ruling (C-131/12). Covers delisting request procedures, criteria
-  assessment balancing privacy against public interest, and geographic scope determination.
-  Activate for right to be forgotten, search delisting, Google Spain, de-indexing queries.
+description: Use when implementing the right to be forgotten in search engines under
+  GDPR Article 17 and the CJEU Google Spain ruling (C-131/12). Covers delisting request
+  procedures, criteria assessment balancing privacy against public interest, and geographic
+  scope determination. Activate for right to be forgotten, search delisting, Google
+  Spain, de-indexing queries. Do NOT use for active database performance tuning or
+  temporary in-memory session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "right-to-be-forgotten, search-engine-delisting, google-spain, de-indexing, gdpr-article-17"
+  tags: right-to-be-forgotten, search-engine-delisting, google-spain, de-indexing,
+    gdpr-article-17
 ---
 
 # Search Engine Erasure (Right to Be Forgotten)

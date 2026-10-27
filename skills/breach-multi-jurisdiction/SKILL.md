@@ -1,20 +1,21 @@
 ---
 name: breach-multi-jurisdiction
-description: >-
-  Manages coordinated breach notification across multiple legal jurisdictions
-  including EU member states (72-hour GDPR deadline), US state breach notification
-  laws (varying timelines from 30 to 90 days), and other international regimes.
-  Covers conflict resolution when notification timelines differ, lead supervisory
-  authority determination, and parallel notification execution. Keywords:
-  multi-jurisdiction, cross-border breach, notification coordination, GDPR, US
-  state laws, international breach notification.
+description: 'Use when managing coordinated breach notification across multiple legal
+  jurisdictions including EU member states (72-hour GDPR deadline), US state breach
+  notification laws (varying timelines from 30 to 90 days), and other international
+  regimes. Covers conflict resolution when notification timelines differ, lead supervisory
+  authority determination, and parallel notification execution. Keywords: multi-jurisdiction,
+  cross-border breach, notification coordination, GDPR, US state laws, international
+  breach notification. Do NOT use for routine non-security application bug triage
+  or scheduled system downtime notices.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-breach-response
-  tags: "multi-jurisdiction, cross-border-breach, notification-coordination, gdpr, us-state-laws"
+  tags: multi-jurisdiction, cross-border-breach, notification-coordination, gdpr,
+    us-state-laws
 ---
 
 # Managing Multi-Jurisdiction Breach Notification

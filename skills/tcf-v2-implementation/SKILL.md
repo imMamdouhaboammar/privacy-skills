@@ -1,16 +1,17 @@
 ---
 name: tcf-v2-implementation
-description: >-
-  Implementing the IAB Transparency and Consent Framework v2.2 for programmatic
-  advertising consent management. Covers CMP registration, Global Vendor List
-  integration, TC String encoding, publisher restrictions, and compliance validation.
+description: Use when implementing the IAB Transparency and Consent Framework v2.2
+  for programmatic advertising consent management. Covers CMP registration, Global
+  Vendor List integration, TC String encoding, publisher restrictions, and compliance
+  validation. Do NOT use for backend database connection pooling or server-side cache
+  control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "tcf, iab, consent-management-platform, tc-string, global-vendor-list"
+  tags: tcf, iab, consent-management-platform, tc-string, global-vendor-list
 ---
 
 # IAB TCF v2.2 Implementation

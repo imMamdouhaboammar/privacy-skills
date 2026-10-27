@@ -1,18 +1,18 @@
 ---
 name: gdpr-parental-consent
-description: >-
-  Implements GDPR Article 8 parental consent verification for information
-  society services offered to children. Covers age thresholds by EU/EEA
-  Member State (13-16 years), EDPB Guidelines 5/2020 on consent, parental
-  verification mechanisms, and consent record-keeping. Keywords: parental
-  consent, Article 8, children, age threshold, EDPB, verification.
+description: 'Use when implementing GDPR Article 8 parental consent verification for
+  information society services offered to children. Covers age thresholds by EU/EEA
+  Member State (13-16 years), EDPB Guidelines 5/2020 on consent, parental verification
+  mechanisms, and consent record-keeping. Keywords: parental consent, Article 8, children,
+  age threshold, EDPB, verification. Do NOT use for standard adult-only user onboarding
+  or general non-age-restricted services.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: children-data-protection
-  tags: "parental-consent, gdpr-article-8, children, age-threshold, edpb, verification"
+  tags: parental-consent, gdpr-article-8, children, age-threshold, edpb, verification
 ---
 
 # GDPR Parental Consent Verification

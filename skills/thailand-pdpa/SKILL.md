@@ -1,18 +1,18 @@
 ---
 name: thailand-pdpa
-description: >-
-  Guides compliance with Thailand's Personal Data Protection Act B.E. 2562 (2019).
-  Covers consent framework, DPO requirements, PDPC enforcement, lawful bases for
-  processing, cross-border transfer mechanisms, and data subject rights under the
-  PDPA. Keywords: Thailand PDPA, PDPC, consent, DPO, cross-border transfers, data
-  subject rights.
+description: 'Use when guiding or evaluating compliance with Thailand''s Personal
+  Data Protection Act B.E. 2562 (2019). Covers consent framework, DPO requirements,
+  PDPC enforcement, lawful bases for processing, cross-border transfer mechanisms,
+  and data subject rights under the PDPA. Keywords: Thailand PDPA, PDPC, consent,
+  DPO, cross-border transfers, data subject rights. Do NOT use for generic software
+  engineering or non-privacy legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "thailand-pdpa, pdpc, consent-framework, dpo-requirements, cross-border-transfers"
+  tags: thailand-pdpa, pdpc, consent-framework, dpo-requirements, cross-border-transfers
 ---
 
 # Thailand PDPA Compliance

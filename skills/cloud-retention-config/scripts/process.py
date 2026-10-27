@@ -32,7 +32,7 @@ def generate_s3_lifecycle_rule(
     deep_archive_days: int = 365,
 ) -> dict:
     """Generate an AWS S3 lifecycle rule configuration."""
-    rule = {
+    lifecycle_rule = {
         "ID": rule_id,
         "Filter": {"Prefix": prefix},
         "Status": "Enabled",
@@ -45,17 +45,17 @@ def generate_s3_lifecycle_rule(
     }
 
     if retention_days > glacier_transition_days:
-        rule["Transitions"].append({
+        lifecycle_rule["Transitions"].append({
             "Days": glacier_transition_days,
             "StorageClass": "GLACIER_IR",
         })
     if retention_days > deep_archive_days:
-        rule["Transitions"].append({
+        lifecycle_rule["Transitions"].append({
             "Days": deep_archive_days,
             "StorageClass": "DEEP_ARCHIVE",
         })
 
-    return rule
+    return lifecycle_rule
 
 
 def generate_s3_object_lock_config(

@@ -1,18 +1,18 @@
 ---
 name: processor-ropa-creation
-description: >-
-  Creates GDPR Article 30(2) Records of Processing Activities for data
-  processors with all four mandatory fields: processor and controller names
-  and contact details, categories of processing, third country transfers,
-  and security measures description. Activate for processor RoPA, Art. 30(2),
-  processor records, sub-processor documentation.
+description: 'Use when creating GDPR Article 30(2) Records of Processing Activities
+  for data processors with all four mandatory fields: processor and controller names
+  and contact details, categories of processing, third country transfers, and security
+  measures description. Activate for processor RoPA, Art. 30(2), processor records,
+  sub-processor documentation. Do NOT use for general database schema migration scripts
+  or query execution planning.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, article-30, ropa, processor, processing-records, sub-processor, dpa"
+  tags: gdpr, article-30, ropa, processor, processing-records, sub-processor, dpa
 ---
 
 # Processor RoPA Creation

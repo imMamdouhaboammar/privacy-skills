@@ -1,17 +1,17 @@
 ---
 name: consent-for-transfers
-description: >-
-  Guide for obtaining explicit consent for international data transfers under GDPR
-  Article 49(1)(a). Covers informed consent requirements including risks of transfers
-  without adequacy decisions or appropriate safeguards, specific destination country
-  disclosure, and the narrow scope of derogation-based transfers.
+description: Use when guide for obtaining explicit consent for international data
+  transfers under GDPR Article 49(1)(a). Covers informed consent requirements including
+  risks of transfers without adequacy decisions or appropriate safeguards, specific
+  destination country disclosure, and the narrow scope of derogation-based transfers.
+  Do NOT use for server-side cache headers or non-browser API rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "transfer-consent, article-49, international-transfers, explicit-consent, data-transfers"
+  tags: transfer-consent, article-49, international-transfers, explicit-consent, data-transfers
 ---
 
 # Managing Consent for Transfers

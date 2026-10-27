@@ -1,17 +1,18 @@
 ---
 name: selecting-privacy-enhancing-technologies
-description: >-
-  Comprehensive PET selection guide covering differential privacy, homomorphic
-  encryption, secure multi-party computation, federated learning, zero-knowledge
-  proofs, and trusted execution environments. Includes use-case matching matrix,
-  performance comparison, and GDPR alignment assessment for each technology.
+description: Use when comprehensive PET selection guide covering differential privacy,
+  homomorphic encryption, secure multi-party computation, federated learning, zero-knowledge
+  proofs, and trusted execution environments. Includes use-case matching matrix, performance
+  comparison, and GDPR alignment assessment for each technology. Do NOT use for aesthetic
+  UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "pet-selection, homomorphic-encryption, federated-learning, zero-knowledge-proofs, secure-computation"
+  tags: pet-selection, homomorphic-encryption, federated-learning, zero-knowledge-proofs,
+    secure-computation
 ---
 
 # Selecting Privacy-Enhancing Technologies

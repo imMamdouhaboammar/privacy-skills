@@ -1,18 +1,18 @@
 ---
 name: employment-consent-limits
-description: >-
-  Analyses the limitations on consent as a lawful basis for processing employee
-  data under Art. 88 GDPR and WP29 Opinion 2/2017. Addresses power imbalance
-  in employment relationships, identifies alternative lawful bases, and maps
-  national derogations. Keywords: consent, employment, power imbalance,
-  Art. 88, WP29, lawful basis, employee data, labour law.
+description: 'Use when analyses the limitations on consent as a lawful basis for processing
+  employee data under Art. 88 GDPR and WP29 Opinion 2/2017. Addresses power imbalance
+  in employment relationships, identifies alternative lawful bases, and maps national
+  derogations. Keywords: consent, employment, power imbalance, Art. 88, WP29, lawful
+  basis, employee data, labour law. Do NOT use for public customer CRM lead tracking
+  or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "consent, employment, power-imbalance, article-88, wp29, lawful-basis"
+  tags: consent, employment, power-imbalance, article-88, wp29, lawful-basis
 ---
 
 # Employment Consent Limits

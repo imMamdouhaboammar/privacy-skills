@@ -1,18 +1,18 @@
 ---
 name: ropa-completeness-audit
-description: >-
-  Audits Records of Processing Activities against supervisory authority
-  templates from CNIL, ICO, and BfDI. Provides completeness scoring, gap
-  identification, and remediation tracking. Activate for RoPA audit,
-  completeness check, supervisory authority readiness, CNIL template,
-  ICO template, BfDI template, gap analysis.
+description: Use when auditing Records of Processing Activities against supervisory
+  authority templates from CNIL, ICO, and BfDI. Provides completeness scoring, gap
+  identification, and remediation tracking. Activate for RoPA audit, completeness
+  check, supervisory authority readiness, CNIL template, ICO template, BfDI template,
+  gap analysis. Do NOT use for general database schema migration scripts or query
+  execution planning.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, ropa, audit, completeness, cnil, ico, bfdi, gap-analysis, remediation"
+  tags: gdpr, ropa, audit, completeness, cnil, ico, bfdi, gap-analysis, remediation
 ---
 
 # RoPA Completeness Audit

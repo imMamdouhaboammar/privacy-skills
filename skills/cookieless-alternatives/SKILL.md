@@ -1,16 +1,17 @@
 ---
 name: cookieless-alternatives
-description: >-
-  Evaluating and implementing cookie-less tracking alternatives for a post-cookie
-  era. Covers the Privacy Sandbox APIs (Topics, Attribution Reporting, Protected
-  Audiences), server-side analytics, and privacy-preserving measurement techniques.
+description: Use when evaluating and implementing cookie-less tracking alternatives
+  for a post-cookie era. Covers the Privacy Sandbox APIs (Topics, Attribution Reporting,
+  Protected Audiences), server-side analytics, and privacy-preserving measurement
+  techniques. Do NOT use for backend database connection pooling or server-side cache
+  control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "cookieless, privacy-sandbox, topics-api, attribution-reporting, protected-audiences"
+  tags: cookieless, privacy-sandbox, topics-api, attribution-reporting, protected-audiences
 ---
 
 # Cookie-less Tracking Alternatives

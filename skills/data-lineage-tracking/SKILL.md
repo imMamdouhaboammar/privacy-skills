@@ -1,18 +1,19 @@
 ---
 name: data-lineage-tracking
-description: >-
-  Implements data lineage tracking for privacy compliance including origin tracking,
-  transformation logging, access auditing, deletion verification, and cross-system
-  lineage graphs. Covers source-to-sink mapping, GDPR Art. 30 RoPA integration,
-  automated lineage discovery, and breach impact scoping. Keywords: data lineage,
-  data provenance, data flow mapping, transformation logging, deletion verification.
+description: 'Use when implementing data lineage tracking for privacy compliance including
+  origin tracking, transformation logging, access auditing, deletion verification,
+  and cross-system lineage graphs. Covers source-to-sink mapping, GDPR Art. 30 RoPA
+  integration, automated lineage discovery, and breach impact scoping. Keywords: data
+  lineage, data provenance, data flow mapping, transformation logging, deletion verification.
+  Do NOT use for database index optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "data-lineage, data-provenance, data-flow-mapping, transformation-logging, deletion-verification"
+  tags: data-lineage, data-provenance, data-flow-mapping, transformation-logging,
+    deletion-verification
 ---
 
 # Data Lineage Tracking

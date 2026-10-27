@@ -1,19 +1,19 @@
 ---
 name: gdpr-compliance-audit
-description: >-
-  Guides a comprehensive organisational data protection audit against key GDPR
-  requirements including Articles 5, 24, 25, 28, 30, 32, 35, and 37. Includes
-  50+ control points covering principles, accountability, security, and governance.
-  Activate when performing compliance audits, preparing for supervisory authority
-  inspections, or assessing organisational GDPR maturity. Keywords: data protection
-  audit, compliance audit, GDPR audit, control points, accountability.
+description: 'Use when guiding or evaluating a comprehensive organisational data protection
+  audit against key GDPR requirements including Articles 5, 24, 25, 28, 30, 32, 35,
+  and 37. Includes 50+ control points covering principles, accountability, security,
+  and governance. Activate when performing compliance audits, preparing for supervisory
+  authority inspections, or assessing organisational GDPR maturity. Keywords: data
+  protection audit, compliance audit, GDPR audit, control points, accountability.
+  Do NOT use for non-GDPR US-only local state compliance or general software testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: gdpr-compliance
-  tags: "gdpr, audit, compliance, accountability, security, data-protection"
+  tags: gdpr, audit, compliance, accountability, security, data-protection
 ---
 
 # Conducting Data Protection Audit

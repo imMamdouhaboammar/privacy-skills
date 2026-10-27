@@ -1,19 +1,18 @@
 ---
 name: byod-privacy-policy
-description: >-
-  Implements BYOD privacy compliance frameworks for personal device use in the
-  workplace. Covers personal vs corporate data separation, MDM capabilities
-  and limitations, employee consent requirements, data wiping boundaries, and
-  monitoring restrictions on personal devices. Keywords: BYOD, mobile device
-  management, MDM, personal device, data separation, containerisation,
-  remote wipe, employee privacy.
+description: 'Use when implementing BYOD privacy compliance frameworks for personal
+  device use in the workplace. Covers personal vs corporate data separation, MDM capabilities
+  and limitations, employee consent requirements, data wiping boundaries, and monitoring
+  restrictions on personal devices. Keywords: BYOD, mobile device management, MDM,
+  personal device, data separation, containerisation, remote wipe, employee privacy.
+  Do NOT use for public customer CRM lead tracking or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "byod, mobile-device-management, mdm, personal-device, data-separation, remote-wipe"
+  tags: byod, mobile-device-management, mdm, personal-device, data-separation, remote-wipe
 ---
 
 # BYOD Privacy Policy

@@ -1,17 +1,17 @@
 ---
 name: ccpa-cpra-compliance
-description: >-
-  Complete CCPA/CPRA compliance implementation covering California Civil Code
-  §1798.100-199. Includes consumer rights framework, business obligations,
-  service provider and contractor requirements, enforcement mechanisms, and
-  CPPA rulemaking. Triggers on CCPA, CPRA, California privacy, consumer rights.
+description: "Use when complete CCPA/CPRA compliance implementation covering California\
+  \ Civil Code \xA71798.100-199. Includes consumer rights framework, business obligations,\
+  \ service provider and contractor requirements, enforcement mechanisms, and CPPA\
+  \ rulemaking. Triggers on CCPA, CPRA, California privacy, consumer rights. Do NOT\
+  \ use for pure EU GDPR cross-border matters or non-US regional frameworks."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "ccpa, cpra, california-privacy, consumer-rights, business-obligations"
+  tags: ccpa, cpra, california-privacy, consumer-rights, business-obligations
 ---
 
 # CCPA/CPRA Compliance

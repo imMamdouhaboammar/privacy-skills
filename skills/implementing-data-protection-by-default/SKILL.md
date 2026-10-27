@@ -1,17 +1,17 @@
 ---
 name: implementing-data-protection-by-default
-description: >-
-  Technical implementation of GDPR Article 25(2) data protection by default. Covers
-  strictest privacy settings as default configuration, minimum data collection,
-  limited storage duration, restricted accessibility, and opt-in rather than opt-out
-  patterns. Includes implementation checklist and system design requirements.
+description: Use when technical implementation of GDPR Article 25(2) data protection
+  by default. Covers strictest privacy settings as default configuration, minimum
+  data collection, limited storage duration, restricted accessibility, and opt-in
+  rather than opt-out patterns. Includes implementation checklist and system design
+  requirements. Do NOT use for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "data-protection-by-default, article-25, privacy-defaults, opt-in, minimum-collection"
+  tags: data-protection-by-default, article-25, privacy-defaults, opt-in, minimum-collection
 ---
 
 # Implementing Data Protection by Default

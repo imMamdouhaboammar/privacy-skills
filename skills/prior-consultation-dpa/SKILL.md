@@ -1,19 +1,19 @@
 ---
 name: prior-consultation-dpa
-description: >-
-  Guides the Art. 36 prior consultation process when a DPIA indicates high
-  residual risk that cannot be mitigated. Covers required documentation per
-  Art. 36(3), the 8-week DPA response timeline, outcome management, and
-  interaction protocols with supervisory authorities. Keywords: prior
-  consultation, Art. 36, supervisory authority, DPA, high residual risk,
-  DPIA escalation, consultation documentation.
+description: 'Use when guiding or evaluating the Art. 36 prior consultation process
+  when a DPIA indicates high residual risk that cannot be mitigated. Covers required
+  documentation per Art. 36(3), the 8-week DPA response timeline, outcome management,
+  and interaction protocols with supervisory authorities. Keywords: prior consultation,
+  Art. 36, supervisory authority, DPA, high residual risk, DPIA escalation, consultation
+  documentation. Do NOT use for routine software feature roadmap planning or general
+  QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "prior-consultation, art-36, supervisory-authority, dpa, dpia-escalation"
+  tags: prior-consultation, art-36, supervisory-authority, dpa, dpia-escalation
 ---
 
 # Conducting Prior Consultation with Supervisory Authority

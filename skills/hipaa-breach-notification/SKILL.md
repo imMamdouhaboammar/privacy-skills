@@ -1,19 +1,19 @@
 ---
 name: hipaa-breach-notification
-description: >-
-  Executes breach notification under HIPAA Breach Notification Rule (45 CFR
-  164.400-414). Covers 60-day individual notification, HHS/OCR reporting for
-  breaches of 500+ individuals (immediate) and under 500 (annual log), state
-  attorney general notification, media notification for 500+ in a single state,
-  and breach risk assessment using the four-factor test. Keywords: HIPAA, breach
-  notification, PHI, HHS, OCR, covered entity, business associate.
+description: 'Use when executes breach notification under HIPAA Breach Notification
+  Rule (45 CFR 164.400-414). Covers 60-day individual notification, HHS/OCR reporting
+  for breaches of 500+ individuals (immediate) and under 500 (annual log), state attorney
+  general notification, media notification for 500+ in a single state, and breach
+  risk assessment using the four-factor test. Keywords: HIPAA, breach notification,
+  PHI, HHS, OCR, covered entity, business associate. Do NOT use for routine non-security
+  application bug triage or scheduled system downtime notices.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-breach-response
-  tags: "hipaa, breach-notification, phi, hhs-ocr, covered-entity, business-associate"
+  tags: hipaa, breach-notification, phi, hhs-ocr, covered-entity, business-associate
 ---
 
 # Executing HIPAA Breach Notification

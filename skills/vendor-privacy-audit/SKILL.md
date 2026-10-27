@@ -1,17 +1,16 @@
 ---
 name: vendor-privacy-audit
-description: >-
-  On-site and remote vendor audit procedures per GDPR Article 28(3)(h). Covers
-  audit planning, evidence collection methodologies, finding classification,
-  remediation tracking, and audit report generation for processor compliance
-  verification.
+description: Use when on-site and remote vendor audit procedures per GDPR Article
+  28(3)(h). Covers audit planning, evidence collection methodologies, finding classification,
+  remediation tracking, and audit report generation for processor compliance verification.
+  Do NOT use for internal employee performance evaluations or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "vendor-audit, article-28-audit, processor-compliance, audit-rights, remediation-tracking"
+  tags: vendor-audit, article-28-audit, processor-compliance, audit-rights, remediation-tracking
 ---
 
 # Vendor Privacy Audit

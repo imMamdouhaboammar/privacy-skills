@@ -1,18 +1,19 @@
 ---
 name: pseudo-vs-anon-data
-description: >-
-  Classifies data as pseudonymised or anonymised using Recital 26 reasonably
-  likely test, Breyer ruling C-582/14, motivated intruder test, and WP29
-  Opinion 05/2014 on anonymisation techniques. Covers singling out, linkability,
-  and inference tests. Keywords: pseudonymisation, anonymisation, Recital 26,
-  re-identification, k-anonymity, differential privacy, WP29 Opinion 05/2014.
+description: 'Use when classifying data as pseudonymised or anonymised using Recital
+  26 reasonably likely test, Breyer ruling C-582/14, motivated intruder test, and
+  WP29 Opinion 05/2014 on anonymisation techniques. Covers singling out, linkability,
+  and inference tests. Keywords: pseudonymisation, anonymisation, Recital 26, re-identification,
+  k-anonymity, differential privacy, WP29 Opinion 05/2014. Do NOT use for database
+  index optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "pseudonymisation, anonymisation, recital-26, re-identification, k-anonymity, wp29"
+  tags: pseudonymisation, anonymisation, recital-26, re-identification, k-anonymity,
+    wp29
 ---
 
 # Pseudonymised vs Anonymised Data Classification

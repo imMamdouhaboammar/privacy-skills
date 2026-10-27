@@ -1,19 +1,19 @@
 ---
 name: gdpr-certification-scheme
-description: >-
-  Guides GDPR certification mechanism implementation per Articles 42-43 including
-  accredited certification body selection, certification criteria per EDPB guidelines,
-  certification scope, periodic audit requirements, seal and mark usage rules,
-  and relationship to codes of conduct. Covers EDPB/ENISA certification framework
-  and national accreditation. Keywords: GDPR certification, Article 42, Article 43,
-  certification body, EDPB, seal, mark, accreditation.
+description: 'Use when guiding or evaluating GDPR certification mechanism implementation
+  per Articles 42-43 including accredited certification body selection, certification
+  criteria per EDPB guidelines, certification scope, periodic audit requirements,
+  seal and mark usage rules, and relationship to codes of conduct. Covers EDPB/ENISA
+  certification framework and national accreditation. Keywords: GDPR certification,
+  Article 42, Article 43, certification body, EDPB, seal, mark, accreditation. Do
+  NOT use for routine code unit test suites or continuous integration pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "gdpr-certification, article-42, article-43, certification-body, edpb, seal-mark"
+  tags: gdpr-certification, article-42, article-43, certification-body, edpb, seal-mark
 ---
 
 # GDPR Certification Mechanism per Articles 42-43

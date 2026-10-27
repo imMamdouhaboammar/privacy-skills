@@ -1,18 +1,19 @@
 ---
 name: data-labeling-system
-description: >-
-  Implements data classification labels and tagging systems including metadata
-  tagging, DLP integration, automated label propagation, user-applied labels,
-  and label inheritance rules. Covers Microsoft Purview sensitivity labels and
-  enterprise labeling architecture. Keywords: data labeling, sensitivity labels,
-  metadata tagging, DLP integration, label propagation, Purview, classification.
+description: 'Use when implementing data classification labels and tagging systems
+  including metadata tagging, DLP integration, automated label propagation, user-applied
+  labels, and label inheritance rules. Covers Microsoft Purview sensitivity labels
+  and enterprise labeling architecture. Keywords: data labeling, sensitivity labels,
+  metadata tagging, DLP integration, label propagation, Purview, classification. Do
+  NOT use for database index optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "data-labeling, sensitivity-labels, metadata-tagging, dlp, label-propagation, purview"
+  tags: data-labeling, sensitivity-labels, metadata-tagging, dlp, label-propagation,
+    purview
 ---
 
 # Data Classification Labels and Tagging System

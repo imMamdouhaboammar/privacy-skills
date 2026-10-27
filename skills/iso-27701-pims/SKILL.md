@@ -1,18 +1,19 @@
 ---
 name: iso-27701-pims
-description: >-
-  Guides ISO 27701 Privacy Information Management System implementation extending
-  ISO 27001/27002. Covers Clause 5 PIMS-specific requirements, Clause 6 PIMS guidance
-  for ISO 27002, Clause 7 PII controller guidance (Annex A), Clause 8 PII processor
-  guidance (Annex B), gap assessment, and certification path. Keywords: ISO 27701,
-  PIMS, privacy management system, ISO 27001 extension, certification, Annex A, Annex B.
+description: 'Use when guiding or evaluating ISO 27701 Privacy Information Management
+  System implementation extending ISO 27001/27002. Covers Clause 5 PIMS-specific requirements,
+  Clause 6 PIMS guidance for ISO 27002, Clause 7 PII controller guidance (Annex A),
+  Clause 8 PII processor guidance (Annex B), gap assessment, and certification path.
+  Keywords: ISO 27701, PIMS, privacy management system, ISO 27001 extension, certification,
+  Annex A, Annex B. Do NOT use for routine code unit test suites or continuous integration
+  pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "iso-27701, pims, privacy-management, iso-27001, certification, controller-processor"
+  tags: iso-27701, pims, privacy-management, iso-27001, certification, controller-processor
 ---
 
 # ISO 27701 Privacy Information Management System Implementation

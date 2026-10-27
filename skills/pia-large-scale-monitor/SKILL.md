@@ -1,19 +1,19 @@
 ---
 name: pia-large-scale-monitor
-description: >-
-  Conducts Privacy Impact Assessment for large-scale systematic monitoring
-  under GDPR Article 35(3)(c). Covers CCTV and video surveillance, employee
-  monitoring, location tracking, internet monitoring, and behavioural analytics.
-  Applies EDPB WP248rev.01 criteria for systematic monitoring of publicly
-  accessible areas. Keywords: DPIA, large-scale monitoring, CCTV, employee
-  monitoring, systematic monitoring, surveillance, location tracking.
+description: 'Use when conducting Privacy Impact Assessment for large-scale systematic
+  monitoring under GDPR Article 35(3)(c). Covers CCTV and video surveillance, employee
+  monitoring, location tracking, internet monitoring, and behavioural analytics. Applies
+  EDPB WP248rev.01 criteria for systematic monitoring of publicly accessible areas.
+  Keywords: DPIA, large-scale monitoring, CCTV, employee monitoring, systematic monitoring,
+  surveillance, location tracking. Do NOT use for routine software feature roadmap
+  planning or general QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "dpia, large-scale-monitoring, cctv, employee-monitoring, systematic-monitoring"
+  tags: dpia, large-scale-monitoring, cctv, employee-monitoring, systematic-monitoring
 ---
 
 # Privacy Impact Assessment for Large-Scale Monitoring

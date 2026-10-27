@@ -1,18 +1,18 @@
 ---
 name: ropa-executive-dashboard
-description: >-
-  Creates executive reporting and visualization from RoPA data including
-  processing activity counts, risk heatmaps, compliance scores, trend
-  analysis, and supervisory authority readiness indicators. Activate for
-  RoPA dashboard, executive reporting, risk heatmap, compliance score,
-  trend analysis, board reporting, KPI.
+description: Use when creating executive reporting and visualization from RoPA data
+  including processing activity counts, risk heatmaps, compliance scores, trend analysis,
+  and supervisory authority readiness indicators. Activate for RoPA dashboard, executive
+  reporting, risk heatmap, compliance score, trend analysis, board reporting, KPI.
+  Do NOT use for general database schema migration scripts or query execution planning.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, ropa, dashboard, reporting, visualization, heatmap, compliance-score, kpi"
+  tags: gdpr, ropa, dashboard, reporting, visualization, heatmap, compliance-score,
+    kpi
 ---
 
 # RoPA Executive Dashboard

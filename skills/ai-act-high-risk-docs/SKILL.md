@@ -1,17 +1,17 @@
 ---
 name: ai-act-high-risk-docs
-description: >-
-  Preparing EU AI Act compliance documentation for high-risk AI systems.
-  Covers Annex III classification, technical documentation under Art. 11,
-  conformity assessment, risk management systems, and CE marking requirements.
+description: 'Use when preparing EU AI Act compliance documentation for high-risk
+  AI systems. Covers Annex III classification, technical documentation under Art.
+  11, conformity assessment, risk management systems, and CE marking requirements.
   Keywords: EU AI Act, high-risk AI, Annex III, conformity assessment, CE marking.
+  Do NOT use for general non-AI database migrations or basic web styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: ai-privacy-governance
-  tags: "eu-ai-act, high-risk-ai, annex-iii, conformity-assessment, technical-documentation"
+  tags: eu-ai-act, high-risk-ai, annex-iii, conformity-assessment, technical-documentation
 ---
 
 # EU AI Act High-Risk AI System Documentation

@@ -1,18 +1,20 @@
 ---
 name: retention-impact-assess
-description: >-
-  Conducts retention impact assessments for new processing activities to determine appropriate
-  data retention periods. Covers regulatory requirements scanning, proportionality review,
-  purpose-based retention determination, and retention period documentation aligned with
-  GDPR Article 5(1)(e) and Article 25 data protection by design. Activate for retention
-  assessment, new processing retention, retention period determination queries.
+description: Use when conducting retention impact assessments for new processing activities
+  to determine appropriate data retention periods. Covers regulatory requirements
+  scanning, proportionality review, purpose-based retention determination, and retention
+  period documentation aligned with GDPR Article 5(1)(e) and Article 25 data protection
+  by design. Activate for retention assessment, new processing retention, retention
+  period determination queries. Do NOT use for active database performance tuning
+  or temporary in-memory session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "retention-impact-assessment, retention-determination, storage-limitation, proportionality-review, retention-planning"
+  tags: retention-impact-assessment, retention-determination, storage-limitation,
+    proportionality-review, retention-planning
 ---
 
 # Retention Impact Assessment

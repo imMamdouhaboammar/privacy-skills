@@ -1,17 +1,17 @@
 ---
 name: cloud-provider-assessment
-description: >-
-  Cloud service provider privacy assessment framework. Covers ISO 27018 cloud
-  privacy controls, CSA STAR certification, SOC 2 Type II evaluation, shared
-  responsibility model mapping, data residency verification, and cloud-specific
-  privacy risk analysis.
+description: Use when cloud service provider privacy assessment framework. Covers
+  ISO 27018 cloud privacy controls, CSA STAR certification, SOC 2 Type II evaluation,
+  shared responsibility model mapping, data residency verification, and cloud-specific
+  privacy risk analysis. Do NOT use for internal employee performance evaluations
+  or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "cloud-assessment, iso-27018, csa-star, shared-responsibility, data-residency"
+  tags: cloud-assessment, iso-27018, csa-star, shared-responsibility, data-residency
 ---
 
 # Cloud Service Provider Privacy Assessment

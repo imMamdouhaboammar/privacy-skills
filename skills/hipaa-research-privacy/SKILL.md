@@ -1,20 +1,20 @@
 ---
 name: hipaa-research-privacy
-description: >-
-  Implements HIPAA Privacy Rule requirements for research uses of protected
-  health information under 45 CFR §164.512(i). Covers IRB and Privacy Board
-  waivers of authorization, individual authorization for research, limited
-  data set and data use agreements, preparatory to research provisions, and
-  decedent research provisions. Keywords: HIPAA research, IRB waiver,
-  Privacy Board, authorization, limited data set, preparatory research,
-  de-identification, Common Rule.
+description: "Use when implementing HIPAA Privacy Rule requirements for research uses\
+  \ of protected health information under 45 CFR \xA7164.512(i). Covers IRB and Privacy\
+  \ Board waivers of authorization, individual authorization for research, limited\
+  \ data set and data use agreements, preparatory to research provisions, and decedent\
+  \ research provisions. Keywords: HIPAA research, IRB waiver, Privacy Board, authorization,\
+  \ limited data set, preparatory research, de-identification, Common Rule. Do NOT\
+  \ use for non-medical commercial retail apps or general e-commerce analytics."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, research-privacy, irb, privacy-board, authorization, limited-data-set, common-rule, phi-research"
+  tags: hipaa, research-privacy, irb, privacy-board, authorization, limited-data-set,
+    common-rule, phi-research
 ---
 
 # HIPAA Research Privacy — 45 CFR §164.512(i)

@@ -1,19 +1,19 @@
 ---
 name: children-deletion-requests
-description: >-
-  Manages deletion requests for children's personal data. Covers
-  parental-initiated versus child-initiated requests, age of capacity
-  assessment, identity verification, scope determination, third-party
-  notification obligations, and regulatory timelines under GDPR Art. 17,
-  COPPA Section 312.6, and UK AADC Standard 15. Keywords: deletion,
-  children, right to erasure, parental request, data deletion, COPPA.
+description: 'Use when managing deletion requests for children''s personal data. Covers
+  parental-initiated versus child-initiated requests, age of capacity assessment,
+  identity verification, scope determination, third-party notification obligations,
+  and regulatory timelines under GDPR Art. 17, COPPA Section 312.6, and UK AADC Standard
+  15. Keywords: deletion, children, right to erasure, parental request, data deletion,
+  COPPA. Do NOT use for standard adult-only user onboarding or general non-age-restricted
+  services.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: children-data-protection
-  tags: "deletion, children, right-to-erasure, parental-request, data-deletion, coppa"
+  tags: deletion, children, right-to-erasure, parental-request, data-deletion, coppa
 ---
 
 # Managing Deletion Requests for Children's Data

@@ -1,18 +1,18 @@
 ---
 name: gdpr-dpa-cooperation
-description: >-
-  Guides cooperation with GDPR supervisory authorities under Article 31,
-  including procedures for responding to investigations, information requests,
-  and on-site inspections. Covers controller and processor obligations during
+description: 'Use when guiding or evaluating cooperation with GDPR supervisory authorities
+  under Article 31, including procedures for responding to investigations, information
+  requests, and on-site inspections. Covers controller and processor obligations during
   supervisory authority interactions. Keywords: supervisory authority, Article 31,
-  cooperation, DPA investigation, information request, inspection.
+  cooperation, DPA investigation, information request, inspection. Do NOT use for
+  non-GDPR US-only local state compliance or general software testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: gdpr-compliance
-  tags: "gdpr, supervisory-authority, article-31, cooperation, investigation, dpa"
+  tags: gdpr, supervisory-authority, article-31, cooperation, investigation, dpa
 ---
 
 # GDPR Supervisory Authority Cooperation

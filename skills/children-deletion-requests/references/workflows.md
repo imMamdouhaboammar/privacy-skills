@@ -21,7 +21,7 @@ Deletion request received concerning a child's data
 │  │  │  └─ NO → Redirect to parent:
 │  │  │     "We need your parent or guardian to submit this request.
 │  │  │      Here's how they can do it: [instructions]"
-│  │  │     Do NOT refuse the request outright; assist the child.
+│  │  │     Do NOT reject the deletion request outright; assist the child.
 │  │  │
 │  │  └─ Exception: if the child demonstrates Gillick competency
 │  │     (UK) or equivalent maturity, consider accepting directly

@@ -1,17 +1,17 @@
 ---
 name: designing-federated-learning-architecture
-description: >-
-  Architecture guide for GDPR-compliant federated learning systems. Covers horizontal
-  and vertical FL, aggregation strategies (FedAvg, FedProx), communication efficiency,
-  secure aggregation, and differential privacy integration. Includes privacy guarantees
-  analysis and deployment patterns for cross-organizational ML without data sharing.
+description: Use when architecture guide for GDPR-compliant federated learning systems.
+  Covers horizontal and vertical FL, aggregation strategies (FedAvg, FedProx), communication
+  efficiency, secure aggregation, and differential privacy integration. Includes privacy
+  guarantees analysis and deployment patterns for cross-organizational ML without
+  data sharing. Do NOT use for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "federated-learning, fedavg, secure-aggregation, distributed-ml, privacy-preserving-ml"
+  tags: federated-learning, fedavg, secure-aggregation, distributed-ml, privacy-preserving-ml
 ---
 
 # Designing Federated Learning Architecture

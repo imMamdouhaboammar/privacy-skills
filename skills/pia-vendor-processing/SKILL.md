@@ -1,19 +1,19 @@
 ---
 name: pia-vendor-processing
-description: >-
-  Conducts Privacy Impact Assessment for vendor and third-party data processing
-  arrangements. Covers processor due diligence, Data Processing Agreement (DPA)
-  requirements under GDPR Article 28, sub-processor management, cross-border
-  vendor transfers, cloud service provider assessments, and ongoing vendor
-  monitoring. Keywords: vendor PIA, processor assessment, DPA, Article 28,
-  sub-processor, cloud privacy, third-party risk.
+description: 'Use when conducting Privacy Impact Assessment for vendor and third-party
+  data processing arrangements. Covers processor due diligence, Data Processing Agreement
+  (DPA) requirements under GDPR Article 28, sub-processor management, cross-border
+  vendor transfers, cloud service provider assessments, and ongoing vendor monitoring.
+  Keywords: vendor PIA, processor assessment, DPA, Article 28, sub-processor, cloud
+  privacy, third-party risk. Do NOT use for routine software feature roadmap planning
+  or general QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "vendor-pia, processor-assessment, dpa, article-28, sub-processor, cloud-privacy"
+  tags: vendor-pia, processor-assessment, dpa, article-28, sub-processor, cloud-privacy
 ---
 
 # Privacy Impact Assessment for Vendor Processing

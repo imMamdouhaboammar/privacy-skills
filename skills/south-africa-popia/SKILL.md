@@ -1,18 +1,18 @@
 ---
 name: south-africa-popia
-description: >-
-  Implements compliance with South Africa's Protection of Personal Information
-  Act (POPIA), Act No. 4 of 2013. Covers conditions for lawful processing,
-  data subject rights, cross-border transfer restrictions, Information Regulator
-  enforcement, and responsible party obligations. Keywords: POPIA, South Africa,
-  Information Regulator, responsible party, operator, prior authorisation.
+description: 'Use when implementing compliance with South Africa''s Protection of
+  Personal Information Act (POPIA), Act No. 4 of 2013. Covers conditions for lawful
+  processing, data subject rights, cross-border transfer restrictions, Information
+  Regulator enforcement, and responsible party obligations. Keywords: POPIA, South
+  Africa, Information Regulator, responsible party, operator, prior authorisation.
+  Do NOT use for generic software engineering or non-privacy legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "popia, south-africa, information-regulator, cross-border-transfer, responsible-party"
+  tags: popia, south-africa, information-regulator, cross-border-transfer, responsible-party
 ---
 
 # South Africa POPIA Compliance

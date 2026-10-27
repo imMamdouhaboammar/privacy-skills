@@ -1,18 +1,20 @@
 ---
 name: backup-retention-erasure
-description: >-
-  Manages backup and archive data under retention schedules and erasure obligations. Covers
-  the technical infeasibility exception for backup deletion, backup cycle alignment with
-  retention periods, restore-and-delete procedures, and interim protective measures during
-  backup retention. Activate for backup deletion, archive erasure, backup retention, restore
-  and delete, technical infeasibility queries.
+description: Use when managing backup and archive data under retention schedules and
+  erasure obligations. Covers the technical infeasibility exception for backup deletion,
+  backup cycle alignment with retention periods, restore-and-delete procedures, and
+  interim protective measures during backup retention. Activate for backup deletion,
+  archive erasure, backup retention, restore and delete, technical infeasibility queries.
+  Do NOT use for active database performance tuning or temporary in-memory session
+  caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "backup-retention, archive-erasure, restore-and-delete, technical-infeasibility, backup-lifecycle"
+  tags: backup-retention, archive-erasure, restore-and-delete, technical-infeasibility,
+    backup-lifecycle
 ---
 
 # Backup Retention and Erasure Management

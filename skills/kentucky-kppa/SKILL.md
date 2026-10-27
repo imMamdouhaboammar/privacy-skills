@@ -1,17 +1,16 @@
 ---
 name: kentucky-kppa
-description: >-
-  Kentucky Consumer Privacy Protection Act (KPPA) compliance. Effective
-  January 1, 2026. Covers consumer rights, controller thresholds at
-  100,000 consumers, sensitive data processing consent, cure period
-  provisions, and AG enforcement framework.
+description: Use when kentucky Consumer Privacy Protection Act (KPPA) compliance.
+  Effective January 1, 2026. Covers consumer rights, controller thresholds at 100,000
+  consumers, sensitive data processing consent, cure period provisions, and AG enforcement
+  framework. Do NOT use for pure EU GDPR cross-border matters or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "kentucky-kppa, consumer-rights, sensitive-data, cure-period, 2026-effective"
+  tags: kentucky-kppa, consumer-rights, sensitive-data, cure-period, 2026-effective
 ---
 
 # Kentucky Consumer Privacy Protection Act (KPPA)

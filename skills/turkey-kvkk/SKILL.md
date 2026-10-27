@@ -1,18 +1,18 @@
 ---
 name: turkey-kvkk
-description: >-
-  Implements compliance with Turkey's Personal Data Protection Law (Kisisel
-  Verilerin Korunmasi Kanunu, KVKK, Law No. 6698). Covers data controller
-  obligations, data subject rights, VERBIS registration, cross-border transfer
-  restrictions, Board decisions, and administrative fines. Keywords: KVKK,
-  Turkey, VERBIS, data controller registry, Board decision, cross-border.
+description: 'Use when implementing compliance with Turkey''s Personal Data Protection
+  Law (Kisisel Verilerin Korunmasi Kanunu, KVKK, Law No. 6698). Covers data controller
+  obligations, data subject rights, VERBIS registration, cross-border transfer restrictions,
+  Board decisions, and administrative fines. Keywords: KVKK, Turkey, VERBIS, data
+  controller registry, Board decision, cross-border. Do NOT use for generic software
+  engineering or non-privacy legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "kvkk, turkey, verbis, cross-border-transfer, data-controller-registry"
+  tags: kvkk, turkey, verbis, cross-border-transfer, data-controller-registry
 ---
 
 # Turkey KVKK Compliance

@@ -1,16 +1,17 @@
 ---
 name: analytics-cookie-consent
-description: >-
-  Managing consent for analytics cookies and implementing privacy-preserving
-  measurement. Covers GA4 privacy configuration, consent mode fallback behavior,
-  aggregate reporting alternatives, and cookieless measurement approaches.
+description: Use when managing consent for analytics cookies and implementing privacy-preserving
+  measurement. Covers GA4 privacy configuration, consent mode fallback behavior, aggregate
+  reporting alternatives, and cookieless measurement approaches. Do NOT use for backend
+  database connection pooling or server-side cache control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "analytics-consent, ga4-privacy, cookieless-analytics, aggregate-reporting, privacy-measurement"
+  tags: analytics-consent, ga4-privacy, cookieless-analytics, aggregate-reporting,
+    privacy-measurement
 ---
 
 # Managing Consent for Analytics Cookies

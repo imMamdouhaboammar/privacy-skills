@@ -1,17 +1,19 @@
 ---
 name: scc-implementation
-description: >-
-  Guides implementation of EU Standard Contractual Clauses under Commission Decision
-  2021/914 across all four modules (C2C, C2P, P2P, P2C). Covers clause-by-clause
-  completion, Annex I-III drafting, and SCC module selection. Keywords: SCCs, standard
-  contractual clauses, module selection, data transfers, Annex completion.
+description: 'Use when guiding or evaluating implementation of EU Standard Contractual
+  Clauses under Commission Decision 2021/914 across all four modules (C2C, C2P, P2P,
+  P2C). Covers clause-by-clause completion, Annex I-III drafting, and SCC module selection.
+  Keywords: SCCs, standard contractual clauses, module selection, data transfers,
+  Annex completion. Do NOT use for intra-datacenter local networking or single-jurisdiction
+  domestic operations.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cross-border-transfers
-  tags: "sccs, standard-contractual-clauses, cross-border-transfers, gdpr-article-46, data-export"
+  tags: sccs, standard-contractual-clauses, cross-border-transfers, gdpr-article-46,
+    data-export
 ---
 
 # Implementing Standard Contractual Clauses

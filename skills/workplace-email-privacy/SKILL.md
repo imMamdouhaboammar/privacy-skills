@@ -1,19 +1,19 @@
 ---
 name: workplace-email-privacy
-description: >-
-  Implements email and internet monitoring compliance in the workplace per
-  Barbulescu v Romania (ECHR Grand Chamber), EDPB guidance, and national
-  labour law. Covers acceptable use policies, legitimate expectation of
-  privacy, proportionality testing, and content vs metadata monitoring.
-  Keywords: email monitoring, Barbulescu, workplace privacy, internet
-  monitoring, acceptable use policy, ECHR, proportionality.
+description: 'Use when implementing email and internet monitoring compliance in the
+  workplace per Barbulescu v Romania (ECHR Grand Chamber), EDPB guidance, and national
+  labour law. Covers acceptable use policies, legitimate expectation of privacy, proportionality
+  testing, and content vs metadata monitoring. Keywords: email monitoring, Barbulescu,
+  workplace privacy, internet monitoring, acceptable use policy, ECHR, proportionality.
+  Do NOT use for public customer CRM lead tracking or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "email-monitoring, barbulescu, workplace-privacy, internet-monitoring, acceptable-use, proportionality"
+  tags: email-monitoring, barbulescu, workplace-privacy, internet-monitoring, acceptable-use,
+    proportionality
 ---
 
 # Workplace Email Privacy

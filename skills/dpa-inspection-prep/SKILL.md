@@ -1,19 +1,20 @@
 ---
 name: dpa-inspection-prep
-description: >-
-  Guides preparation for supervisory authority (DPA) inspections and investigations
-  including document readiness checklists, interview preparation for key personnel,
-  technical demonstration procedures, on-site logistics, response protocols, and
-  post-inspection follow-up. Covers unannounced inspections, formal audits, and
-  complaint-triggered investigations. Keywords: DPA inspection, supervisory authority,
-  investigation, readiness, interview preparation, response protocol.
+description: 'Use when guiding or evaluating preparation for supervisory authority
+  (DPA) inspections and investigations including document readiness checklists, interview
+  preparation for key personnel, technical demonstration procedures, on-site logistics,
+  response protocols, and post-inspection follow-up. Covers unannounced inspections,
+  formal audits, and complaint-triggered investigations. Keywords: DPA inspection,
+  supervisory authority, investigation, readiness, interview preparation, response
+  protocol. Do NOT use for routine code unit test suites or continuous integration
+  pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "dpa-inspection, supervisory-authority, investigation, readiness, response-protocol"
+  tags: dpa-inspection, supervisory-authority, investigation, readiness, response-protocol
 ---
 
 # Supervisory Authority Inspection Preparation

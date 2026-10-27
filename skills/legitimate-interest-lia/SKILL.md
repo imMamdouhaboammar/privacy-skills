@@ -1,18 +1,18 @@
 ---
 name: legitimate-interest-lia
-description: >-
-  Guides the three-part Legitimate Interest Assessment (LIA) required under GDPR
-  Article 6(1)(f): purpose test, necessity test, and balancing test. Activate when
-  evaluating legitimate interest as a lawful basis, conducting LIA reviews, or
-  documenting proportionality analysis. Keywords: LIA, legitimate interest,
-  balancing test, necessity test, purpose test, Article 6(1)(f).
+description: 'Use when guiding or evaluating the three-part Legitimate Interest Assessment
+  (LIA) required under GDPR Article 6(1)(f): purpose test, necessity test, and balancing
+  test. Activate when evaluating legitimate interest as a lawful basis, conducting
+  LIA reviews, or documenting proportionality analysis. Keywords: LIA, legitimate
+  interest, balancing test, necessity test, purpose test, Article 6(1)(f). Do NOT
+  use for non-GDPR US-only local state compliance or general software testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: gdpr-compliance
-  tags: "gdpr, legitimate-interest, lia, balancing-test, article-6, proportionality"
+  tags: gdpr, legitimate-interest, lia, balancing-test, article-6, proportionality
 ---
 
 # Performing Legitimate Interest Assessment

@@ -1,17 +1,17 @@
 ---
 name: state-law-applicability
-description: >-
-  US state privacy law applicability assessment tool. Evaluates revenue
-  thresholds, data volume thresholds, business exemptions (GLBA, HIPAA,
-  nonprofits), employee data carve-outs, and SBA small business
-  determinations across all enacted state privacy laws.
+description: Use when uS state privacy law applicability assessment tool. Evaluates
+  revenue thresholds, data volume thresholds, business exemptions (GLBA, HIPAA, nonprofits),
+  employee data carve-outs, and SBA small business determinations across all enacted
+  state privacy laws. Do NOT use for pure EU GDPR cross-border matters or non-US regional
+  frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "applicability, thresholds, exemptions, glba, hipaa, small-business"
+  tags: applicability, thresholds, exemptions, glba, hipaa, small-business
 ---
 
 # State Privacy Law Applicability Assessment

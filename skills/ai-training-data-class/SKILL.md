@@ -1,17 +1,17 @@
 ---
 name: ai-training-data-class
-description: >-
-  Classifies sensitive data in AI/ML training datasets including bias detection
-  for Art. 9 categories, data card documentation, provenance tracking, and
-  consent verification for model training. Keywords: AI training data, ML
-  dataset, bias detection, data card, model training, Art 9, consent, GDPR AI.
+description: 'Use when classifying sensitive data in AI/ML training datasets including
+  bias detection for Art. 9 categories, data card documentation, provenance tracking,
+  and consent verification for model training. Keywords: AI training data, ML dataset,
+  bias detection, data card, model training, Art 9, consent, GDPR AI. Do NOT use for
+  database index optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "ai-training-data, ml-dataset, bias-detection, data-card, model-training, gdpr-ai"
+  tags: ai-training-data, ml-dataset, bias-detection, data-card, model-training, gdpr-ai
 ---
 
 # Sensitive Data Classification for AI/ML Training Datasets

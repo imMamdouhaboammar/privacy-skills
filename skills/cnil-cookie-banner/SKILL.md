@@ -1,17 +1,17 @@
 ---
 name: cnil-cookie-banner
-description: >-
-  Designing and implementing CNIL-compliant cookie consent banners for French and
-  EU audiences. References the EUR 100M Google LLC fine and EUR 150M Meta Platforms
-  fine for non-compliant cookie practices. Covers equal prominence, reject-all buttons,
-  cookie walls prohibition, and 6-month reconsent cycles.
+description: Use when designing and implementing CNIL-compliant cookie consent banners
+  for French and EU audiences. References the EUR 100M Google LLC fine and EUR 150M
+  Meta Platforms fine for non-compliant cookie practices. Covers equal prominence,
+  reject-all buttons, cookie walls prohibition, and 6-month reconsent cycles. Do NOT
+  use for backend database connection pooling or server-side cache control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "cnil, cookie-banner, french-privacy, google-fine, meta-fine, cookie-wall"
+  tags: cnil, cookie-banner, french-privacy, google-fine, meta-fine, cookie-wall
 ---
 
 # CNIL-Compliant Cookie Banner Implementation

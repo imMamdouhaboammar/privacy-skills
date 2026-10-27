@@ -1,17 +1,17 @@
 ---
 name: implementing-secure-multi-party-computation
-description: >-
-  Implementation guide for secure multi-party computation enabling privacy-preserving
-  analytics across organizations. Covers secret sharing, garbled circuits, reference
-  frameworks MP-SPDZ and CrypTen, practical deployment patterns, and GDPR alignment
-  for joint controller analytics without revealing individual party inputs.
+description: Use when implementation guide for secure multi-party computation enabling
+  privacy-preserving analytics across organizations. Covers secret sharing, garbled
+  circuits, reference frameworks MP-SPDZ and CrypTen, practical deployment patterns,
+  and GDPR alignment for joint controller analytics without revealing individual party
+  inputs. Do NOT use for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "secure-mpc, secret-sharing, garbled-circuits, mp-spdz, crypten"
+  tags: secure-mpc, secret-sharing, garbled-circuits, mp-spdz, crypten
 ---
 
 # Implementing Secure Multi-Party Computation

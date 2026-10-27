@@ -1,20 +1,19 @@
 ---
 name: new-tech-pia
-description: >-
-  Guides privacy impact assessment for emerging technologies including IoT,
-  blockchain, AR/VR, quantum computing, and digital twins. Covers risk
-  identification methodology, proportionality assessment, and technology-specific
-  privacy challenges. Activate when evaluating new technology adoption,
-  innovation projects, or emerging tech procurement. Keywords: PIA, emerging
-  technology, IoT, blockchain, AR/VR, quantum computing, digital twins,
-  innovation privacy.
+description: 'Use when guiding or evaluating privacy impact assessment for emerging
+  technologies including IoT, blockchain, AR/VR, quantum computing, and digital twins.
+  Covers risk identification methodology, proportionality assessment, and technology-specific
+  privacy challenges. Activate when evaluating new technology adoption, innovation
+  projects, or emerging tech procurement. Keywords: PIA, emerging technology, IoT,
+  blockchain, AR/VR, quantum computing, digital twins, innovation privacy. Do NOT
+  use for routine software feature roadmap planning or general QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "pia, emerging-technology, iot, blockchain, ar-vr, quantum-computing"
+  tags: pia, emerging-technology, iot, blockchain, ar-vr, quantum-computing
 ---
 
 # Assessing New Technology Privacy Impact

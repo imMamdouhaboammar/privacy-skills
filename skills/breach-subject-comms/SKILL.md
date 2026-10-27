@@ -1,19 +1,19 @@
 ---
 name: breach-subject-comms
-description: >-
-  Manages direct communication to affected data subjects following a personal
-  data breach under GDPR Article 34 when the breach is likely to result in a
-  high risk to their rights and freedoms. Covers the high risk threshold,
-  required notification content per Art. 34(2), exemptions under Art. 34(3),
-  and breach notification letter templates for five scenarios. Keywords: data
-  subject notification, Article 34, high risk, breach communication, GDPR.
+description: 'Use when managing direct communication to affected data subjects following
+  a personal data breach under GDPR Article 34 when the breach is likely to result
+  in a high risk to their rights and freedoms. Covers the high risk threshold, required
+  notification content per Art. 34(2), exemptions under Art. 34(3), and breach notification
+  letter templates for five scenarios. Keywords: data subject notification, Article
+  34, high risk, breach communication, GDPR. Do NOT use for routine non-security application
+  bug triage or scheduled system downtime notices.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-breach-response
-  tags: "data-subject-notification, article-34, high-risk, breach-letter, gdpr, communication"
+  tags: data-subject-notification, article-34, high-risk, breach-letter, gdpr, communication
 ---
 
 # Managing Data Subject Breach Communication

@@ -1,16 +1,16 @@
 ---
 name: cookie-lifetime-audit
-description: >-
-  Auditing cookie lifetimes against regulatory recommendations and browser policies.
-  Covers CNIL 13-month maximum recommendation, session vs persistent classification,
-  third-party cookie phase-out impact, and Safari ITP duration caps.
+description: Use when auditing cookie lifetimes against regulatory recommendations
+  and browser policies. Covers CNIL 13-month maximum recommendation, session vs persistent
+  classification, third-party cookie phase-out impact, and Safari ITP duration caps.
+  Do NOT use for backend database connection pooling or server-side cache control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "cookie-lifetime, cookie-duration, cnil-13-month, itp, cookie-phase-out"
+  tags: cookie-lifetime, cookie-duration, cnil-13-month, itp, cookie-phase-out
 ---
 
 # Auditing Cookie Lifetimes

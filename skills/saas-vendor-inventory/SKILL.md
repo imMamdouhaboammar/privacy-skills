@@ -1,16 +1,16 @@
 ---
 name: saas-vendor-inventory
-description: >-
-  SaaS vendor data processing inventory management. Covers shadow IT discovery,
-  API-based data flow detection, processing purpose mapping, contract status
-  tracking, and continuous inventory reconciliation for cloud service providers.
+description: Use when saaS vendor data processing inventory management. Covers shadow
+  IT discovery, API-based data flow detection, processing purpose mapping, contract
+  status tracking, and continuous inventory reconciliation for cloud service providers.
+  Do NOT use for internal employee performance evaluations or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "saas-inventory, shadow-it, data-flow-detection, vendor-register, cloud-services"
+  tags: saas-inventory, shadow-it, data-flow-detection, vendor-register, cloud-services
 ---
 
 # SaaS Vendor Data Processing Inventory

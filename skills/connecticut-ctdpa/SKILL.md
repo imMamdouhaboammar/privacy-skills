@@ -1,17 +1,17 @@
 ---
 name: connecticut-ctdpa
-description: >-
-  Connecticut Data Privacy Act (CTDPA) compliance. Covers consumer rights,
-  controller obligations, dark pattern prohibition, loyalty program
-  exemption, universal opt-out requirement effective January 2025,
-  sensitive data consent, and AG enforcement. Effective July 1, 2023.
+description: Use when connecticut Data Privacy Act (CTDPA) compliance. Covers consumer
+  rights, controller obligations, dark pattern prohibition, loyalty program exemption,
+  universal opt-out requirement effective January 2025, sensitive data consent, and
+  AG enforcement. Effective July 1, 2023. Do NOT use for pure EU GDPR cross-border
+  matters or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "ctdpa, connecticut-privacy, dark-patterns, loyalty-program, universal-opt-out"
+  tags: ctdpa, connecticut-privacy, dark-patterns, loyalty-program, universal-opt-out
 ---
 
 # Connecticut Data Privacy Act (CTDPA)

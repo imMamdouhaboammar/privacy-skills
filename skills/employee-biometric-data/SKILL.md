@@ -1,19 +1,20 @@
 ---
 name: employee-biometric-data
-description: >-
-  Governs biometric data processing for employee timekeeping and access control
-  under Art. 9 GDPR special category rules. Covers fingerprint, facial
-  recognition, iris scanning, and voice recognition. Applies necessity tests,
-  evaluates less intrusive alternatives, and implements employee objection
-  procedures. Keywords: biometric data, Art. 9, fingerprint, facial
-  recognition, access control, timekeeping, special category.
+description: 'Use when governs biometric data processing for employee timekeeping
+  and access control under Art. 9 GDPR special category rules. Covers fingerprint,
+  facial recognition, iris scanning, and voice recognition. Applies necessity tests,
+  evaluates less intrusive alternatives, and implements employee objection procedures.
+  Keywords: biometric data, Art. 9, fingerprint, facial recognition, access control,
+  timekeeping, special category. Do NOT use for public customer CRM lead tracking
+  or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "biometric-data, article-9, fingerprint, facial-recognition, access-control, special-category"
+  tags: biometric-data, article-9, fingerprint, facial-recognition, access-control,
+    special-category
 ---
 
 # Employee Biometric Data

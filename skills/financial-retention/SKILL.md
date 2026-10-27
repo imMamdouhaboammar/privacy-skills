@@ -1,18 +1,19 @@
 ---
 name: financial-retention
-description: >-
-  Implements financial records retention requirements across EU directives (5-7 years),
-  SOX Section 802 (7 years), MiFID II (5-7 years), tax records, payment data, and AML
-  obligations under AMLD. Maps financial data categories to statutory retention periods
-  with cross-jurisdictional reconciliation. Activate for financial retention, SOX records,
-  MiFID retention, AML retention, tax record keeping queries.
+description: Use when implementing financial records retention requirements across
+  EU directives (5-7 years), SOX Section 802 (7 years), MiFID II (5-7 years), tax
+  records, payment data, and AML obligations under AMLD. Maps financial data categories
+  to statutory retention periods with cross-jurisdictional reconciliation. Activate
+  for financial retention, SOX records, MiFID retention, AML retention, tax record
+  keeping queries. Do NOT use for active database performance tuning or temporary
+  in-memory session caching.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-retention-deletion
-  tags: "financial-retention, sox-compliance, mifid-ii, aml-retention, tax-records"
+  tags: financial-retention, sox-compliance, mifid-ii, aml-retention, tax-records
 ---
 
 # Financial Records Retention

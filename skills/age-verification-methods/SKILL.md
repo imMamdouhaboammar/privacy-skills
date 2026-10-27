@@ -1,19 +1,18 @@
 ---
 name: age-verification-methods
-description: >-
-  Evaluates and implements age estimation and verification technologies
-  for online services. Covers facial age estimation, digital ID
-  verification, self-declaration with risk assessment, AI-based age
-  estimation, and the accuracy versus privacy tradeoff. Includes ICO
-  guidance and euCONSENT framework. Keywords: age verification, age
-  estimation, facial analysis, digital ID, children, online safety.
+description: 'Use when evaluating and implements age estimation and verification technologies
+  for online services. Covers facial age estimation, digital ID verification, self-declaration
+  with risk assessment, AI-based age estimation, and the accuracy versus privacy tradeoff.
+  Includes ICO guidance and euCONSENT framework. Keywords: age verification, age estimation,
+  facial analysis, digital ID, children, online safety. Do NOT use for standard adult-only
+  user onboarding or general non-age-restricted services.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: children-data-protection
-  tags: "age-verification, age-estimation, facial-analysis, digital-id, children, online-safety"
+  tags: age-verification, age-estimation, facial-analysis, digital-id, children, online-safety
 ---
 
 # Age Verification and Estimation Methods

@@ -1,19 +1,19 @@
 ---
 name: gdpr-dpa-art28
-description: >-
-  Guides the creation and review of data processing agreements under GDPR Article
-  28(3), covering all eight mandatory clauses. References the 2021 Standard
-  Contractual Clauses and provides a compliance checklist for processor contracts.
-  Activate when onboarding processors, reviewing DPAs, or auditing processor
-  compliance. Keywords: DPA, data processing agreement, Article 28, processor,
-  mandatory clauses, standard contractual clauses.
+description: 'Use when guiding or evaluating the creation and review of data processing
+  agreements under GDPR Article 28(3), covering all eight mandatory clauses. References
+  the 2021 Standard Contractual Clauses and provides a compliance checklist for processor
+  contracts. Activate when onboarding processors, reviewing DPAs, or auditing processor
+  compliance. Keywords: DPA, data processing agreement, Article 28, processor, mandatory
+  clauses, standard contractual clauses. Do NOT use for non-GDPR US-only local state
+  compliance or general software testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: gdpr-compliance
-  tags: "gdpr, dpa, article-28, processor, data-processing-agreement, scc"
+  tags: gdpr, dpa, article-28, processor, data-processing-agreement, scc
 ---
 
 # Establishing Data Processing Agreements

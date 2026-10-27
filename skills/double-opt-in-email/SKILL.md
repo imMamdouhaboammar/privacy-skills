@@ -1,17 +1,17 @@
 ---
 name: double-opt-in-email
-description: >-
-  Implementation guide for ePrivacy Directive compliant double opt-in email consent.
-  Covers confirmation email workflow design, token expiration handling, record-keeping
-  requirements, suppression list management, and integration with CAN-SPAM Act and
-  CASL requirements for multi-jurisdiction compliance.
+description: Use when implementation guide for ePrivacy Directive compliant double
+  opt-in email consent. Covers confirmation email workflow design, token expiration
+  handling, record-keeping requirements, suppression list management, and integration
+  with CAN-SPAM Act and CASL requirements for multi-jurisdiction compliance. Do NOT
+  use for server-side cache headers or non-browser API rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "double-opt-in, email-consent, eprivacy-directive, email-marketing, suppression-list"
+  tags: double-opt-in, email-consent, eprivacy-directive, email-marketing, suppression-list
 ---
 
 # Implementing Double Opt-In Email

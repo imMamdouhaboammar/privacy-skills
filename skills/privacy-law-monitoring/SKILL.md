@@ -1,17 +1,19 @@
 ---
 name: privacy-law-monitoring
-description: >-
-  Guides privacy law change monitoring and impact assessment for multi-jurisdiction
-  organisations. Covers regulatory tracking sources, change classification, impact
-  scoring methodology, and implementation prioritisation. Keywords: law monitoring,
-  regulatory tracking, change management, impact assessment, implementation priority.
+description: 'Use when guiding or evaluating privacy law change monitoring and impact
+  assessment for multi-jurisdiction organisations. Covers regulatory tracking sources,
+  change classification, impact scoring methodology, and implementation prioritisation.
+  Keywords: law monitoring, regulatory tracking, change management, impact assessment,
+  implementation priority. Do NOT use for generic software engineering or non-privacy
+  legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "law-monitoring, regulatory-tracking, change-management, impact-assessment, implementation-priority"
+  tags: law-monitoring, regulatory-tracking, change-management, impact-assessment,
+    implementation-priority
 ---
 
 # Privacy Law Change Monitoring and Impact Assessment

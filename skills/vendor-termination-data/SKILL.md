@@ -1,16 +1,17 @@
 ---
 name: vendor-termination-data
-description: >-
-  Vendor termination data return and deletion procedures per GDPR Article
-  28(3)(g). Covers data extraction formats, deletion certification requirements,
+description: Use when vendor termination data return and deletion procedures per GDPR
+  Article 28(3)(g). Covers data extraction formats, deletion certification requirements,
   transition planning, residual data handling, and post-termination verification.
+  Do NOT use for internal employee performance evaluations or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "vendor-termination, data-return, deletion-certification, art-28-termination, data-portability"
+  tags: vendor-termination, data-return, deletion-certification, art-28-termination,
+    data-portability
 ---
 
 # Vendor Termination Data Return and Deletion

@@ -1,17 +1,17 @@
 ---
 name: privacy-data-sharing
-description: >-
-  Build privacy-preserving data sharing platforms using synthetic data generation
-  with the SDV library, data clean rooms, secure enclaves, and utility
-  measurement. Covers end-to-end architecture for sharing analytical datasets
-  while preserving individual privacy guarantees.
+description: Use when build privacy-preserving data sharing platforms using synthetic
+  data generation with the SDV library, data clean rooms, secure enclaves, and utility
+  measurement. Covers end-to-end architecture for sharing analytical datasets while
+  preserving individual privacy guarantees. Do NOT use for generic mathematical computing
+  or non-privacy algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "data-sharing, synthetic-data, data-clean-rooms, secure-enclaves, sdv-library"
+  tags: data-sharing, synthetic-data, data-clean-rooms, secure-enclaves, sdv-library
 ---
 
 # Privacy-Preserving Data Sharing Platform

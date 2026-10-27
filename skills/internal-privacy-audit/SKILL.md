@@ -1,18 +1,19 @@
 ---
 name: internal-privacy-audit
-description: >-
-  Guides internal privacy audit program design and execution including risk-based
-  audit planning, scope definition, fieldwork procedures, finding classification,
-  evidence gathering, remediation tracking, and management reporting. Covers audit
-  universe definition, annual audit plan, working papers, and closure verification.
-  Keywords: internal audit, privacy audit, fieldwork, remediation, findings, audit plan.
+description: 'Use when guiding or evaluating internal privacy audit program design
+  and execution including risk-based audit planning, scope definition, fieldwork procedures,
+  finding classification, evidence gathering, remediation tracking, and management
+  reporting. Covers audit universe definition, annual audit plan, working papers,
+  and closure verification. Keywords: internal audit, privacy audit, fieldwork, remediation,
+  findings, audit plan. Do NOT use for routine code unit test suites or continuous
+  integration pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "internal-audit, privacy-audit, fieldwork, remediation, audit-plan, findings"
+  tags: internal-audit, privacy-audit, fieldwork, remediation, audit-plan, findings
 ---
 
 # Internal Privacy Audit Program

@@ -1,18 +1,19 @@
 ---
 name: japan-appi
-description: >-
-  Guides compliance with Japan's Act on the Protection of Personal Information (APPI,
-  2022 amendments). Covers individual rights expansion, cross-border transfer restrictions
-  including pre-transfer information requirements, PPC enforcement, and pseudonymised
-  and anonymously processed information. Keywords: APPI, Japan data protection, PPC,
-  cross-border transfer, pseudonymised information, individual rights.
+description: 'Use when guiding or evaluating compliance with Japan''s Act on the Protection
+  of Personal Information (APPI, 2022 amendments). Covers individual rights expansion,
+  cross-border transfer restrictions including pre-transfer information requirements,
+  PPC enforcement, and pseudonymised and anonymously processed information. Keywords:
+  APPI, Japan data protection, PPC, cross-border transfer, pseudonymised information,
+  individual rights. Do NOT use for generic software engineering or non-privacy legal
+  documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "appi, japan-data-protection, ppc-enforcement, cross-border-transfer, pseudonymised-data"
+  tags: appi, japan-data-protection, ppc-enforcement, cross-border-transfer, pseudonymised-data
 ---
 
 # Japan APPI Compliance (2022 Amendments)

@@ -1,18 +1,19 @@
 ---
 name: pseudonymization-risk
-description: >-
-  Assessment of pseudonymization techniques and re-identification risk. Covers
-  tokenization, hashing, encryption-based pseudonymization, and hybrid approaches.
-  Includes re-identification risk scoring using the motivated intruder test,
-  quantitative metrics (marketer, journalist, prosecutor models), and linkage
-  attack resilience evaluation. References ENISA 2019 pseudonymization report.
+description: Use when assessment of pseudonymization techniques and re-identification
+  risk. Covers tokenization, hashing, encryption-based pseudonymization, and hybrid
+  approaches. Includes re-identification risk scoring using the motivated intruder
+  test, quantitative metrics (marketer, journalist, prosecutor models), and linkage
+  attack resilience evaluation. References ENISA 2019 pseudonymization report. Do
+  NOT use for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "pseudonymization, re-identification, tokenization, hashing, enisa, motivated-intruder, linkage-attack"
+  tags: pseudonymization, re-identification, tokenization, hashing, enisa, motivated-intruder,
+    linkage-attack
 ---
 
 # Assessing Pseudonymization and Re-Identification Risk

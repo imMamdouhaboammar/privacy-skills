@@ -1,18 +1,18 @@
 ---
 name: ai-automated-decisions
-description: >-
-  Implements GDPR Art. 22 automated decision-making and AI Act Art. 14 human
-  oversight requirements for AI systems. Covers identification of solely
-  automated decisions, meaningful human intervention design, logic explanation
-  mechanisms, and contestation procedures. Keywords: Art. 22, automated
-  decision, human oversight, AI Act, profiling, contestation.
+description: 'Use when implementing GDPR Art. 22 automated decision-making and AI
+  Act Art. 14 human oversight requirements for AI systems. Covers identification of
+  solely automated decisions, meaningful human intervention design, logic explanation
+  mechanisms, and contestation procedures. Keywords: Art. 22, automated decision,
+  human oversight, AI Act, profiling, contestation. Do NOT use for general non-AI
+  database migrations or basic web styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: ai-privacy-governance
-  tags: "automated-decisions, art-22, human-oversight, ai-act, profiling, contestation"
+  tags: automated-decisions, art-22, human-oversight, ai-act, profiling, contestation
 ---
 
 # AI Automated Decision-Making and Human Oversight

@@ -1,19 +1,18 @@
 ---
 name: children-privacy-notice
-description: >-
-  Designs and implements privacy notices for children that comply with
-  GDPR Articles 12-14, UK AADC Standard 4, and COPPA Section 312.4.
-  Covers plain language, visual explanations, layered information,
-  age-appropriate vocabulary, and interactive notice elements.
-  Keywords: children privacy notice, transparency, plain language,
-  visual, age-appropriate, layered notice.
+description: 'Use when designing and implements privacy notices for children that
+  comply with GDPR Articles 12-14, UK AADC Standard 4, and COPPA Section 312.4. Covers
+  plain language, visual explanations, layered information, age-appropriate vocabulary,
+  and interactive notice elements. Keywords: children privacy notice, transparency,
+  plain language, visual, age-appropriate, layered notice. Do NOT use for standard
+  adult-only user onboarding or general non-age-restricted services.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: children-data-protection
-  tags: "privacy-notice, children, transparency, plain-language, age-appropriate, layered-notice"
+  tags: privacy-notice, children, transparency, plain-language, age-appropriate, layered-notice
 ---
 
 # Children's Privacy Notice Design

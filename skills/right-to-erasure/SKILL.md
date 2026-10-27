@@ -1,17 +1,18 @@
 ---
 name: right-to-erasure
-description: >-
-  Implements the GDPR Article 17 right to erasure (right to be forgotten) workflow,
-  covering all six grounds for erasure, five exceptions, technical deletion versus
-  anonymization decisions, and third-party notification under Article 19.
-  Activate for erasure request, deletion request, right to be forgotten, Art. 17 queries.
+description: Use when implementing the GDPR Article 17 right to erasure (right to
+  be forgotten) workflow, covering all six grounds for erasure, five exceptions, technical
+  deletion versus anonymization decisions, and third-party notification under Article
+  19. Activate for erasure request, deletion request, right to be forgotten, Art.
+  17 queries. Do NOT use for general administrative user profile CRUD updates or routine
+  password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "right-to-erasure, right-to-be-forgotten, gdpr-article-17, data-deletion, anonymization"
+  tags: right-to-erasure, right-to-be-forgotten, gdpr-article-17, data-deletion, anonymization
 ---
 
 # Implementing Right to Erasure Workflow

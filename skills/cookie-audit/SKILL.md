@@ -1,16 +1,16 @@
 ---
 name: cookie-audit
-description: >-
-  Comprehensive methodology for auditing website cookies and tracking technologies.
-  Covers automated scanning, cookie categorization, lifecycle documentation, and
-  compliance gap analysis referencing the Planet49 CJEU ruling (C-673/17).
+description: Use when comprehensive methodology for auditing website cookies and tracking
+  technologies. Covers automated scanning, cookie categorization, lifecycle documentation,
+  and compliance gap analysis referencing the Planet49 CJEU ruling (C-673/17). Do
+  NOT use for backend database connection pooling or server-side cache control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "cookie-audit, cookie-scanning, tracker-detection, planet49, cookie-categorization"
+  tags: cookie-audit, cookie-scanning, tracker-detection, planet49, cookie-categorization
 ---
 
 # Auditing Website Cookies and Trackers

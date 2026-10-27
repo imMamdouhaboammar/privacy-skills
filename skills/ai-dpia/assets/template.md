@@ -53,10 +53,10 @@
 
 ```
 [Training Data Sources] → [Data Preprocessing] → [Model Training] → [Model Registry]
-                                                                           ↓
+    ↓
 [Inference Input] → [Preprocessing] → [Model Inference] → [Post-processing] → [Decision/Action]
-                                                                                      ↓
-                                                                              [Human Review?]
+    ↓
+    [Human Review?]
 ```
 
 Attach detailed data flow diagram as appendix.

@@ -1,18 +1,18 @@
 ---
 name: cpra-opt-out-signals
-description: >-
-  Implements CPRA Section 1798.135 opt-out preference signal handling, covering
-  Global Privacy Control (GPC) technical detection, automated signal honoring,
-  cross-device consistency, and the relationship between browser signals and
-  explicit consumer choices. Activate for GPC, opt-out preference signal,
-  CPRA 1798.135, browser privacy signal, Do Not Sell queries.
+description: Use when implementing CPRA Section 1798.135 opt-out preference signal
+  handling, covering Global Privacy Control (GPC) technical detection, automated signal
+  honoring, cross-device consistency, and the relationship between browser signals
+  and explicit consumer choices. Activate for GPC, opt-out preference signal, CPRA
+  1798.135, browser privacy signal, Do Not Sell queries. Do NOT use for general administrative
+  user profile CRUD updates or routine password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "opt-out-preference-signal, gpc, cpra, global-privacy-control, do-not-sell"
+  tags: opt-out-preference-signal, gpc, cpra, global-privacy-control, do-not-sell
 ---
 
 # Implementing CPRA Opt-Out Preference Signals

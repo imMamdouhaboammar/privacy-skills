@@ -1,19 +1,19 @@
 ---
 name: cloud-migration-dpia
-description: >-
-  Guides DPIA for migrating personal data to cloud infrastructure covering
-  controller-processor analysis under Art. 28, international transfer
-  assessment, encryption requirements, and shared responsibility model
-  evaluation. Activate for cloud adoption, SaaS procurement, or data centre
-  migration projects. Keywords: cloud migration, DPIA, Art. 28, processor,
-  encryption, shared responsibility, SaaS, IaaS, PaaS.
+description: 'Use when guiding or evaluating DPIA for migrating personal data to cloud
+  infrastructure covering controller-processor analysis under Art. 28, international
+  transfer assessment, encryption requirements, and shared responsibility model evaluation.
+  Activate for cloud adoption, SaaS procurement, or data centre migration projects.
+  Keywords: cloud migration, DPIA, Art. 28, processor, encryption, shared responsibility,
+  SaaS, IaaS, PaaS. Do NOT use for routine software feature roadmap planning or general
+  QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "cloud-migration, dpia, art-28, processor, encryption, shared-responsibility"
+  tags: cloud-migration, dpia, art-28, processor, encryption, shared-responsibility
 ---
 
 # Assessing Cloud Migration Privacy

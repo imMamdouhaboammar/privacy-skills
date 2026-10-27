@@ -1,17 +1,18 @@
 ---
 name: nist-pf-control
-description: >-
-  Implement the NIST Privacy Framework CONTROL function covering CT.DM data
-  management, CT.DP data processing policies and procedures, and CT.PO
-  disassociated processing. Provides technical control architectures, data
-  management workflows, and de-identification implementation guidance.
+description: Use when implement the NIST Privacy Framework CONTROL function covering
+  CT.DM data management, CT.DP data processing policies and procedures, and CT.PO
+  disassociated processing. Provides technical control architectures, data management
+  workflows, and de-identification implementation guidance. Do NOT use for generic
+  mathematical computing or non-privacy algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "nist-privacy-framework, control-function, data-management, disassociated-processing, de-identification"
+  tags: nist-privacy-framework, control-function, data-management, disassociated-processing,
+    de-identification
 ---
 
 # NIST Privacy Framework — CONTROL Function

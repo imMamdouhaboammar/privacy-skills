@@ -1,18 +1,18 @@
 ---
 name: ropa-dpia-linkage
-description: >-
-  Links RoPA entries to Data Protection Impact Assessments and lawful basis
-  assessments. Covers cross-reference systems, dependency tracking, and
-  update cascade triggers between RoPA, DPIA register, and lawful basis
-  documentation. Activate for RoPA-DPIA link, cross-reference, dependency
-  tracking, impact assessment linkage, cascade updates.
+description: Use when links RoPA entries to Data Protection Impact Assessments and
+  lawful basis assessments. Covers cross-reference systems, dependency tracking, and
+  update cascade triggers between RoPA, DPIA register, and lawful basis documentation.
+  Activate for RoPA-DPIA link, cross-reference, dependency tracking, impact assessment
+  linkage, cascade updates. Do NOT use for general database schema migration scripts
+  or query execution planning.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, ropa, dpia, article-35, lawful-basis, cross-reference, dependency, cascade"
+  tags: gdpr, ropa, dpia, article-35, lawful-basis, cross-reference, dependency, cascade
 ---
 
 # RoPA-DPIA Linkage

@@ -1,17 +1,17 @@
 ---
 name: pii-in-unstructured
-description: >-
-  Detects PII in unstructured data including emails, documents, images, and logs
-  using NER-based detection with spaCy and Microsoft Presidio, regex patterns,
-  OCR integration, and confidence scoring. Keywords: PII detection, unstructured
-  data, NER, spaCy, Presidio, OCR, regex, email scanning, document scanning.
+description: 'Use when detects PII in unstructured data including emails, documents,
+  images, and logs using NER-based detection with spaCy and Microsoft Presidio, regex
+  patterns, OCR integration, and confidence scoring. Keywords: PII detection, unstructured
+  data, NER, spaCy, Presidio, OCR, regex, email scanning, document scanning. Do NOT
+  use for database index optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "pii-detection, unstructured-data, ner, spacy, presidio, ocr, regex"
+  tags: pii-detection, unstructured-data, ner, spacy, presidio, ocr, regex
 ---
 
 # PII Detection in Unstructured Data

@@ -1,17 +1,17 @@
 ---
 name: vendor-cert-acceptance
-description: >-
-  Vendor certification acceptance criteria and equivalence mapping. Covers ISO
-  27701, SOC 2 Privacy, APEC CBPR, EU Code of Conduct evaluation, certification
-  scope analysis, gap supplementation requirements, and cross-framework
-  equivalence assessment.
+description: Use when vendor certification acceptance criteria and equivalence mapping.
+  Covers ISO 27701, SOC 2 Privacy, APEC CBPR, EU Code of Conduct evaluation, certification
+  scope analysis, gap supplementation requirements, and cross-framework equivalence
+  assessment. Do NOT use for internal employee performance evaluations or routine
+  office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "vendor-certification, iso-27701, soc-2-privacy, apec-cbpr, certification-equivalence"
+  tags: vendor-certification, iso-27701, soc-2-privacy, apec-cbpr, certification-equivalence
 ---
 
 # Vendor Certification Acceptance Criteria

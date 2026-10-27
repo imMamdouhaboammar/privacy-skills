@@ -1,17 +1,19 @@
 ---
 name: marketing-objection
-description: >-
-  Manages the absolute right to object to direct marketing under GDPR Article 21(2)-(3),
-  covering immediate cessation of all direct marketing processing, suppression
-  list management, cross-channel enforcement, and profiling for marketing purposes.
-  Activate for marketing opt-out, unsubscribe, Art. 21(2), direct marketing objection queries.
+description: Use when managing the absolute right to object to direct marketing under
+  GDPR Article 21(2)-(3), covering immediate cessation of all direct marketing processing,
+  suppression list management, cross-channel enforcement, and profiling for marketing
+  purposes. Activate for marketing opt-out, unsubscribe, Art. 21(2), direct marketing
+  objection queries. Do NOT use for general administrative user profile CRUD updates
+  or routine password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "direct-marketing-objection, gdpr-article-21, suppression-list, marketing-opt-out, unsubscribe"
+  tags: direct-marketing-objection, gdpr-article-21, suppression-list, marketing-opt-out,
+    unsubscribe
 ---
 
 # Managing Direct Marketing Objection

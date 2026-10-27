@@ -1,18 +1,19 @@
 ---
 name: eu-code-of-conduct
-description: >-
-  Guides EU Code of Conduct adherence under GDPR Articles 40-41 including EDPB
-  approval requirements, monitoring body accreditation, code drafting, adherence
-  declaration, compliance verification, and complaint handling. Covers sector-specific
-  codes, transnational codes, and Art. 40(3) approval by supervisory authorities.
-  Keywords: code of conduct, Article 40, Article 41, EDPB, monitoring body, adherence.
+description: 'Use when guiding or evaluating EU Code of Conduct adherence under GDPR
+  Articles 40-41 including EDPB approval requirements, monitoring body accreditation,
+  code drafting, adherence declaration, compliance verification, and complaint handling.
+  Covers sector-specific codes, transnational codes, and Art. 40(3) approval by supervisory
+  authorities. Keywords: code of conduct, Article 40, Article 41, EDPB, monitoring
+  body, adherence. Do NOT use for routine code unit test suites or continuous integration
+  pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "code-of-conduct, article-40, article-41, edpb, monitoring-body, adherence"
+  tags: code-of-conduct, article-40, article-41, edpb, monitoring-body, adherence
 ---
 
 # EU Code of Conduct Adherence per Articles 40-41 GDPR

@@ -1,18 +1,18 @@
 ---
 name: uk-aadc-implementation
-description: >-
-  Implements the UK Age Appropriate Design Code (Children's Code) 15
-  standards under the Data Protection Act 2018 Section 123. Covers best
-  interests assessment, age-appropriate application, transparency, data
-  minimization, geolocation restrictions, and profiling defaults.
-  Keywords: AADC, Children's Code, ICO, age appropriate design, UK.
+description: 'Use when implementing the UK Age Appropriate Design Code (Children''s
+  Code) 15 standards under the Data Protection Act 2018 Section 123. Covers best interests
+  assessment, age-appropriate application, transparency, data minimization, geolocation
+  restrictions, and profiling defaults. Keywords: AADC, Children''s Code, ICO, age
+  appropriate design, UK. Do NOT use for standard adult-only user onboarding or general
+  non-age-restricted services.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: children-data-protection
-  tags: "aadc, childrens-code, ico, age-appropriate-design, uk-gdpr, data-protection"
+  tags: aadc, childrens-code, ico, age-appropriate-design, uk-gdpr, data-protection
 ---
 
 # UK Age Appropriate Design Code Implementation

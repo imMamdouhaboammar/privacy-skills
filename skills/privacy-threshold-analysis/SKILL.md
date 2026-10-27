@@ -1,20 +1,19 @@
 ---
 name: privacy-threshold-analysis
-description: >-
-  Guides the Privacy Threshold Analysis screening process to determine
-  whether a full DPIA is required. Provides a quick-screen questionnaire,
-  threshold criteria based on WP248rev.01, escalation triggers, and
-  documentation requirements. Activate when evaluating new processing
-  activities, system changes, or procurement decisions. Keywords: PTA,
-  privacy threshold analysis, DPIA screening, quick-screen, threshold
-  criteria, WP248, escalation triggers.
+description: 'Use when guiding or evaluating the Privacy Threshold Analysis screening
+  process to determine whether a full DPIA is required. Provides a quick-screen questionnaire,
+  threshold criteria based on WP248rev.01, escalation triggers, and documentation
+  requirements. Activate when evaluating new processing activities, system changes,
+  or procurement decisions. Keywords: PTA, privacy threshold analysis, DPIA screening,
+  quick-screen, threshold criteria, WP248, escalation triggers. Do NOT use for routine
+  software feature roadmap planning or general QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "pta, privacy-threshold-analysis, dpia-screening, wp248, escalation"
+  tags: pta, privacy-threshold-analysis, dpia-screening, wp248, escalation
 ---
 
 # Conducting Privacy Threshold Analysis

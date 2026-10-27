@@ -1,19 +1,19 @@
 ---
 name: canada-pipeda
-description: >-
-  Guides compliance with Canada's Personal Information Protection and Electronic
-  Documents Act (PIPEDA, S.C. 2000, c. 5). Covers the 10 fair information
-  principles in Schedule 1, consent requirements, cross-border transfer
-  obligations, breach notification under Division 1.1, and OPC enforcement.
-  Keywords: PIPEDA, Canada privacy, fair information principles, OPC, breach
-  notification, cross-border transfer, consent.
+description: 'Use when guiding or evaluating compliance with Canada''s Personal Information
+  Protection and Electronic Documents Act (PIPEDA, S.C. 2000, c. 5). Covers the 10
+  fair information principles in Schedule 1, consent requirements, cross-border transfer
+  obligations, breach notification under Division 1.1, and OPC enforcement. Keywords:
+  PIPEDA, Canada privacy, fair information principles, OPC, breach notification, cross-border
+  transfer, consent. Do NOT use for generic software engineering or non-privacy legal
+  documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "pipeda, canada-privacy, fair-information-principles, opc, breach-notification"
+  tags: pipeda, canada-privacy, fair-information-principles, opc, breach-notification
 ---
 
 # Canada PIPEDA Compliance

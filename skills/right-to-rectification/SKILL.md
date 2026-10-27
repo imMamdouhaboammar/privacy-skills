@@ -1,17 +1,18 @@
 ---
 name: right-to-rectification
-description: >-
-  Processes GDPR Article 16 right to rectification requests, covering verification
-  of corrected data accuracy, notification to recipients under Article 19,
-  timeline management, and completion of incomplete data. Activate for rectification,
-  correction request, inaccurate data, Art. 16, data correction queries.
+description: Use when processes GDPR Article 16 right to rectification requests, covering
+  verification of corrected data accuracy, notification to recipients under Article
+  19, timeline management, and completion of incomplete data. Activate for rectification,
+  correction request, inaccurate data, Art. 16, data correction queries. Do NOT use
+  for general administrative user profile CRUD updates or routine password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "right-to-rectification, gdpr-article-16, data-correction, inaccurate-data, data-quality"
+  tags: right-to-rectification, gdpr-article-16, data-correction, inaccurate-data,
+    data-quality
 ---
 
 # Processing Right to Rectification

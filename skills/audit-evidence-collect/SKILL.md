@@ -1,19 +1,20 @@
 ---
 name: audit-evidence-collect
-description: >-
-  Guides privacy audit evidence collection processes including evidence planning,
-  sampling strategies, documentation standards, chain of custody, interview techniques,
-  system walkthrough procedures, and evidence evaluation. Covers ISO 19011 evidence
-  categories (records, statements of fact, observations) and ISACA audit evidence
-  requirements for privacy compliance assessments. Keywords: audit evidence, evidence
-  collection, sampling, chain of custody, audit documentation, interview techniques.
+description: 'Use when guiding or evaluating privacy audit evidence collection processes
+  including evidence planning, sampling strategies, documentation standards, chain
+  of custody, interview techniques, system walkthrough procedures, and evidence evaluation.
+  Covers ISO 19011 evidence categories (records, statements of fact, observations)
+  and ISACA audit evidence requirements for privacy compliance assessments. Keywords:
+  audit evidence, evidence collection, sampling, chain of custody, audit documentation,
+  interview techniques. Do NOT use for routine code unit test suites or continuous
+  integration pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "audit-evidence, evidence-collection, sampling, chain-of-custody, audit-documentation"
+  tags: audit-evidence, evidence-collection, sampling, chain-of-custody, audit-documentation
 ---
 
 # Audit Evidence Collection

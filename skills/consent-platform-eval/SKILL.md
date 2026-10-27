@@ -1,17 +1,18 @@
 ---
 name: consent-platform-eval
-description: >-
-  Framework for evaluating and selecting Consent Management Platforms (CMPs). Covers
-  TCF v2.2 certification requirements, Global Privacy Control support, multi-regulation
-  compliance (GDPR, CCPA, LGPD), A/B testing capabilities, API integration options,
-  reporting features, and a structured vendor comparison methodology.
+description: Use when framework for evaluating and selecting Consent Management Platforms
+  (CMPs). Covers TCF v2.2 certification requirements, Global Privacy Control support,
+  multi-regulation compliance (GDPR, CCPA, LGPD), A/B testing capabilities, API integration
+  options, reporting features, and a structured vendor comparison methodology. Do
+  NOT use for server-side cache headers or non-browser API rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "consent-management-platform, cmp-evaluation, tcf-certification, vendor-selection, cmp-comparison"
+  tags: consent-management-platform, cmp-evaluation, tcf-certification, vendor-selection,
+    cmp-comparison
 ---
 
 # Evaluating Consent Management Platforms

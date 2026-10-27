@@ -1,19 +1,20 @@
 ---
 name: whistleblower-data
-description: >-
-  Implements data protection compliance for whistleblowing systems under EU
-  Directive 2019/1937 and GDPR. Covers anonymous reporting channels, identity
-  protection for whistleblowers and accused persons, retention limits, access
-  restrictions, and retaliation prevention. Addresses national transpositions
-  and DPA guidance. Keywords: whistleblower, Directive 2019/1937, anonymous
-  reporting, identity protection, retaliation, retention, reporting channel.
+description: 'Use when implementing data protection compliance for whistleblowing
+  systems under EU Directive 2019/1937 and GDPR. Covers anonymous reporting channels,
+  identity protection for whistleblowers and accused persons, retention limits, access
+  restrictions, and retaliation prevention. Addresses national transpositions and
+  DPA guidance. Keywords: whistleblower, Directive 2019/1937, anonymous reporting,
+  identity protection, retaliation, retention, reporting channel. Do NOT use for public
+  customer CRM lead tracking or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "whistleblower, directive-2019-1937, anonymous-reporting, identity-protection, retaliation, retention"
+  tags: whistleblower, directive-2019-1937, anonymous-reporting, identity-protection,
+    retaliation, retention
 ---
 
 # Whistleblower Data Protection

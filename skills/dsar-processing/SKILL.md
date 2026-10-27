@@ -1,17 +1,18 @@
 ---
 name: dsar-processing
-description: >-
-  Guides AI agents through the complete GDPR Data Subject Access Request (DSAR)
-  workflow under Article 15, including identity verification, 30-day deadline
-  calculation with extensions, response formatting, exemptions, and fee provisions.
-  Activate when handling DSAR, access request, subject access, Art. 15, or SAR queries.
+description: Use when guiding or evaluating AI agents through the complete GDPR Data
+  Subject Access Request (DSAR) workflow under Article 15, including identity verification,
+  30-day deadline calculation with extensions, response formatting, exemptions, and
+  fee provisions. Activate when handling DSAR, access request, subject access, Art.
+  15, or SAR queries. Do NOT use for general administrative user profile CRUD updates
+  or routine password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "dsar, gdpr-article-15, access-request, subject-access-right, data-subject-rights"
+  tags: dsar, gdpr-article-15, access-request, subject-access-right, data-subject-rights
 ---
 
 # Processing Data Subject Access Requests

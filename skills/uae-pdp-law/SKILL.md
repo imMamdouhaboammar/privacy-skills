@@ -1,19 +1,18 @@
 ---
 name: uae-pdp-law
-description: >-
-  Implements compliance with the UAE Federal Decree-Law No. 45 of 2021 on the
-  Protection of Personal Data (UAE PDP Law) and its Executive Regulations.
-  Covers data controller and processor obligations, data subject rights,
-  cross-border transfer requirements, sensitive data processing, and UAE
-  Data Office enforcement. Keywords: UAE PDP, Federal Decree-Law 45, UAE
-  Data Office, DIFC, ADGM, cross-border transfer.
+description: 'Use when implementing compliance with the UAE Federal Decree-Law No.
+  45 of 2021 on the Protection of Personal Data (UAE PDP Law) and its Executive Regulations.
+  Covers data controller and processor obligations, data subject rights, cross-border
+  transfer requirements, sensitive data processing, and UAE Data Office enforcement.
+  Keywords: UAE PDP, Federal Decree-Law 45, UAE Data Office, DIFC, ADGM, cross-border
+  transfer. Do NOT use for generic software engineering or non-privacy legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "uae-pdp, federal-decree-law-45, uae-data-office, difc, adgm, cross-border"
+  tags: uae-pdp, federal-decree-law-45, uae-data-office, difc, adgm, cross-border
 ---
 
 # UAE Personal Data Protection Law Compliance

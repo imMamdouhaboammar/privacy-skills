@@ -1,18 +1,19 @@
 ---
 name: soc2-privacy-audit
-description: >-
-  Guides SOC 2 Type II Privacy Trust Services Criteria preparation and audit
-  execution. Covers AICPA TSP Section 100 Privacy criteria P1-P8 including notice,
-  choice/consent, collection, use/retention/disposal, access, disclosure, security,
-  and quality. Includes evidence collection, control testing, and report review.
-  Keywords: SOC 2, privacy criteria, TSP, AICPA, Type II, trust services.
+description: 'Use when guiding or evaluating SOC 2 Type II Privacy Trust Services
+  Criteria preparation and audit execution. Covers AICPA TSP Section 100 Privacy criteria
+  P1-P8 including notice, choice/consent, collection, use/retention/disposal, access,
+  disclosure, security, and quality. Includes evidence collection, control testing,
+  and report review. Keywords: SOC 2, privacy criteria, TSP, AICPA, Type II, trust
+  services. Do NOT use for routine code unit test suites or continuous integration
+  pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "soc2, privacy-criteria, aicpa, tsp, type-ii, trust-services"
+  tags: soc2, privacy-criteria, aicpa, tsp, type-ii, trust-services
 ---
 
 # SOC 2 Type II Privacy Trust Services Criteria

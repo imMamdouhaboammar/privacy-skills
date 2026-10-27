@@ -1,18 +1,19 @@
 ---
 name: ai-data-retention
-description: >-
-  Manages AI model retention and machine unlearning requirements. Covers
-  training data deletion verification, model versioning for compliance,
-  machine unlearning techniques (SISA, gradient-based), and retraining
-  triggers. Keywords: AI retention, machine unlearning, model versioning,
-  training data deletion, retraining, storage limitation.
+description: 'Use when managing AI model retention and machine unlearning requirements.
+  Covers training data deletion verification, model versioning for compliance, machine
+  unlearning techniques (SISA, gradient-based), and retraining triggers. Keywords:
+  AI retention, machine unlearning, model versioning, training data deletion, retraining,
+  storage limitation. Do NOT use for general non-AI database migrations or basic web
+  styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: ai-privacy-governance
-  tags: "ai-retention, machine-unlearning, model-versioning, training-data-deletion, retraining, storage-limitation"
+  tags: ai-retention, machine-unlearning, model-versioning, training-data-deletion,
+    retraining, storage-limitation
 ---
 
 # AI Model Retention and Unlearning

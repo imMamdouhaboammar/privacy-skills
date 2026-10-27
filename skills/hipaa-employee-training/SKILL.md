@@ -1,19 +1,20 @@
 ---
 name: hipaa-employee-training
-description: >-
-  Implements HIPAA workforce training requirements under 45 CFR §164.530(b)
-  (Privacy Rule) and 45 CFR §164.308(a)(5) (Security Rule). Covers initial
-  onboarding training, periodic refresher cadence, role-based content
-  differentiation, documentation of training completion, and sanction
-  policy integration. Keywords: HIPAA training, workforce training,
-  security awareness, privacy training, §164.530(b), §164.308(a)(5).
+description: "Use when implementing HIPAA workforce training requirements under 45\
+  \ CFR \xA7164.530(b) (Privacy Rule) and 45 CFR \xA7164.308(a)(5) (Security Rule).\
+  \ Covers initial onboarding training, periodic refresher cadence, role-based content\
+  \ differentiation, documentation of training completion, and sanction policy integration.\
+  \ Keywords: HIPAA training, workforce training, security awareness, privacy training,\
+  \ \xA7164.530(b), \xA7164.308(a)(5). Do NOT use for non-medical commercial retail\
+  \ apps or general e-commerce analytics."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, employee-training, workforce-training, security-awareness, privacy-training, compliance-training"
+  tags: hipaa, employee-training, workforce-training, security-awareness, privacy-training,
+    compliance-training
 ---
 
 # HIPAA Employee Training — 45 CFR §164.530(b) and §164.308(a)(5)

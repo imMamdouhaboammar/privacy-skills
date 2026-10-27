@@ -1,18 +1,18 @@
 ---
 name: cross-jurisdiction-class
-description: >-
-  Harmonises data classification across jurisdictions mapping GDPR special
-  categories vs CCPA sensitive PI (1798.140(ae)) vs HIPAA PHI (160.103) vs
-  LGPD sensitive data (Art. 5-II). Provides cross-regulation mapping matrix
-  for multinational compliance. Keywords: cross-jurisdiction, GDPR, CCPA,
-  HIPAA, LGPD, sensitive data, multinational, classification mapping.
+description: 'Use when harmonises data classification across jurisdictions mapping
+  GDPR special categories vs CCPA sensitive PI (1798.140(ae)) vs HIPAA PHI (160.103)
+  vs LGPD sensitive data (Art. 5-II). Provides cross-regulation mapping matrix for
+  multinational compliance. Keywords: cross-jurisdiction, GDPR, CCPA, HIPAA, LGPD,
+  sensitive data, multinational, classification mapping. Do NOT use for database index
+  optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "cross-jurisdiction, gdpr, ccpa, hipaa, lgpd, multinational, classification-mapping"
+  tags: cross-jurisdiction, gdpr, ccpa, hipaa, lgpd, multinational, classification-mapping
 ---
 
 # Cross-Jurisdiction Data Classification Harmonisation

@@ -1,19 +1,19 @@
 ---
 name: joint-controller-art26
-description: >-
-  Guides the establishment and management of joint controller arrangements under
-  GDPR Article 26, including determination of joint controllership, allocation of
-  responsibilities, and transparency obligations. Activate when two or more
-  controllers jointly determine purposes and means of processing, or when
-  evaluating shared data platforms. Keywords: joint controller, Article 26,
-  shared responsibility, arrangement, joint determination.
+description: 'Use when guiding or evaluating the establishment and management of joint
+  controller arrangements under GDPR Article 26, including determination of joint
+  controllership, allocation of responsibilities, and transparency obligations. Activate
+  when two or more controllers jointly determine purposes and means of processing,
+  or when evaluating shared data platforms. Keywords: joint controller, Article 26,
+  shared responsibility, arrangement, joint determination. Do NOT use for non-GDPR
+  US-only local state compliance or general software testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: gdpr-compliance
-  tags: "gdpr, joint-controller, article-26, shared-processing, arrangement, responsibility"
+  tags: gdpr, joint-controller, article-26, shared-processing, arrangement, responsibility
 ---
 
 # Managing Joint Controller Arrangements

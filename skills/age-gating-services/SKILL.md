@@ -1,19 +1,18 @@
 ---
 name: age-gating-services
-description: >-
-  Implements age-gating mechanisms for online services to restrict
-  access based on user age. Covers hard gates versus soft gates,
-  neutral age prompts, re-verification triggers, circumvention
-  prevention, and regulatory requirements under GDPR, COPPA, UK
-  Online Safety Act, and DSA. Keywords: age gate, age restriction,
-  neutral prompt, children, online services, access control.
+description: 'Use when implementing age-gating mechanisms for online services to restrict
+  access based on user age. Covers hard gates versus soft gates, neutral age prompts,
+  re-verification triggers, circumvention prevention, and regulatory requirements
+  under GDPR, COPPA, UK Online Safety Act, and DSA. Keywords: age gate, age restriction,
+  neutral prompt, children, online services, access control. Do NOT use for standard
+  adult-only user onboarding or general non-age-restricted services.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: children-data-protection
-  tags: "age-gate, age-restriction, neutral-prompt, children, access-control, online-safety"
+  tags: age-gate, age-restriction, neutral-prompt, children, access-control, online-safety
 ---
 
 # Age-Gating Implementation for Online Services

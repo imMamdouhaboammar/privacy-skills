@@ -1,18 +1,18 @@
 ---
 name: ai-dpia
-description: >-
-  Conducts Data Protection Impact Assessments for AI and ML systems per EDPB
-  Guidelines 04/2025 on AI processing. Covers training data lawfulness
+description: 'Use when conducting Data Protection Impact Assessments for AI and ML
+  systems per EDPB Guidelines 04/2025 on AI processing. Covers training data lawfulness
   evaluation, model risk assessment, automated decision triggers, and AI-specific
-  DPIA methodology. Keywords: AI DPIA, machine learning impact assessment,
-  EDPB AI guidelines, model risk, training data.
+  DPIA methodology. Keywords: AI DPIA, machine learning impact assessment, EDPB AI
+  guidelines, model risk, training data. Do NOT use for general non-AI database migrations
+  or basic web styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: ai-privacy-governance
-  tags: "ai-dpia, machine-learning, edpb-guidelines, model-risk, training-data, impact-assessment"
+  tags: ai-dpia, machine-learning, edpb-guidelines, model-risk, training-data, impact-assessment
 ---
 
 # Data Protection Impact Assessment for AI/ML Systems

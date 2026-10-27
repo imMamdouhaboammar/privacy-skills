@@ -1,19 +1,19 @@
 ---
 name: employee-monitoring-dpia
-description: >-
-  Conducts Data Protection Impact Assessments for employee monitoring systems
-  per EDPB Guidelines 3/2019 on workplace data processing. Covers video
-  surveillance, email monitoring, GPS tracking, keystroke logging, and
-  productivity tools. Applies proportionality testing under Art. 35 GDPR.
-  Keywords: DPIA, employee monitoring, surveillance, proportionality, EDPB,
-  workplace privacy, keystroke logging, GPS tracking.
+description: 'Use when conducting Data Protection Impact Assessments for employee
+  monitoring systems per EDPB Guidelines 3/2019 on workplace data processing. Covers
+  video surveillance, email monitoring, GPS tracking, keystroke logging, and productivity
+  tools. Applies proportionality testing under Art. 35 GDPR. Keywords: DPIA, employee
+  monitoring, surveillance, proportionality, EDPB, workplace privacy, keystroke logging,
+  GPS tracking. Do NOT use for public customer CRM lead tracking or external sales
+  outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "dpia, employee-monitoring, surveillance, proportionality, edpb, workplace-privacy"
+  tags: dpia, employee-monitoring, surveillance, proportionality, edpb, workplace-privacy
 ---
 
 # Employee Monitoring DPIA

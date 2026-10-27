@@ -1,18 +1,18 @@
 ---
 name: data-localization
-description: >-
-  Guides compliance with country-specific data localization requirements across
-  key jurisdictions including Russia (242-FZ), China (PIPL Art. 40, CAC measures),
-  India (DPDP Act), Turkey, Vietnam, and Indonesia. Covers localization
-  assessment, architecture design, and exemption procedures. Keywords: data
-  localization, data residency, PIPL, 242-FZ, cross-border restrictions.
+description: 'Use when guiding or evaluating compliance with country-specific data
+  localization requirements across key jurisdictions including Russia (242-FZ), China
+  (PIPL Art. 40, CAC measures), India (DPDP Act), Turkey, Vietnam, and Indonesia.
+  Covers localization assessment, architecture design, and exemption procedures. Keywords:
+  data localization, data residency, PIPL, 242-FZ, cross-border restrictions. Do NOT
+  use for intra-datacenter local networking or single-jurisdiction domestic operations.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cross-border-transfers
-  tags: "data-localization, data-residency, pipl, russia-242fz, cross-border-restrictions"
+  tags: data-localization, data-residency, pipl, russia-242fz, cross-border-restrictions
 ---
 
 # Implementing Data Localization Requirements

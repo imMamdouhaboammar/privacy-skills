@@ -1,17 +1,17 @@
 ---
 name: dpa-drafting
-description: >-
-  GDPR-compliant Data Processing Agreement drafting per Article 28(3). Covers all
-  8 mandatory provisions including subject matter, duration, nature and purpose,
-  data types, categories of data subjects, controller and processor obligations,
-  and sub-processor cascade requirements.
+description: Use when gDPR-compliant Data Processing Agreement drafting per Article
+  28(3). Covers all 8 mandatory provisions including subject matter, duration, nature
+  and purpose, data types, categories of data subjects, controller and processor obligations,
+  and sub-processor cascade requirements. Do NOT use for internal employee performance
+  evaluations or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "dpa-drafting, article-28, data-processing-agreement, processor-contract, gdpr-compliance"
+  tags: dpa-drafting, article-28, data-processing-agreement, processor-contract, gdpr-compliance
 ---
 
 # Data Processing Agreement Drafting

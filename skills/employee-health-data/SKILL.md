@@ -1,20 +1,20 @@
 ---
 name: employee-health-data
-description: >-
-  Governs employee health data processing for fitness-for-work assessments,
-  occupational health surveillance, COVID testing legacy programmes, and
-  absence management. Applies Art. 9(2)(b) employment obligations and
-  Art. 9(2)(h) health professional exceptions. Covers data minimisation,
-  occupational health provider relationships, and return-to-work procedures.
-  Keywords: health data, Art. 9, occupational health, fitness-for-work,
-  special category, employment, sickness absence.
+description: 'Use when governs employee health data processing for fitness-for-work
+  assessments, occupational health surveillance, COVID testing legacy programmes,
+  and absence management. Applies Art. 9(2)(b) employment obligations and Art. 9(2)(h)
+  health professional exceptions. Covers data minimisation, occupational health provider
+  relationships, and return-to-work procedures. Keywords: health data, Art. 9, occupational
+  health, fitness-for-work, special category, employment, sickness absence. Do NOT
+  use for public customer CRM lead tracking or external sales outreach.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: employee-data-privacy
-  tags: "health-data, article-9, occupational-health, fitness-for-work, special-category, sickness-absence"
+  tags: health-data, article-9, occupational-health, fitness-for-work, special-category,
+    sickness-absence
 ---
 
 # Employee Health Data

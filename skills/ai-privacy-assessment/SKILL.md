@@ -1,19 +1,19 @@
 ---
 name: ai-privacy-assessment
-description: >-
-  Guides the combined DPIA and AI Act conformity assessment for AI systems
-  processing personal data. Covers EDPB-EDPS Joint Opinion 5/2021, training
-  data lawfulness under Art. 6 and Art. 9, Art. 22 automated decision-making,
-  algorithmic bias detection, and NIST AI RMF MAP function. Keywords: AI
-  privacy, DPIA, AI Act, algorithmic bias, automated decision-making,
-  Art. 22, training data, NIST AI RMF.
+description: 'Use when guiding or evaluating the combined DPIA and AI Act conformity
+  assessment for AI systems processing personal data. Covers EDPB-EDPS Joint Opinion
+  5/2021, training data lawfulness under Art. 6 and Art. 9, Art. 22 automated decision-making,
+  algorithmic bias detection, and NIST AI RMF MAP function. Keywords: AI privacy,
+  DPIA, AI Act, algorithmic bias, automated decision-making, Art. 22, training data,
+  NIST AI RMF. Do NOT use for routine software feature roadmap planning or general
+  QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "ai-privacy, dpia, ai-act, algorithmic-bias, art-22, nist-ai-rmf"
+  tags: ai-privacy, dpia, ai-act, algorithmic-bias, art-22, nist-ai-rmf
 ---
 
 # Conducting AI System Privacy Assessment

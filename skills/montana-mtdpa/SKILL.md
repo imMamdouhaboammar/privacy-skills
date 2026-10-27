@@ -1,17 +1,17 @@
 ---
 name: montana-mtdpa
-description: >-
-  Montana Consumer Data Privacy Act (MTDPA) compliance. Lowest consumer
-  threshold at 50,000 consumers. Covers sensitive data consent, universal
-  opt-out recognition, consumer rights, controller obligations, 60-day
-  cure period, and AG enforcement. Effective October 1, 2024.
+description: Use when montana Consumer Data Privacy Act (MTDPA) compliance. Lowest
+  consumer threshold at 50,000 consumers. Covers sensitive data consent, universal
+  opt-out recognition, consumer rights, controller obligations, 60-day cure period,
+  and AG enforcement. Effective October 1, 2024. Do NOT use for pure EU GDPR cross-border
+  matters or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "montana-mtdpa, 50k-threshold, sensitive-data, universal-opt-out, consumer-rights"
+  tags: montana-mtdpa, 50k-threshold, sensitive-data, universal-opt-out, consumer-rights
 ---
 
 # Montana Consumer Data Privacy Act (MTDPA)

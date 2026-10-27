@@ -1,17 +1,17 @@
 ---
 name: managing-mobile-app-consent
-description: >-
-  Guide for mobile-specific consent management covering Apple ATT framework for iOS,
-  Android permission model, in-app consent flows, SDK consent propagation to third-party
-  libraries, and IDFA/GAID handling. Addresses platform-specific requirements alongside
-  GDPR and ePrivacy compliance for mobile applications.
+description: Use when guide for mobile-specific consent management covering Apple
+  ATT framework for iOS, Android permission model, in-app consent flows, SDK consent
+  propagation to third-party libraries, and IDFA/GAID handling. Addresses platform-specific
+  requirements alongside GDPR and ePrivacy compliance for mobile applications. Do
+  NOT use for server-side cache headers or non-browser API rate limiting.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: consent-management
-  tags: "mobile-consent, att-framework, android-permissions, idfa, sdk-consent"
+  tags: mobile-consent, att-framework, android-permissions, idfa, sdk-consent
 ---
 
 # Managing Mobile App Consent

@@ -1,17 +1,17 @@
 ---
 name: data-inventory-mapping
-description: >-
-  Builds comprehensive data inventory per GDPR Art. 30 Records of Processing
-  Activities. Covers system-by-system discovery, data flow diagramming,
-  third-party identification, and legal basis per category. Keywords: data
-  inventory, data mapping, Art 30, RoPA, data flow, processing activities.
+description: 'Use when building comprehensive data inventory per GDPR Art. 30 Records
+  of Processing Activities. Covers system-by-system discovery, data flow diagramming,
+  third-party identification, and legal basis per category. Keywords: data inventory,
+  data mapping, Art 30, RoPA, data flow, processing activities. Do NOT use for database
+  index optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "data-inventory, data-mapping, art-30, ropa, data-flow, processing-activities"
+  tags: data-inventory, data-mapping, art-30, ropa, data-flow, processing-activities
 ---
 
 # Data Inventory and Mapping for Classification

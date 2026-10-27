@@ -1,20 +1,20 @@
 ---
 name: hipaa-interoperability
-description: >-
-  Addresses HIPAA privacy and security requirements for health data
-  interoperability under the 21st Century Cures Act, ONC Health IT
-  Certification Program, and CMS Interoperability and Patient Access Final
-  Rule. Covers information blocking prohibitions, FHIR API patient access,
-  TEFCA exchange purposes, and privacy safeguards for health information
-  exchange. Keywords: interoperability, information blocking, FHIR, TEFCA,
-  Cures Act, patient access API, health information exchange.
+description: 'Use when addresses HIPAA privacy and security requirements for health
+  data interoperability under the 21st Century Cures Act, ONC Health IT Certification
+  Program, and CMS Interoperability and Patient Access Final Rule. Covers information
+  blocking prohibitions, FHIR API patient access, TEFCA exchange purposes, and privacy
+  safeguards for health information exchange. Keywords: interoperability, information
+  blocking, FHIR, TEFCA, Cures Act, patient access API, health information exchange.
+  Do NOT use for non-medical commercial retail apps or general e-commerce analytics.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, interoperability, information-blocking, fhir, tefca, cures-act, patient-access, hie"
+  tags: hipaa, interoperability, information-blocking, fhir, tefca, cures-act, patient-access,
+    hie
 ---
 
 # HIPAA Interoperability — Cures Act, ONC, and CMS Requirements

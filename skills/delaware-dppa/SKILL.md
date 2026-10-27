@@ -1,18 +1,18 @@
 ---
 name: delaware-dppa
-description: >-
-  Delaware Personal Data Privacy Act (DPPA) compliance implementation.
-  Covers consumer rights (access, correct, delete, portability, opt-out),
-  controller obligations, processor requirements, sensitive data consent,
-  universal opt-out recognition, DPIA requirements, and AG enforcement.
-  Effective January 1, 2025, with no revenue threshold for applicability.
+description: Use when delaware Personal Data Privacy Act (DPPA) compliance implementation.
+  Covers consumer rights (access, correct, delete, portability, opt-out), controller
+  obligations, processor requirements, sensitive data consent, universal opt-out recognition,
+  DPIA requirements, and AG enforcement. Effective January 1, 2025, with no revenue
+  threshold for applicability. Do NOT use for pure EU GDPR cross-border matters or
+  non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "delaware-dppa, delaware-privacy, consumer-rights, sensitive-data, universal-opt-out"
+  tags: delaware-dppa, delaware-privacy, consumer-rights, sensitive-data, universal-opt-out
 ---
 
 # Delaware Personal Data Privacy Act (DPPA)

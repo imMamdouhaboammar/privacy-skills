@@ -1,17 +1,17 @@
 ---
 name: sub-processor-management
-description: >-
-  GDPR Article 28(2) sub-processor approval workflow management. Covers prior
-  specific and general authorization mechanisms, change notification procedures,
-  objection windows, flow-down obligation enforcement, and sub-processor chain
-  risk monitoring.
+description: Use when gDPR Article 28(2) sub-processor approval workflow management.
+  Covers prior specific and general authorization mechanisms, change notification
+  procedures, objection windows, flow-down obligation enforcement, and sub-processor
+  chain risk monitoring. Do NOT use for internal employee performance evaluations
+  or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "sub-processor, article-28, flow-down-obligations, vendor-chain, processor-management"
+  tags: sub-processor, article-28, flow-down-obligations, vendor-chain, processor-management
 ---
 
 # Sub-Processor Management

@@ -1,17 +1,19 @@
 ---
 name: direct-collection-notice
-description: >-
-  Provides GDPR Article 13 information at the point of direct data collection,
-  covering all required elements under Art. 13(1)(a)-(f) and Art. 13(2)(a)-(g),
-  layered notice design, and timing requirements. Activate for Art. 13, direct
-  collection notice, privacy notice at collection, data collection information queries.
+description: Use when configuring or providing GDPR Article 13 information at the
+  point of direct data collection, covering all required elements under Art. 13(1)(a)-(f)
+  and Art. 13(2)(a)-(g), layered notice design, and timing requirements. Activate
+  for Art. 13, direct collection notice, privacy notice at collection, data collection
+  information queries. Do NOT use for general administrative user profile CRUD updates
+  or routine password resets.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-subject-rights
-  tags: "direct-collection-information, gdpr-article-13, privacy-notice, data-collection, layered-notice"
+  tags: direct-collection-information, gdpr-article-13, privacy-notice, data-collection,
+    layered-notice
 ---
 
 # Providing Direct Collection Information

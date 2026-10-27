@@ -1,18 +1,18 @@
 ---
 name: special-category-data
-description: >-
-  Identifies and classifies GDPR Art. 9 special category data including racial
-  origin, political opinions, religious beliefs, trade union membership, genetic,
-  biometric, health, and sexual orientation data. Covers processing conditions
-  under Art. 9(2)(a)-(j). Keywords: special category, Art 9, sensitive data,
-  biometric, genetic, health data, explicit consent.
+description: 'Use when identifies and classifies GDPR Art. 9 special category data
+  including racial origin, political opinions, religious beliefs, trade union membership,
+  genetic, biometric, health, and sexual orientation data. Covers processing conditions
+  under Art. 9(2)(a)-(j). Keywords: special category, Art 9, sensitive data, biometric,
+  genetic, health data, explicit consent. Do NOT use for database index optimization
+  or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "special-category, art-9, sensitive-data, biometric, genetic, health-data"
+  tags: special-category, art-9, sensitive-data, biometric, genetic, health-data
 ---
 
 # Special Category Data Classification — GDPR Art. 9

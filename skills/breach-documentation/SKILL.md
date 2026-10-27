@@ -1,19 +1,19 @@
 ---
 name: breach-documentation
-description: >-
-  Maintains the GDPR Article 33(5) breach register documenting all personal data
-  breaches regardless of whether supervisory authority notification was required.
-  Covers mandatory register fields including facts, effects, and remedial actions,
-  retention periods, audit readiness, and integration with the accountability
-  framework. Keywords: breach register, Article 33(5), breach documentation,
-  accountability, audit readiness, remedial actions.
+description: 'Use when maintains the GDPR Article 33(5) breach register documenting
+  all personal data breaches regardless of whether supervisory authority notification
+  was required. Covers mandatory register fields including facts, effects, and remedial
+  actions, retention periods, audit readiness, and integration with the accountability
+  framework. Keywords: breach register, Article 33(5), breach documentation, accountability,
+  audit readiness, remedial actions. Do NOT use for routine non-security application
+  bug triage or scheduled system downtime notices.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-breach-response
-  tags: "breach-register, article-33-5, documentation, accountability, audit, remedial-actions"
+  tags: breach-register, article-33-5, documentation, accountability, audit, remedial-actions
 ---
 
 # Maintaining Breach Documentation Records

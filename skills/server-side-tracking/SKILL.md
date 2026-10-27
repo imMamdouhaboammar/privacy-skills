@@ -1,16 +1,16 @@
 ---
 name: server-side-tracking
-description: >-
-  Implementing server-side tracking with privacy controls using Google Tag Manager
-  server containers. Covers first-party data collection, IP anonymization, consent-aware
-  event forwarding, and reducing client-side third-party cookie exposure.
+description: Use when implementing server-side tracking with privacy controls using
+  Google Tag Manager server containers. Covers first-party data collection, IP anonymization,
+  consent-aware event forwarding, and reducing client-side third-party cookie exposure.
+  Do NOT use for backend database connection pooling or server-side cache control.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cookie-consent-compliance
-  tags: "server-side-tracking, gtm-server, first-party-data, ip-anonymization, consent-forwarding"
+  tags: server-side-tracking, gtm-server, first-party-data, ip-anonymization, consent-forwarding
 ---
 
 # Server-Side Tracking with Privacy Controls

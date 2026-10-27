@@ -1,20 +1,19 @@
 ---
 name: dpia-register-mgmt
-description: >-
-  Manages the organisational DPIA register tracking all Data Protection Impact
-  Assessments across the enterprise. Covers DPIA lifecycle management, status
-  tracking, review scheduling, Art. 35(11) periodic reassessment, and
-  supervisory authority reporting. Implements a centralised register linking
-  DPIAs to RoPA entries, risk registers, and mitigation plans. Keywords:
-  DPIA register, DPIA tracking, Art. 35(11), review schedule, DPIA lifecycle,
-  centralised register, DPIA portfolio management.
+description: 'Use when managing the organisational DPIA register tracking all Data
+  Protection Impact Assessments across the enterprise. Covers DPIA lifecycle management,
+  status tracking, review scheduling, Art. 35(11) periodic reassessment, and supervisory
+  authority reporting. Implements a centralised register linking DPIAs to RoPA entries,
+  risk registers, and mitigation plans. Keywords: DPIA register, DPIA tracking, Art.
+  35(11), review schedule, DPIA lifecycle, centralised register, DPIA portfolio management.
+  Do NOT use for routine software feature roadmap planning or general QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "dpia-register, dpia-tracking, art-35-11, review-schedule, dpia-lifecycle"
+  tags: dpia-register, dpia-tracking, art-35-11, review-schedule, dpia-lifecycle
 ---
 
 # DPIA Register Management

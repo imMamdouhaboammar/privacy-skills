@@ -1,19 +1,19 @@
 ---
 name: health-data-dpia
-description: >-
-  Guides DPIA for health and medical data processing covering Art. 9(2)(h)-(j)
-  exemptions, HIPAA crosswalk for transatlantic operations, clinical trial
-  data protection under EU CTR 536/2014, and genetic data specifics under
-  Art. 9(1). Activate for healthcare systems, clinical research, health
-  apps, or medical device data. Keywords: health data, DPIA, Art. 9,
-  clinical trial, genetic data, HIPAA, medical records, special category.
+description: 'Use when guiding or evaluating DPIA for health and medical data processing
+  covering Art. 9(2)(h)-(j) exemptions, HIPAA crosswalk for transatlantic operations,
+  clinical trial data protection under EU CTR 536/2014, and genetic data specifics
+  under Art. 9(1). Activate for healthcare systems, clinical research, health apps,
+  or medical device data. Keywords: health data, DPIA, Art. 9, clinical trial, genetic
+  data, HIPAA, medical records, special category. Do NOT use for routine software
+  feature roadmap planning or general QA testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-impact-assessment
-  tags: "health-data, dpia, art-9, clinical-trial, genetic-data, hipaa"
+  tags: health-data, dpia, art-9, clinical-trial, genetic-data, hipaa
 ---
 
 # Assessing Health Data Processing

@@ -1,17 +1,18 @@
 ---
 name: purpose-based-access
-description: >-
-  Design and implement Purpose-Based Access Control (PBAC) architecture including
-  purpose ontology definition, policy engine configuration, audit logging of
-  purpose verification at query time, and integration with existing IAM systems.
-  Enforces GDPR Article 5(1)(b) purpose limitation technically.
+description: Use when design and implement Purpose-Based Access Control (PBAC) architecture
+  including purpose ontology definition, policy engine configuration, audit logging
+  of purpose verification at query time, and integration with existing IAM systems.
+  Enforces GDPR Article 5(1)(b) purpose limitation technically. Do NOT use for generic
+  mathematical computing or non-privacy algorithm benchmarking.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-engineering
-  tags: "purpose-based-access-control, pbac, purpose-limitation, access-policy-engine, privacy-engineering"
+  tags: purpose-based-access-control, pbac, purpose-limitation, access-policy-engine,
+    privacy-engineering
 ---
 
 # Purpose-Based Access Control (PBAC) Architecture

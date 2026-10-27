@@ -1,17 +1,18 @@
 ---
 name: personal-data-test
-description: >-
-  Classifies personal vs non-personal data per GDPR Art. 4(1) definition test
-  with decision tree for borderline cases. References Breyer v Germany CJEU
-  C-582/14 dynamic IP ruling and WP29 Opinion 4/2007. Keywords: personal data,
-  GDPR Art 4, data classification, Breyer ruling, identifiability test, PII.
+description: 'Use when classifying personal vs non-personal data per GDPR Art. 4(1)
+  definition test with decision tree for borderline cases. References Breyer v Germany
+  CJEU C-582/14 dynamic IP ruling and WP29 Opinion 4/2007. Keywords: personal data,
+  GDPR Art 4, data classification, Breyer ruling, identifiability test, PII. Do NOT
+  use for database index optimization or generic code refactoring.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-classification
-  tags: "personal-data, gdpr-art-4, classification, breyer-ruling, identifiability, pii"
+  tags: personal-data, gdpr-art-4, classification, breyer-ruling, identifiability,
+    pii
 ---
 
 # Personal Data Classification Test — GDPR Art. 4(1)

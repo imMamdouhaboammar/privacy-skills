@@ -1,17 +1,17 @@
 ---
 name: implementing-data-minimization-architecture
-description: >-
-  Architecture patterns for GDPR Article 5(1)(c) data minimization and Article 25(1)
-  data protection by design. Covers field-level encryption, data masking, aggregation,
-  pseudonymization per Article 4(5), and anonymization per Recital 26. Includes ENISA
-  pseudonymization techniques and a data minimization assessment matrix.
+description: Use when architecture patterns for GDPR Article 5(1)(c) data minimization
+  and Article 25(1) data protection by design. Covers field-level encryption, data
+  masking, aggregation, pseudonymization per Article 4(5), and anonymization per Recital
+  26. Includes ENISA pseudonymization techniques and a data minimization assessment
+  matrix. Do NOT use for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "data-minimization, article-25, pseudonymization, anonymization, field-level-encryption"
+  tags: data-minimization, article-25, pseudonymization, anonymization, field-level-encryption
 ---
 
 # Implementing Data Minimization Architecture

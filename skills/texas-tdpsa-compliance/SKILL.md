@@ -1,17 +1,17 @@
 ---
 name: texas-tdpsa-compliance
-description: >-
-  Texas Data Privacy and Security Act (TDPSA) compliance. No revenue
-  threshold applies to all businesses. Covers data broker registration
-  requirements, biometric identifier provisions under CUBI, consumer
-  rights, AG enforcement, and 30-day cure period. Effective July 1, 2024.
+description: Use when texas Data Privacy and Security Act (TDPSA) compliance. No revenue
+  threshold applies to all businesses. Covers data broker registration requirements,
+  biometric identifier provisions under CUBI, consumer rights, AG enforcement, and
+  30-day cure period. Effective July 1, 2024. Do NOT use for pure EU GDPR cross-border
+  matters or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "tdpsa, texas-privacy, data-broker, biometric, no-revenue-threshold"
+  tags: tdpsa, texas-privacy, data-broker, biometric, no-revenue-threshold
 ---
 
 # Texas Data Privacy and Security Act (TDPSA)

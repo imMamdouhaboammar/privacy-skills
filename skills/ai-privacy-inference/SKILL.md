@@ -1,17 +1,17 @@
 ---
 name: ai-privacy-inference
-description: >-
-  Managing privacy risks from AI-driven inferences about individuals including
-  derived data classification, profiling under GDPR Art. 22, inference accuracy
-  obligations, and controlling automated personality/behaviour predictions.
-  Keywords: AI inference, derived data, profiling, automated predictions, GDPR.
+description: 'Use when managing privacy risks from AI-driven inferences about individuals
+  including derived data classification, profiling under GDPR Art. 22, inference accuracy
+  obligations, and controlling automated personality/behaviour predictions. Keywords:
+  AI inference, derived data, profiling, automated predictions, GDPR. Do NOT use for
+  general non-AI database migrations or basic web styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: ai-privacy-governance
-  tags: "ai-inference, derived-data, profiling, automated-predictions, gdpr-art-22"
+  tags: ai-inference, derived-data, profiling, automated-predictions, gdpr-art-22
 ---
 
 # AI Privacy Inference and Derived Data

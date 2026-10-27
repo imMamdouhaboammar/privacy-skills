@@ -1,19 +1,19 @@
 ---
 name: gdpr-accountability
-description: >-
-  Guides implementation of the GDPR accountability principle under Articles 5(2)
-  and 24, including documentation requirements for policies, DPIAs, RoPA, training
-  records, and breach logs. Activate when establishing or reviewing accountability
-  measures, preparing evidence portfolios, or demonstrating compliance to
-  supervisory authorities. Keywords: accountability, Article 5(2), Article 24,
-  documentation, compliance evidence, governance.
+description: 'Use when guiding or evaluating implementation of the GDPR accountability
+  principle under Articles 5(2) and 24, including documentation requirements for policies,
+  DPIAs, RoPA, training records, and breach logs. Activate when establishing or reviewing
+  accountability measures, preparing evidence portfolios, or demonstrating compliance
+  to supervisory authorities. Keywords: accountability, Article 5(2), Article 24,
+  documentation, compliance evidence, governance. Do NOT use for non-GDPR US-only
+  local state compliance or general software testing.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: gdpr-compliance
-  tags: "gdpr, accountability, article-5, article-24, documentation, governance"
+  tags: gdpr, accountability, article-5, article-24, documentation, governance
 ---
 
 # Implementing GDPR Accountability Framework

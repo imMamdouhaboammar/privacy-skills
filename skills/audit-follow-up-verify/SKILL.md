@@ -1,19 +1,20 @@
 ---
 name: audit-follow-up-verify
-description: >-
-  Guides audit follow-up and verification processes including follow-up scheduling,
-  remediation effectiveness testing, finding closure criteria, re-testing procedures,
-  status reporting, and escalation of unremediated findings. Implements IIA Standard
-  2500 monitoring requirements and ISO 19011 follow-up guidance for privacy audit
-  engagements. Keywords: audit follow-up, verification testing, finding closure,
-  remediation effectiveness, re-testing, follow-up audit.
+description: 'Use when guiding or evaluating audit follow-up and verification processes
+  including follow-up scheduling, remediation effectiveness testing, finding closure
+  criteria, re-testing procedures, status reporting, and escalation of unremediated
+  findings. Implements IIA Standard 2500 monitoring requirements and ISO 19011 follow-up
+  guidance for privacy audit engagements. Keywords: audit follow-up, verification
+  testing, finding closure, remediation effectiveness, re-testing, follow-up audit.
+  Do NOT use for routine code unit test suites or continuous integration pipelines.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-audit-certification
-  tags: "audit-follow-up, verification-testing, finding-closure, remediation-effectiveness, re-testing"
+  tags: audit-follow-up, verification-testing, finding-closure, remediation-effectiveness,
+    re-testing
 ---
 
 # Audit Follow-Up and Verification

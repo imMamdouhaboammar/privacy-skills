@@ -1,18 +1,17 @@
 ---
 name: ai-bias-special-category
-description: >-
-  Assesses AI bias risks for GDPR Art. 9 special category data and AI Act
-  Art. 10 data governance. Covers fairness metrics, bias detection methods,
-  mitigation strategies, and documentation requirements for protected
-  characteristics. Keywords: AI bias, special category, fairness metrics,
-  discrimination, Art. 9, Art. 10.
+description: 'Use when assessing AI bias risks for GDPR Art. 9 special category data
+  and AI Act Art. 10 data governance. Covers fairness metrics, bias detection methods,
+  mitigation strategies, and documentation requirements for protected characteristics.
+  Keywords: AI bias, special category, fairness metrics, discrimination, Art. 9, Art.
+  10. Do NOT use for general non-AI database migrations or basic web styling.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: ai-privacy-governance
-  tags: "ai-bias, special-category, fairness-metrics, discrimination, art-9, data-governance"
+  tags: ai-bias, special-category, fairness-metrics, discrimination, art-9, data-governance
 ---
 
 # AI Bias Assessment for Special Category Data

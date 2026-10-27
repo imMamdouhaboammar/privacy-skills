@@ -1,17 +1,16 @@
 ---
 name: vendor-risk-scoring
-description: >-
-  Vendor privacy risk tiering methodology for processor management. Covers
-  scoring factors including data volume, sensitivity, transfer locations,
-  certifications, breach history, and control maturity with weighted risk
-  calculation and tier assignment.
+description: Use when vendor privacy risk tiering methodology for processor management.
+  Covers scoring factors including data volume, sensitivity, transfer locations, certifications,
+  breach history, and control maturity with weighted risk calculation and tier assignment.
+  Do NOT use for internal employee performance evaluations or routine office procurement.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: vendor-privacy-management
-  tags: "vendor-risk-scoring, risk-tiering, privacy-risk, vendor-assessment, control-maturity"
+  tags: vendor-risk-scoring, risk-tiering, privacy-risk, vendor-assessment, control-maturity
 ---
 
 # Vendor Privacy Risk Scoring

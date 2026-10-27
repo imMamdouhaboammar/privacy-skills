@@ -1,18 +1,19 @@
 ---
 name: hipaa-baa-management
-description: >-
-  Manages HIPAA Business Associate Agreements under 45 CFR §164.502(e) and
-  §164.504(e). Covers required BAA provisions, business associate vs
-  subcontractor obligations, breach notification chain, downstream BA
-  requirements, and termination remedies. Keywords: BAA, business associate,
-  subcontractor, HIPAA compliance, PHI disclosure, termination.
+description: "Use when managing HIPAA Business Associate Agreements under 45 CFR \xA7\
+  164.502(e) and \xA7164.504(e). Covers required BAA provisions, business associate\
+  \ vs subcontractor obligations, breach notification chain, downstream BA requirements,\
+  \ and termination remedies. Keywords: BAA, business associate, subcontractor, HIPAA\
+  \ compliance, PHI disclosure, termination. Do NOT use for non-medical commercial\
+  \ retail apps or general e-commerce analytics."
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hipaa, baa, business-associate, subcontractor, phi-disclosure, termination, compliance"
+  tags: hipaa, baa, business-associate, subcontractor, phi-disclosure, termination,
+    compliance
 ---
 
 # HIPAA Business Associate Agreement Management — §164.502(e), §164.504(e)

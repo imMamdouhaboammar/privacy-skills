@@ -1,19 +1,18 @@
 ---
 name: nigeria-ndpr
-description: >-
-  Nigeria Data Protection Regulation (NDPR) and Nigeria Data Protection Act
-  (NDPA) 2023 compliance. Covers lawful basis for processing, data subject
-  rights, cross-border transfer mechanisms, Data Protection Compliance
-  Organisation (DPCO) registration, mandatory DPIA filing, and breach
-  notification. Keywords: NDPR, NDPA, Nigeria, NITDA, DPCO, Africa data
-  protection, cross-border transfer.
+description: 'Use when nigeria Data Protection Regulation (NDPR) and Nigeria Data
+  Protection Act (NDPA) 2023 compliance. Covers lawful basis for processing, data
+  subject rights, cross-border transfer mechanisms, Data Protection Compliance Organisation
+  (DPCO) registration, mandatory DPIA filing, and breach notification. Keywords: NDPR,
+  NDPA, Nigeria, NITDA, DPCO, Africa data protection, cross-border transfer. Do NOT
+  use for generic software engineering or non-privacy legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "ndpr, ndpa, nigeria, nitda, dpco, africa-data-protection"
+  tags: ndpr, ndpa, nigeria, nitda, dpco, africa-data-protection
 ---
 
 # Nigeria Data Protection Regulation (NDPR) and Nigeria Data Protection Act (NDPA)

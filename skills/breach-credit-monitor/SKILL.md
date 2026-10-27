@@ -1,19 +1,19 @@
 ---
 name: breach-credit-monitor
-description: >-
-  Coordinates credit monitoring and identity theft protection services for
-  individuals affected by a data breach. Covers vendor selection criteria,
-  enrollment logistics, coverage duration (12-24 months), identity theft
-  insurance options, communication to affected individuals, and enrollment
-  rate tracking. Keywords: credit monitoring, identity protection, breach
-  response, Experian, enrollment, identity theft insurance.
+description: 'Use when coordinates credit monitoring and identity theft protection
+  services for individuals affected by a data breach. Covers vendor selection criteria,
+  enrollment logistics, coverage duration (12-24 months), identity theft insurance
+  options, communication to affected individuals, and enrollment rate tracking. Keywords:
+  credit monitoring, identity protection, breach response, Experian, enrollment, identity
+  theft insurance. Do NOT use for routine non-security application bug triage or scheduled
+  system downtime notices.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: data-breach-response
-  tags: "credit-monitoring, identity-protection, breach-response, enrollment, identity-theft"
+  tags: credit-monitoring, identity-protection, breach-response, enrollment, identity-theft
 ---
 
 # Managing Breach Credit Monitoring

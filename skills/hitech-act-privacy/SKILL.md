@@ -1,18 +1,19 @@
 ---
 name: hitech-act-privacy
-description: >-
-  Implements HITECH Act privacy and security requirements including breach
-  notification expansion, four-tier penalty structure, state attorney general
-  enforcement authority, EHR meaningful use privacy conditions, and business
-  associate direct liability. Keywords: HITECH Act, breach notification,
-  penalty tiers, state AG enforcement, meaningful use, EHR privacy.
+description: 'Use when implementing HITECH Act privacy and security requirements including
+  breach notification expansion, four-tier penalty structure, state attorney general
+  enforcement authority, EHR meaningful use privacy conditions, and business associate
+  direct liability. Keywords: HITECH Act, breach notification, penalty tiers, state
+  AG enforcement, meaningful use, EHR privacy. Do NOT use for non-medical commercial
+  retail apps or general e-commerce analytics.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: healthcare-privacy
-  tags: "hitech-act, breach-notification, penalty-tiers, state-ag-enforcement, meaningful-use, ehr-privacy"
+  tags: hitech-act, breach-notification, penalty-tiers, state-ag-enforcement, meaningful-use,
+    ehr-privacy
 ---
 
 # HITECH Act Privacy and Security Requirements

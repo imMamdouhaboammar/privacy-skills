@@ -1,17 +1,17 @@
 ---
 name: colorado-cpa-compliance
-description: >-
-  Colorado Privacy Act (CPA) compliance implementation. Covers universal
-  opt-out mechanism required since July 2024, profiling opt-out rights,
-  sensitive data consent requirements, AG rulemaking under 4 CCR 904-3,
-  and consumer rights framework. Effective July 1, 2023.
+description: Use when colorado Privacy Act (CPA) compliance implementation. Covers
+  universal opt-out mechanism required since July 2024, profiling opt-out rights,
+  sensitive data consent requirements, AG rulemaking under 4 CCR 904-3, and consumer
+  rights framework. Effective July 1, 2023. Do NOT use for pure EU GDPR cross-border
+  matters or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "colorado-cpa, universal-opt-out, profiling, sensitive-data, ag-rulemaking"
+  tags: colorado-cpa, universal-opt-out, profiling, sensitive-data, ag-rulemaking
 ---
 
 # Colorado Privacy Act (CPA) Compliance

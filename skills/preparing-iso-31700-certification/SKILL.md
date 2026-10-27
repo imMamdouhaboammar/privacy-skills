@@ -1,17 +1,17 @@
 ---
 name: preparing-iso-31700-certification
-description: >-
-  Preparation guide for ISO 31700 privacy by design for consumer goods certification.
-  Covers the 30 requirements across design, production, and disposal phases. Includes
-  gap assessment methodology, remediation planning, and mapping to GDPR Article 25
-  data protection by design obligations for consumer-facing products and services.
+description: Use when preparation guide for ISO 31700 privacy by design for consumer
+  goods certification. Covers the 30 requirements across design, production, and disposal
+  phases. Includes gap assessment methodology, remediation planning, and mapping to
+  GDPR Article 25 data protection by design obligations for consumer-facing products
+  and services. Do NOT use for aesthetic UI themes or superficial CSS component styling.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: privacy-by-design
-  tags: "iso-31700, privacy-by-design, certification, consumer-goods, gap-assessment"
+  tags: iso-31700, privacy-by-design, certification, consumer-goods, gap-assessment
 ---
 
 # Preparing ISO 31700 Certification

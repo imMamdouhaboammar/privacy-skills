@@ -1,17 +1,17 @@
 ---
 name: vcdpa-compliance
-description: >-
-  Virginia Consumer Data Protection Act (VCDPA) compliance implementation.
-  Covers 5 consumer rights, controller obligations, processor requirements,
-  opt-in for sensitive data, data protection impact assessments, AG
-  enforcement, and cure period provisions. Effective January 1, 2023.
+description: Use when virginia Consumer Data Protection Act (VCDPA) compliance implementation.
+  Covers 5 consumer rights, controller obligations, processor requirements, opt-in
+  for sensitive data, data protection impact assessments, AG enforcement, and cure
+  period provisions. Effective January 1, 2023. Do NOT use for pure EU GDPR cross-border
+  matters or non-US regional frameworks.
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: us-state-privacy-laws
-  tags: "vcdpa, virginia-privacy, consumer-rights, dpia, ag-enforcement"
+  tags: vcdpa, virginia-privacy, consumer-rights, dpia, ag-enforcement
 ---
 
 # Virginia Consumer Data Protection Act (VCDPA)

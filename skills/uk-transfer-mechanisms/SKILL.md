@@ -1,17 +1,17 @@
 ---
 name: uk-transfer-mechanisms
-description: >-
-  Guides implementation of UK international data transfer mechanisms post-Brexit
-  including the International Data Transfer Agreement (IDTA), UK Addendum to EU
-  SCCs, UK adequacy assessments, and ICO transfer risk assessment tool. Keywords:
-  UK IDTA, UK addendum, ICO TRA, post-Brexit transfers, UK GDPR.
+description: 'Use when guiding or evaluating implementation of UK international data
+  transfer mechanisms post-Brexit including the International Data Transfer Agreement
+  (IDTA), UK Addendum to EU SCCs, UK adequacy assessments, and ICO transfer risk assessment
+  tool. Keywords: UK IDTA, UK addendum, ICO TRA, post-Brexit transfers, UK GDPR. Do
+  NOT use for intra-datacenter local networking or single-jurisdiction domestic operations.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cross-border-transfers
-  tags: "uk-idta, uk-addendum, ico-transfer-risk, post-brexit, uk-gdpr"
+  tags: uk-idta, uk-addendum, ico-transfer-risk, post-brexit, uk-gdpr
 ---
 
 # Implementing UK International Data Transfer Mechanisms

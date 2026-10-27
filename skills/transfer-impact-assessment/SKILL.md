@@ -1,18 +1,18 @@
 ---
 name: transfer-impact-assessment
-description: >-
-  Guides the post-Schrems II Transfer Impact Assessment process following EDPB
-  Recommendations 01/2020 six-step methodology. Covers destination country
-  surveillance law assessment, European Essential Guarantees evaluation, and
+description: 'Use when guiding or evaluating the post-Schrems II Transfer Impact Assessment
+  process following EDPB Recommendations 01/2020 six-step methodology. Covers destination
+  country surveillance law assessment, European Essential Guarantees evaluation, and
   supplementary measures determination. Keywords: TIA, transfer impact assessment,
-  Schrems II, EDPB recommendations, supplementary measures.
+  Schrems II, EDPB recommendations, supplementary measures. Do NOT use for intra-datacenter
+  local networking or single-jurisdiction domestic operations.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: cross-border-transfers
-  tags: "tia, transfer-impact-assessment, schrems-ii, edpb-recommendations, surveillance-assessment"
+  tags: tia, transfer-impact-assessment, schrems-ii, edpb-recommendations, surveillance-assessment
 ---
 
 # Conducting Transfer Impact Assessment

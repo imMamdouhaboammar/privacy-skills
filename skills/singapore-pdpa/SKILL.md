@@ -1,17 +1,18 @@
 ---
 name: singapore-pdpa
-description: >-
-  Guides compliance with Singapore's Personal Data Protection Act 2012 (PDPA). Covers
-  PDPC advisory guidelines, Do Not Call Registry, data intermediary obligations, deemed
-  consent, notification requirements, and the 2020-2021 amendments. Keywords: Singapore
-  PDPA, PDPC, Do Not Call Registry, deemed consent, data intermediary, advisory guidelines.
+description: 'Use when guiding or evaluating compliance with Singapore''s Personal
+  Data Protection Act 2012 (PDPA). Covers PDPC advisory guidelines, Do Not Call Registry,
+  data intermediary obligations, deemed consent, notification requirements, and the
+  2020-2021 amendments. Keywords: Singapore PDPA, PDPC, Do Not Call Registry, deemed
+  consent, data intermediary, advisory guidelines. Do NOT use for generic software
+  engineering or non-privacy legal documentation.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: global-privacy-regulations
-  tags: "singapore-pdpa, pdpc, do-not-call-registry, deemed-consent, data-intermediary"
+  tags: singapore-pdpa, pdpc, do-not-call-registry, deemed-consent, data-intermediary
 ---
 
 # Singapore PDPA Compliance

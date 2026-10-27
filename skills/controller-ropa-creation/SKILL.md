@@ -1,19 +1,19 @@
 ---
 name: controller-ropa-creation
-description: >-
-  Creates GDPR Article 30(1) Records of Processing Activities (RoPA) for data
-  controllers with all seven mandatory fields: controller identity and contact
-  details, processing purposes, data subject categories, personal data
-  categories, recipient categories, third country transfers, and retention
-  periods. Includes Python generator for automated RoPA creation. Activate for
-  controller RoPA, Art. 30(1), processing records, data mapping.
+description: 'Use when creating GDPR Article 30(1) Records of Processing Activities
+  (RoPA) for data controllers with all seven mandatory fields: controller identity
+  and contact details, processing purposes, data subject categories, personal data
+  categories, recipient categories, third country transfers, and retention periods.
+  Includes Python generator for automated RoPA creation. Activate for controller RoPA,
+  Art. 30(1), processing records, data mapping. Do NOT use for general database schema
+  migration scripts or query execution planning.'
 license: Apache-2.0
 metadata:
   author: mukul975
-  version: "1.0"
+  version: '1.0'
   domain: privacy
   subdomain: records-of-processing
-  tags: "gdpr, article-30, ropa, controller, processing-records, data-mapping, accountability"
+  tags: gdpr, article-30, ropa, controller, processing-records, data-mapping, accountability
 ---
 
 # Controller RoPA Creation
